@@ -1,0 +1,29 @@
+<map id="MipsSelectionDAGInfo.h" name="MipsSelectionDAGInfo.h">
+<area shape="rect" id="node2" href="$MipsTargetMachine_8h.html" title="MipsTargetMachine.h" alt="" coords="1887,80,2033,107"/>
+<area shape="rect" id="node3" href="$Mips16HardFloat_8h.html" title="Mips16HardFloat.h" alt="" coords="883,155,1013,181"/>
+<area shape="rect" id="node5" href="$MipsTargetMachine_8cpp.html" title="MipsTargetMachine.cpp" alt="" coords="721,304,879,331"/>
+<area shape="rect" id="node6" href="$Mips16InstrInfo_8cpp.html" title="Mips16InstrInfo.cpp" alt="" coords="1257,155,1391,181"/>
+<area shape="rect" id="node7" href="$MipsISelDAGToDAG_8h.html" title="MipsISelDAGToDAG.h" alt="" coords="341,155,494,181"/>
+<area shape="rect" id="node14" href="$Mips16ISelLowering_8cpp.html" title="Mips16ISelLowering.cpp" alt="" coords="1415,155,1577,181"/>
+<area shape="rect" id="node15" href="$MipsCodeEmitter_8cpp.html" title="MipsCodeEmitter.cpp" alt="" coords="1601,155,1745,181"/>
+<area shape="rect" id="node16" href="$MipsConstantIslandPass_8cpp.html" title="MipsConstantIslandPass.cpp" alt="" coords="1769,155,1956,181"/>
+<area shape="rect" id="node17" href="$MipsDelaySlotFiller_8cpp.html" title="MipsDelaySlotFiller.cpp" alt="" coords="1981,155,2137,181"/>
+<area shape="rect" id="node18" href="$MipsFrameLowering_8cpp.html" title="MipsFrameLowering.cpp" alt="" coords="2161,155,2322,181"/>
+<area shape="rect" id="node19" href="$MipsInstrInfo_8cpp.html" title="MipsInstrInfo.cpp" alt="" coords="2347,155,2467,181"/>
+<area shape="rect" id="node20" href="$MipsISelLowering_8cpp.html" title="MipsISelLowering.cpp" alt="" coords="2491,155,2637,181"/>
+<area shape="rect" id="node21" href="$MipsLongBranch_8cpp.html" title="MipsLongBranch.cpp" alt="" coords="2662,155,2805,181"/>
+<area shape="rect" id="node22" href="$MipsModuleISelDAGToDAG_8h.html" title="MipsModuleISelDAGToDAG.h" alt="" coords="664,155,859,181"/>
+<area shape="rect" id="node23" href="$MipsOs16_8h.html" title="MipsOs16.h" alt="" coords="1089,155,1178,181"/>
+<area shape="rect" id="node25" href="$MipsSEInstrInfo_8cpp.html" title="MipsSEInstrInfo.cpp" alt="" coords="2829,155,2966,181"/>
+<area shape="rect" id="node26" href="$MipsSEISelLowering_8cpp.html" title="MipsSEISelLowering.cpp" alt="" coords="2990,155,3154,181"/>
+<area shape="rect" id="node27" href="$MipsSelectionDAGInfo_8cpp.html" title="MipsSelectionDAGInfo.cpp" alt="" coords="3178,155,3355,181"/>
+<area shape="rect" id="node28" href="$MipsSubtarget_8cpp.html" title="MipsSubtarget.cpp" alt="" coords="3379,155,3509,181"/>
+<area shape="rect" id="node4" href="$Mips16HardFloat_8cpp.html" title="Mips16HardFloat.cpp" alt="" coords="863,229,1006,256"/>
+<area shape="rect" id="node8" href="$Mips16ISelDAGToDAG_8h.html" title="Mips16ISelDAGToDAG.h" alt="" coords="90,229,257,256"/>
+<area shape="rect" id="node10" href="$MipsISelDAGToDAG_8cpp.html" title="MipsISelDAGToDAG.cpp" alt="" coords="211,304,378,331"/>
+<area shape="rect" id="node11" href="$MipsSEISelDAGToDAG_8h.html" title="MipsSEISelDAGToDAG.h" alt="" coords="332,229,503,256"/>
+<area shape="rect" id="node13" href="$MipsModuleISelDAGToDAG_8cpp.html" title="MipsModuleISelDAGToDAG.cpp" alt="" coords="527,229,737,256"/>
+<area shape="rect" id="node9" href="$Mips16ISelDAGToDAG_8cpp.html" title="Mips16ISelDAGToDAG.cpp" alt="" coords="5,304,187,331"/>
+<area shape="rect" id="node12" href="$MipsSEISelDAGToDAG_8cpp.html" title="MipsSEISelDAGToDAG.cpp" alt="" coords="403,304,587,331"/>
+<area shape="rect" id="node24" href="$MipsOs16_8cpp.html" title="MipsOs16.cpp" alt="" coords="1082,229,1185,256"/>
+</map>

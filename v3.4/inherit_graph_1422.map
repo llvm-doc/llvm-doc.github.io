@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelperCommon.html" title="llvm::object::ELFDataType\lTypedefHelperCommon\&lt; TargetEndianness,\l MaxAlign \&gt;" alt="" coords="5,61,280,117"/>
+<area shape="rect" id="node2" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_01_4.html" title="ELF 32bit types. " alt="" coords="328,5,527,76"/>
+<area shape="rect" id="node3" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html" title="ELF 64bit types. " alt="" coords="328,100,527,171"/>
+</map>

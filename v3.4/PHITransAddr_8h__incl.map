@@ -1,0 +1,21 @@
+<map id="PHITransAddr.h" name="PHITransAddr.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="362,379,521,405"/>
+<area shape="rect" id="node19" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1247,80,1383,107"/>
+<area shape="rect" id="node3" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="994,453,1145,480"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1327,535,1486,562"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="91,453,263,480"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="606,535,773,562"/>
+<area shape="rect" id="node8" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="383,535,582,562"/>
+<area shape="rect" id="node20" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1243,155,1386,181"/>
+<area shape="rect" id="node21" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="1117,155,1219,181"/>
+<area shape="rect" id="node32" href="$DebugLoc_8h.html" title="llvm/Support/DebugLoc.h" alt="" coords="1586,229,1753,256"/>
+<area shape="rect" id="node22" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1105,229,1213,256"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1181,379,1366,405"/>
+<area shape="rect" id="node23" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="1087,304,1185,331"/>
+<area shape="rect" id="node26" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="890,379,1105,405"/>
+<area shape="rect" id="node27" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="653,453,803,480"/>
+<area shape="rect" id="node28" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1442,379,1539,405"/>
+<area shape="rect" id="node24" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1169,453,1337,480"/>
+<area shape="rect" id="node25" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1139,528,1301,569"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="827,453,970,480"/>
+</map>

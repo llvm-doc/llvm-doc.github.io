@@ -1,0 +1,4 @@
+<map id="llvm::is_integral_impl&lt; T &gt;" name="llvm::is_integral_impl&lt; T &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1is__integral.html" title="Metafunction that determines whether the given type is an integral type. " alt="" coords="21,155,160,181"/>
+<area shape="rect" id="node2" href="$structllvm_1_1integral__constant.html" title="false_type" alt="" coords="51,5,131,32"/>
+</map>

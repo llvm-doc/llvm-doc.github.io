@@ -1,0 +1,16 @@
+<map id="AllocationOrder.h" name="AllocationOrder.h">
+<area shape="rect" id="node2" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="634,80,773,107"/>
+<area shape="rect" id="node22" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1126,80,1298,107"/>
+<area shape="rect" id="node3" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="416,155,535,181"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="559,155,718,181"/>
+<area shape="rect" id="node5" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="362,229,512,256"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="260,311,419,338"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="639,229,811,256"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1095,311,1262,338"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="638,311,836,338"/>
+<area shape="rect" id="node23" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1232,155,1383,181"/>
+<area shape="rect" id="node28" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1023,155,1208,181"/>
+<area shape="rect" id="node24" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1396,229,1568,256"/>
+<area shape="rect" id="node25" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1414,304,1577,345"/>
+<area shape="rect" id="node29" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1127,229,1270,256"/>
+</map>

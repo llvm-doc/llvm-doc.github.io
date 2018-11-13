@@ -1,0 +1,25 @@
+var classllvm_1_1MCAsmBackend =
+[
+    [ "MCAsmBackend", "classllvm_1_1MCAsmBackend.html#a7953ce5c1d657237d0f604fb853d89a2", null ],
+    [ "~MCAsmBackend", "classllvm_1_1MCAsmBackend.html#aef724e9aaff584baff8414228b370ebc", null ],
+    [ "applyFixup", "classllvm_1_1MCAsmBackend.html#adc0ddba7950f145db24682ff0c0c53d2", null ],
+    [ "createELFObjectTargetWriter", "classllvm_1_1MCAsmBackend.html#abb1b9ee72e13e3f52cf11532186065b8", null ],
+    [ "createObjectWriter", "classllvm_1_1MCAsmBackend.html#a0b7e51df79582b9fd67476adbc4aee1c", null ],
+    [ "doesSectionRequireSymbols", "classllvm_1_1MCAsmBackend.html#a319962ffd59ed8913d95301d037c5738", null ],
+    [ "fixupNeedsRelaxation", "classllvm_1_1MCAsmBackend.html#a43bb61c3d449466430dc6e571e75fd2c", null ],
+    [ "generateCompactUnwindEncoding", "classllvm_1_1MCAsmBackend.html#a941deb773ad5755afc59b89be2132c24", null ],
+    [ "getFixupKindInfo", "classllvm_1_1MCAsmBackend.html#af13493941b3bbec74f72e7816534bd97", null ],
+    [ "getMinimumNopSize", "classllvm_1_1MCAsmBackend.html#a6ba2b21af9f7b712d737af5c0c367f28", null ],
+    [ "getNumFixupKinds", "classllvm_1_1MCAsmBackend.html#ad0398a6cacfda2c1ac09b3cb71ee5654", null ],
+    [ "handleAssemblerFlag", "classllvm_1_1MCAsmBackend.html#a3745e4df8defc9a3eafb48786398f8e6", null ],
+    [ "hasDataInCodeSupport", "classllvm_1_1MCAsmBackend.html#a6a3b61f981223bf412954df9cee76e86", null ],
+    [ "hasReliableSymbolDifference", "classllvm_1_1MCAsmBackend.html#ac61e61c9b9ed2e03d90a55db6159c873", null ],
+    [ "isSectionAtomizable", "classllvm_1_1MCAsmBackend.html#ad92a6ac74a6d27dc25aa293fd78b98f0", null ],
+    [ "mayNeedRelaxation", "classllvm_1_1MCAsmBackend.html#ac2996dba2ecb84bd6734f3c898ec54d2", null ],
+    [ "processFixupValue", "classllvm_1_1MCAsmBackend.html#af87290ac04f820e2acf829d1d16edab9", null ],
+    [ "relaxInstruction", "classllvm_1_1MCAsmBackend.html#a2e9154ab4a4e32d8ee3caf74d4ed25cf", null ],
+    [ "reset", "classllvm_1_1MCAsmBackend.html#ac0fe81b089903ff8c1d8593fee9a0156", null ],
+    [ "writeNopData", "classllvm_1_1MCAsmBackend.html#a37248bcb38dd1e74f7f641388f131724", null ],
+    [ "HasDataInCodeSupport", "classllvm_1_1MCAsmBackend.html#a4316e3034314319751f02fa65f99830d", null ],
+    [ "HasReliableSymbolDifference", "classllvm_1_1MCAsmBackend.html#a69af5e631d6e03b1245d1c201ed46c76", null ]
+];

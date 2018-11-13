@@ -1,0 +1,15 @@
+<map id="Verifier.h" name="Verifier.h">
+<area shape="rect" id="node2" href="$LinkAllIR_8h.html" title="LinkAllIR.h" alt="" coords="5,80,89,107"/>
+<area shape="rect" id="node3" href="$Analysis_2Analysis_8cpp.html" title="Analysis.cpp" alt="" coords="114,80,207,107"/>
+<area shape="rect" id="node4" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="232,80,319,107"/>
+<area shape="rect" id="node5" href="$Verifier_8cpp.html" title="Verifier.cpp" alt="" coords="343,80,429,107"/>
+<area shape="rect" id="node6" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="453,80,612,107"/>
+<area shape="rect" id="node7" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="636,80,811,107"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="835,80,1025,107"/>
+<area shape="rect" id="node9" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="1049,80,1213,107"/>
+<area shape="rect" id="node10" href="$Scalar_8cpp.html" title="Scalar.cpp" alt="" coords="1238,80,1321,107"/>
+<area shape="rect" id="node11" href="$CodeExtractor_8cpp.html" title="CodeExtractor.cpp" alt="" coords="1345,80,1472,107"/>
+<area shape="rect" id="node12" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="1496,80,1623,107"/>
+<area shape="rect" id="node13" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="1647,80,1775,107"/>
+<area shape="rect" id="node14" href="$Vectorize_8cpp.html" title="Vectorize.cpp" alt="" coords="1799,80,1898,107"/>
+</map>

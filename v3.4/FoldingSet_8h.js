@@ -1,0 +1,27 @@
+var FoldingSet_8h =
+[
+    [ "FoldingSetImpl", "classllvm_1_1FoldingSetImpl.html", "classllvm_1_1FoldingSetImpl" ],
+    [ "Node", "classllvm_1_1FoldingSetImpl_1_1Node.html", "classllvm_1_1FoldingSetImpl_1_1Node" ],
+    [ "FoldingSetTrait", "structllvm_1_1FoldingSetTrait.html", null ],
+    [ "DefaultFoldingSetTrait", "structllvm_1_1DefaultFoldingSetTrait.html", "structllvm_1_1DefaultFoldingSetTrait" ],
+    [ "FoldingSetTrait", "structllvm_1_1FoldingSetTrait.html", null ],
+    [ "ContextualFoldingSetTrait", "structllvm_1_1ContextualFoldingSetTrait.html", null ],
+    [ "DefaultContextualFoldingSetTrait", "structllvm_1_1DefaultContextualFoldingSetTrait.html", "structllvm_1_1DefaultContextualFoldingSetTrait" ],
+    [ "ContextualFoldingSetTrait", "structllvm_1_1ContextualFoldingSetTrait.html", null ],
+    [ "FoldingSetNodeIDRef", "classllvm_1_1FoldingSetNodeIDRef.html", "classllvm_1_1FoldingSetNodeIDRef" ],
+    [ "FoldingSetNodeID", "classllvm_1_1FoldingSetNodeID.html", "classllvm_1_1FoldingSetNodeID" ],
+    [ "FoldingSetIterator", "classllvm_1_1FoldingSetIterator.html", "classllvm_1_1FoldingSetIterator" ],
+    [ "FoldingSetBucketIterator", "classllvm_1_1FoldingSetBucketIterator.html", "classllvm_1_1FoldingSetBucketIterator" ],
+    [ "FoldingSet", "classllvm_1_1FoldingSet.html", "classllvm_1_1FoldingSet" ],
+    [ "ContextualFoldingSet", "classllvm_1_1ContextualFoldingSet.html", "classllvm_1_1ContextualFoldingSet" ],
+    [ "FoldingSetVectorIterator", "classllvm_1_1FoldingSetVectorIterator.html", "classllvm_1_1FoldingSetVectorIterator" ],
+    [ "FoldingSetVector", "classllvm_1_1FoldingSetVector.html", "classllvm_1_1FoldingSetVector" ],
+    [ "FoldingSetIteratorImpl", "classllvm_1_1FoldingSetIteratorImpl.html", "classllvm_1_1FoldingSetIteratorImpl" ],
+    [ "FoldingSetIterator", "classllvm_1_1FoldingSetIterator.html", "classllvm_1_1FoldingSetIterator" ],
+    [ "FoldingSetBucketIteratorImpl", "classllvm_1_1FoldingSetBucketIteratorImpl.html", "classllvm_1_1FoldingSetBucketIteratorImpl" ],
+    [ "FoldingSetBucketIterator", "classllvm_1_1FoldingSetBucketIterator.html", "classllvm_1_1FoldingSetBucketIterator" ],
+    [ "FoldingSetNodeWrapper", "classllvm_1_1FoldingSetNodeWrapper.html", "classllvm_1_1FoldingSetNodeWrapper" ],
+    [ "FastFoldingSetNode", "classllvm_1_1FastFoldingSetNode.html", "classllvm_1_1FastFoldingSetNode" ],
+    [ "FoldingSetTrait< T * >", "structllvm_1_1FoldingSetTrait_3_01T_01_5_01_4.html", "structllvm_1_1FoldingSetTrait_3_01T_01_5_01_4" ],
+    [ "FoldingSetNode", "FoldingSet_8h.html#a1448a828ccda66276b548cde02e6696d", null ]
+];

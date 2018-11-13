@@ -1,0 +1,5 @@
+<map id="llvm::IRBuilderDefaultInserter&lt; preserveNames &gt;" name="llvm::IRBuilderDefaultInserter&lt; preserveNames &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IRBuilder.html" title="IRBuilder\&lt; true, TargetFolder \&gt;" alt="" coords="5,117,204,143"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IRBuilderDefaultInserter.html" title="llvm::IRBuilderDefaultInserter\l\&lt; true \&gt;" alt="" coords="228,109,416,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstCombineIRInserter.html" title="llvm::InstCombineIRInserter" alt="" coords="233,200,411,227"/>
+</map>

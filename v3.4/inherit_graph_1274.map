@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MCAtom.html" title="Represents a contiguous range of either instructions (a TextAtom) or data (a DataAtom). Address ranges are expressed as closed intervals. " alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCDataAtom.html" title="An atom consising of a sequence of bytes. " alt="" coords="156,5,285,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCTextAtom.html" title="An atom consisting of disassembled instructions. " alt="" coords="157,56,284,83"/>
+</map>

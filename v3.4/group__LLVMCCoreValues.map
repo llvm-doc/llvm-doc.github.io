@@ -1,0 +1,7 @@
+<map id="Values" name="Values">
+<area shape="rect" id="node2" href="$group__LLVMCCoreValueConstant.html" title="Constants" alt="" coords="221,5,299,32"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueGeneral.html" title="General APIs" alt="" coords="211,56,309,83"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreValueUser.html" title="User value" alt="" coords="219,107,301,133"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreValueUses.html" title="Usage" alt="" coords="231,157,289,184"/>
+<area shape="rect" id="node6" href="$group__LLVMCCore.html" title="Core" alt="" coords="5,81,55,108"/>
+</map>

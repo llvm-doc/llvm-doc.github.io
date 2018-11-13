@@ -1,0 +1,4 @@
+<map id="llvm::hashing::detail::is_hashable_data&lt; T &gt;" name="llvm::hashing::detail::is_hashable_data&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; bool,((is_integral_or\l_enum\&lt; T \&gt;::value\|\|is_pointer\l\&lt; T \&gt;::value)&amp;&amp;64%sizeof(T)==0)\&gt;" alt="" coords="564,13,784,83"/>
+<area shape="rect" id="node4" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; T, v \&gt;" alt="" coords="237,61,387,102"/>
+</map>

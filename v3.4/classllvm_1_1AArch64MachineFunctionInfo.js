@@ -1,0 +1,25 @@
+var classllvm_1_1AArch64MachineFunctionInfo =
+[
+    [ "AArch64MachineFunctionInfo", "classllvm_1_1AArch64MachineFunctionInfo.html#ae3ac29379d7f9cc885b52bca97dd6da9", null ],
+    [ "AArch64MachineFunctionInfo", "classllvm_1_1AArch64MachineFunctionInfo.html#a01023faaded3fa012e8e4596d1809009", null ],
+    [ "getArgumentStackToRestore", "classllvm_1_1AArch64MachineFunctionInfo.html#a3639d615be1ef3a9a3468b241c109103", null ],
+    [ "getBytesInStackArgArea", "classllvm_1_1AArch64MachineFunctionInfo.html#acc7f8549150bba66574f93fcc107a054", null ],
+    [ "getFramePointerOffset", "classllvm_1_1AArch64MachineFunctionInfo.html#a82741e62293956b6bea97e2e6dcb65d0", null ],
+    [ "getInitialStackAdjust", "classllvm_1_1AArch64MachineFunctionInfo.html#aacebbd90c43d4ad97afe4a3538db957a", null ],
+    [ "getNumLocalDynamicTLSAccesses", "classllvm_1_1AArch64MachineFunctionInfo.html#a493014d8789f7d5aa6b2a2a16f282c12", null ],
+    [ "getVariadicFPRIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#a99f8dcdc5ad4a96cc2ab779e1b9a098d", null ],
+    [ "getVariadicFPRSize", "classllvm_1_1AArch64MachineFunctionInfo.html#a7be5a132661cfb4d138b95b0d9a2b280", null ],
+    [ "getVariadicGPRIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#a5a74080082f33fcd6021042660a86c86", null ],
+    [ "getVariadicGPRSize", "classllvm_1_1AArch64MachineFunctionInfo.html#ae2ee5a5deec97943cda9dd08dc9ccdbc", null ],
+    [ "getVariadicStackIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#a0d603088352ec4b7193693bb0ebf2d54", null ],
+    [ "incNumLocalDynamicTLSAccesses", "classllvm_1_1AArch64MachineFunctionInfo.html#a68ff365e2da6862e51f45d46298d7508", null ],
+    [ "setArgumentStackToRestore", "classllvm_1_1AArch64MachineFunctionInfo.html#a9ac3d54fa8fcbade65344591a4d15ee7", null ],
+    [ "setBytesInStackArgArea", "classllvm_1_1AArch64MachineFunctionInfo.html#aeccc662f1a1994e6841d47575c926bcb", null ],
+    [ "setFramePointerOffset", "classllvm_1_1AArch64MachineFunctionInfo.html#a79bf63445c4bbebbc24a204cbd42f54a", null ],
+    [ "setInitialStackAdjust", "classllvm_1_1AArch64MachineFunctionInfo.html#a33da9bf0e084a1196781f56f28af466c", null ],
+    [ "setVariadicFPRIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#ac50de40191189f044685b4244296ad96", null ],
+    [ "setVariadicFPRSize", "classllvm_1_1AArch64MachineFunctionInfo.html#aafbbe3d5af4876703a9b1b9f3058943b", null ],
+    [ "setVariadicGPRIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#a9f0fbde5f08de34635bd005ffa4601cd", null ],
+    [ "setVariadicGPRSize", "classllvm_1_1AArch64MachineFunctionInfo.html#a7af63200f155182bf9b19622c89bb6c0", null ],
+    [ "setVariadicStackIdx", "classllvm_1_1AArch64MachineFunctionInfo.html#af54333e41fc4478c6b8f93ac2bccf113", null ]
+];

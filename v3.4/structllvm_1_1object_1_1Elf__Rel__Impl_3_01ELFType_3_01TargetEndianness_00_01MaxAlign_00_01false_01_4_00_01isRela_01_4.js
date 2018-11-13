@@ -1,0 +1,8 @@
+var structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4 =
+[
+    [ "getSymbol", "structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4.html#ae2d86dd4222acda1bc11337bc9a0de74", null ],
+    [ "getType", "structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4.html#ac1c857d41f0c57b41dd9c98dd644f763", null ],
+    [ "setSymbol", "structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4.html#a70e0e9d3fe12571ffe13c15f3fb8f197", null ],
+    [ "setSymbolAndType", "structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4.html#a5836f40785f40386273aef62c5057743", null ],
+    [ "setType", "structllvm_1_1object_1_1Elf__Rel__Impl_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_00_01isRela_01_4.html#a8e5352e2e87f55e054fc645f611240b1", null ]
+];

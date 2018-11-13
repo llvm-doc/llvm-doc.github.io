@@ -1,0 +1,13 @@
+<map id="llvm::FoldingSetImpl" name="llvm::FoldingSetImpl">
+<area shape="rect" id="node2" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; ListTy \&gt;" alt="" coords="569,235,739,262"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeImpl \&gt;" alt="" coords="581,5,727,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetImpl \&gt;" alt="" coords="581,344,727,385"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::AttributeSetNode \&gt;" alt="" coords="581,73,727,115"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::DIEAbbrev \&gt;" alt="" coords="581,145,727,187"/>
+<area shape="rect" id="node7" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::MDNode \&gt;" alt="" coords="581,411,727,452"/>
+<area shape="rect" id="node8" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SCEV \&gt;" alt="" coords="581,477,727,519"/>
+<area shape="rect" id="node9" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDNode \&gt;" alt="" coords="581,620,727,661"/>
+<area shape="rect" id="node10" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; llvm\l::SDVTListNode \&gt;" alt="" coords="581,547,727,588"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ContextualFoldingSet.html" title="llvm::ContextualFoldingSet\l\&lt; T, Ctx \&gt;" alt="" coords="193,721,368,763"/>
+<area shape="rect" id="node12" href="$classllvm_1_1FoldingSet.html" title="llvm::FoldingSet\&lt; T \&gt;" alt="" coords="209,317,352,343"/>
+</map>

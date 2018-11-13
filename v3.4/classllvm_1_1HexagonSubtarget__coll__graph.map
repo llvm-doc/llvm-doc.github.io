@@ -1,0 +1,7 @@
+<map id="llvm::HexagonSubtarget" name="llvm::HexagonSubtarget">
+<area shape="rect" id="node2" href="$classHexagonGenSubtargetInfo.html" title="HexagonGenSubtargetInfo" alt="" coords="119,333,293,360"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="318,333,467,360"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="5,243,148,269"/>
+<area shape="rect" id="node7" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="453,243,575,269"/>
+<area shape="rect" id="node9" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="629,243,740,269"/>
+</map>

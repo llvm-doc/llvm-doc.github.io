@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['targetcostconstants',['TargetCostConstants',['../classllvm_1_1TargetTransformInfo.html#ac44f6b9fdbb5f9cc199f8329cb0b272c',1,'llvm::TargetTransformInfo']]],
+  ['termops',['TermOps',['../classllvm_1_1Instruction.html#ac9422ce2b7c1a541da2e14f637cb4c10',1,'llvm::Instruction']]],
+  ['ternaryop',['TernaryOp',['../classllvm_1_1TernOpInit.html#a1ff5d7f457766e297bea5baf2c5cf053',1,'llvm::TernOpInit']]],
+  ['threadlocalmode',['ThreadLocalMode',['../classllvm_1_1GlobalVariable.html#a8258421dcc5f4b3beb309a25a4bcb643',1,'llvm::GlobalVariable']]],
+  ['tif',['TIF',['../namespaceR600__InstFlag.html#a23106439cc906be24dc8953eedd3940d',1,'R600_InstFlag']]],
+  ['timeconversions',['TimeConversions',['../classllvm_1_1sys_1_1TimeValue.html#a3db964c7a5ccab6109c9e29842927ff9',1,'llvm::sys::TimeValue']]],
+  ['tlbivalues',['TLBIValues',['../namespacellvm_1_1A64TLBI.html#ab41a8542157bbbd3de836e8075cbb8f8',1,'llvm::A64TLBI']]],
+  ['tof',['TOF',['../namespacellvm_1_1AArch64II.html#ae22a65863fdb02ce99abf9ee08bcbb71',1,'llvm::AArch64II::TOF()'],['../namespacellvm_1_1ARMII.html#ac33037e230d127af6de7945ce02e7e5a',1,'llvm::ARMII::TOF()'],['../namespacellvm_1_1MipsII.html#ab0cf5f5ed4db649fc89a1b41f8b5771f',1,'llvm::MipsII::TOF()'],['../namespacellvm_1_1PPCII.html#ae73836094d8b0399ba10a6e540a363ff',1,'llvm::PPCII::TOF()'],['../namespacellvm_1_1SPII.html#af926bb6382f7fb16d79537f24de5005b',1,'llvm::SPII::TOF()'],['../namespacellvm_1_1X86II.html#a45cdfdabb3963ec52b198ce5d3aabc84',1,'llvm::X86II::TOF()']]],
+  ['tokenkind',['TokenKind',['../classllvm_1_1AsmToken.html#ab4316e41520ea53f789582c25bbec039',1,'llvm::AsmToken::TokenKind()'],['../structllvm_1_1yaml_1_1Token.html#a160e10c0839740601f1138548ddb0531',1,'llvm::yaml::Token::TokenKind()']]],
+  ['tokkind',['TokKind',['../namespacellvm_1_1tgtok.html#abbc5259d649363016626e2529fabe0c5',1,'llvm::tgtok']]],
+  ['transformkind',['TransformKind',['../namespacellvm.html#a72e1beba38b6627c9307ab8b5141ac64',1,'llvm']]],
+  ['tristate',['Tristate',['../classllvm_1_1LazyValueInfo.html#a381305cf61c847551a489431c43cec47',1,'llvm::LazyValueInfo']]],
+  ['type',['Type',['../classllvm_1_1object_1_1SymbolRef.html#a2ea2ecb4f81936cc379aff129e440b04',1,'llvm::object::SymbolRef::Type()'],['../namespacellvm_1_1HexagonII.html#a9bebdf970b4f51041ed3dee5d558a807',1,'llvm::HexagonII::Type()'],['../namespaceShaderType.html#ab6101b806f779c705286866cca3c1a7e',1,'ShaderType::Type()']]],
+  ['typecodes',['TypeCodes',['../namespacellvm_1_1bitc.html#a0bcdd46f107a31184119f65702c0889f',1,'llvm::bitc']]],
+  ['typeid',['TypeID',['../classllvm_1_1Type.html#a5e9e1c0dd93557be1b4ad72860f3cbda',1,'llvm::Type']]],
+  ['typekind',['TypeKind',['../namespacellvm_1_1dwarf.html#a7ab1b56dd40a0b87f98aecc319a3201d',1,'llvm::dwarf']]],
+  ['typesymtabcodes',['TypeSymtabCodes',['../namespacellvm_1_1bitc.html#aeb466d086c311bcbaf8c76f3ac92404b',1,'llvm::bitc']]]
+];

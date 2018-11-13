@@ -1,0 +1,38 @@
+<map id="LegacyPassManager.h" name="LegacyPassManager.h">
+<area shape="rect" id="node2" href="$PassManager_8h.html" title="PassManager.h" alt="" coords="2383,80,2494,107"/>
+<area shape="rect" id="node37" href="$LegacyPassManager_8cpp.html" title="LegacyPassManager.cpp" alt="" coords="2519,80,2684,107"/>
+<area shape="rect" id="node3" href="$Lint_8cpp.html" title="Lint.cpp" alt="" coords="5,155,72,181"/>
+<area shape="rect" id="node4" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="96,155,261,181"/>
+<area shape="rect" id="node5" href="$Passes_8cpp.html" title="Passes.cpp" alt="" coords="286,155,373,181"/>
+<area shape="rect" id="node6" href="$lib_2ExecutionEngine_2JIT_2JIT_8h.html" title="JIT.h" alt="" coords="397,155,448,181"/>
+<area shape="rect" id="node9" href="$MCJIT_8cpp.html" title="MCJIT.cpp" alt="" coords="472,155,557,181"/>
+<area shape="rect" id="node10" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="582,155,655,181"/>
+<area shape="rect" id="node11" href="$Verifier_8cpp.html" title="Verifier.cpp" alt="" coords="680,155,765,181"/>
+<area shape="rect" id="node12" href="$LTOCodeGenerator_8cpp.html" title="LTOCodeGenerator.cpp" alt="" coords="790,155,949,181"/>
+<area shape="rect" id="node13" href="$AArch64TargetMachine_8cpp.html" title="AArch64TargetMachine.cpp" alt="" coords="973,155,1155,181"/>
+<area shape="rect" id="node14" href="$ARMCodeEmitter_8cpp.html" title="ARMCodeEmitter.cpp" alt="" coords="1180,155,1327,181"/>
+<area shape="rect" id="node15" href="$ARMTargetMachine_8cpp.html" title="ARMTargetMachine.cpp" alt="" coords="1351,155,1513,181"/>
+<area shape="rect" id="node16" href="$CPPBackend_8cpp.html" title="CPPBackend.cpp" alt="" coords="1537,155,1661,181"/>
+<area shape="rect" id="node17" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="1685,155,1867,181"/>
+<area shape="rect" id="node18" href="$MipsCodeEmitter_8cpp.html" title="MipsCodeEmitter.cpp" alt="" coords="1892,155,2036,181"/>
+<area shape="rect" id="node19" href="$MipsTargetMachine_8cpp.html" title="MipsTargetMachine.cpp" alt="" coords="2061,155,2219,181"/>
+<area shape="rect" id="node20" href="$MSP430TargetMachine_8cpp.html" title="MSP430TargetMachine.cpp" alt="" coords="2243,155,2426,181"/>
+<area shape="rect" id="node21" href="$NVPTXGenericToNVVM_8cpp.html" title="NVPTXGenericToNVVM.cpp" alt="" coords="2450,155,2635,181"/>
+<area shape="rect" id="node22" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="2659,155,2834,181"/>
+<area shape="rect" id="node23" href="$PPCCodeEmitter_8cpp.html" title="PPCCodeEmitter.cpp" alt="" coords="2859,155,3003,181"/>
+<area shape="rect" id="node24" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="3027,155,3186,181"/>
+<area shape="rect" id="node25" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="3211,155,3400,181"/>
+<area shape="rect" id="node26" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="3425,155,3607,181"/>
+<area shape="rect" id="node27" href="$SparcTargetMachine_8cpp.html" title="SparcTargetMachine.cpp" alt="" coords="3631,155,3798,181"/>
+<area shape="rect" id="node28" href="$Target_8cpp.html" title="Target.cpp" alt="" coords="3821,155,3904,181"/>
+<area shape="rect" id="node29" href="$TargetMachineC_8cpp.html" title="TargetMachineC.cpp" alt="" coords="3928,155,4069,181"/>
+<area shape="rect" id="node30" href="$X86CodeEmitter_8cpp.html" title="X86CodeEmitter.cpp" alt="" coords="4094,155,4234,181"/>
+<area shape="rect" id="node31" href="$X86TargetMachine_8cpp.html" title="X86TargetMachine.cpp" alt="" coords="4259,155,4413,181"/>
+<area shape="rect" id="node32" href="$XCoreTargetMachine_8cpp.html" title="XCoreTargetMachine.cpp" alt="" coords="4437,155,4605,181"/>
+<area shape="rect" id="node33" href="$IPO_8cpp.html" title="IPO.cpp" alt="" coords="4629,155,4699,181"/>
+<area shape="rect" id="node34" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="4723,155,4887,181"/>
+<area shape="rect" id="node35" href="$Scalar_8cpp.html" title="Scalar.cpp" alt="" coords="4912,155,4995,181"/>
+<area shape="rect" id="node36" href="$Vectorize_8cpp.html" title="Vectorize.cpp" alt="" coords="5019,155,5117,181"/>
+<area shape="rect" id="node7" href="$JIT_8cpp.html" title="JIT.cpp" alt="" coords="334,229,399,256"/>
+<area shape="rect" id="node8" href="$JITEmitter_8cpp.html" title="JITEmitter.cpp" alt="" coords="424,229,531,256"/>
+</map>

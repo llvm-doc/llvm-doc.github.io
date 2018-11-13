@@ -1,0 +1,19 @@
+<map id="SparseBitVector.h" name="SparseBitVector.h">
+<area shape="rect" id="node2" href="$LiveVariables_8h.html" title="LiveVariables.h" alt="" coords="1083,80,1190,107"/>
+<area shape="rect" id="node15" href="$LiveIntervalUnion_8cpp.html" title="LiveIntervalUnion.cpp" alt="" coords="1555,80,1699,107"/>
+<area shape="rect" id="node16" href="$PrologEpilogInserter_8h.html" title="PrologEpilogInserter.h" alt="" coords="1723,80,1870,107"/>
+<area shape="rect" id="node18" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="1895,80,2021,107"/>
+<area shape="rect" id="node3" href="$LiveIntervalAnalysis_8cpp.html" title="LiveIntervalAnalysis.cpp" alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node4" href="$LiveVariables_8cpp.html" title="LiveVariables.cpp" alt="" coords="188,155,309,181"/>
+<area shape="rect" id="node5" href="$MachineBasicBlock_8cpp.html" title="MachineBasicBlock.cpp" alt="" coords="334,155,494,181"/>
+<area shape="rect" id="node6" href="$MachineVerifier_8cpp.html" title="MachineVerifier.cpp" alt="" coords="519,155,653,181"/>
+<area shape="rect" id="node7" href="$PHIElimination_8cpp.html" title="PHIElimination.cpp" alt="" coords="678,155,809,181"/>
+<area shape="rect" id="node8" href="$TwoAddressInstructionPass_8cpp.html" title="TwoAddressInstructionPass.cpp" alt="" coords="833,155,1037,181"/>
+<area shape="rect" id="node9" href="$ARMBaseInstrInfo_8cpp.html" title="ARMBaseInstrInfo.cpp" alt="" coords="1061,155,1212,181"/>
+<area shape="rect" id="node10" href="$ARMInstrInfo_8cpp.html" title="ARMInstrInfo.cpp" alt="" coords="1237,155,1359,181"/>
+<area shape="rect" id="node11" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="1384,155,1569,181"/>
+<area shape="rect" id="node12" href="$SystemZInstrInfo_8cpp.html" title="SystemZInstrInfo.cpp" alt="" coords="1594,155,1738,181"/>
+<area shape="rect" id="node13" href="$X86FixupLEAs_8cpp.html" title="X86FixupLEAs.cpp" alt="" coords="1762,155,1893,181"/>
+<area shape="rect" id="node14" href="$X86InstrInfo_8cpp.html" title="X86InstrInfo.cpp" alt="" coords="1917,155,2033,181"/>
+<area shape="rect" id="node17" href="$PrologEpilogInserter_8cpp.html" title="PrologEpilogInserter.cpp" alt="" coords="2057,155,2219,181"/>
+</map>

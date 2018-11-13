@@ -1,0 +1,23 @@
+<map id="TargetSchedule.h" name="TargetSchedule.h">
+<area shape="rect" id="node2" href="$MachineTraceMetrics_8h.html" title="MachineTraceMetrics.h" alt="" coords="183,80,339,107"/>
+<area shape="rect" id="node5" href="$ScheduleDAGInstrs_8h.html" title="ScheduleDAGInstrs.h" alt="" coords="752,80,897,107"/>
+<area shape="rect" id="node21" href="$IfConversion_8cpp.html" title="IfConversion.cpp" alt="" coords="922,80,1039,107"/>
+<area shape="rect" id="node22" href="$TargetSchedule_8cpp.html" title="TargetSchedule.cpp" alt="" coords="1064,80,1201,107"/>
+<area shape="rect" id="node3" href="$EarlyIfConversion_8cpp.html" title="EarlyIfConversion.cpp" alt="" coords="5,155,151,181"/>
+<area shape="rect" id="node4" href="$MachineTraceMetrics_8cpp.html" title="MachineTraceMetrics.cpp" alt="" coords="175,155,346,181"/>
+<area shape="rect" id="node6" href="$MachineScheduler_8h.html" title="MachineScheduler.h" alt="" coords="421,155,559,181"/>
+<area shape="rect" id="node8" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="199,229,389,256"/>
+<area shape="rect" id="node15" href="$DFAPacketizer_8cpp.html" title="DFAPacketizer.cpp" alt="" coords="583,155,717,181"/>
+<area shape="rect" id="node16" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="741,155,909,181"/>
+<area shape="rect" id="node17" href="$ScheduleDAGInstrs_8cpp.html" title="ScheduleDAGInstrs.cpp" alt="" coords="933,155,1092,181"/>
+<area shape="rect" id="node18" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="1116,155,1301,181"/>
+<area shape="rect" id="node19" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="1325,155,1564,181"/>
+<area shape="rect" id="node20" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1588,155,1776,181"/>
+<area shape="rect" id="node7" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="413,229,567,256"/>
+<area shape="rect" id="node11" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="591,229,720,256"/>
+<area shape="rect" id="node12" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="744,229,913,256"/>
+<area shape="rect" id="node9" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="141,304,343,331"/>
+<area shape="rect" id="node10" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="368,304,551,331"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="654,304,843,331"/>
+<area shape="rect" id="node14" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="868,304,1051,331"/>
+</map>

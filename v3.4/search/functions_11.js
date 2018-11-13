@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['qualifyname',['QualifyName',['../namespacellvm.html#a58e9c18ccde90e1b5ca591e42fecf2db',1,'llvm::QualifyName(Record &amp;CurRec, MultiClass *CurMultiClass, Init *Name, const std::string &amp;Scoper)'],['../namespacellvm.html#a8344aaec46241c4b0d3e627c15a65626',1,'llvm::QualifyName(Record &amp;CurRec, MultiClass *CurMultiClass, const std::string &amp;Name, const std::string &amp;Scoper)']]],
+  ['query',['query',['../classllvm_1_1LiveRegMatrix.html#a3667d7dce1d0b682f4358fb2a1b2c4b1',1,'llvm::LiveRegMatrix::query()'],['../classllvm_1_1LiveRange.html#acd0853cbfd87e166b73d3e24502f2346',1,'llvm::LiveRange::Query()'],['../classllvm_1_1LiveIntervalUnion_1_1Query.html#a15713e0862997e899f1d95743106db89',1,'llvm::LiveIntervalUnion::Query::Query()'],['../classllvm_1_1LiveIntervalUnion_1_1Query.html#a72a3f65111d2c0ac650bf5f5a4d7b542',1,'llvm::LiveIntervalUnion::Query::Query(LiveInterval *VReg, LiveIntervalUnion *LIU)'],['../structQuery.html#a651a3dd1e7629a68a1b58d0841237f67',1,'Query::Query()']]]
+];

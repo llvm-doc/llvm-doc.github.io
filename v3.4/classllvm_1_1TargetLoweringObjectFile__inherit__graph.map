@@ -1,0 +1,15 @@
+<map id="llvm::TargetLoweringObjectFile" name="llvm::TargetLoweringObjectFile">
+<area shape="rect" id="node3" href="$classllvm_1_1NVPTXTargetObjectFile.html" title="llvm::NVPTXTargetObjectFile" alt="" coords="452,74,643,101"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetLoweringObjectFileCOFF.html" title="llvm::TargetLoweringObject\lFileCOFF" alt="" coords="459,125,636,167"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="459,191,636,232"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TargetLoweringObjectFileMachO.html" title="llvm::TargetLoweringObject\lFileMachO" alt="" coords="459,299,636,340"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="5,166,157,193"/>
+<area shape="rect" id="node6" href="$classllvm_1_1AArch64LinuxTargetObjectFile.html" title="llvm::AArch64LinuxTarget\lObjectFile" alt="" coords="722,5,890,47"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ARMElfTargetObjectFile.html" title="llvm::ARMElfTargetObjectFile" alt="" coords="711,71,901,98"/>
+<area shape="rect" id="node8" href="$classllvm_1_1HexagonTargetObjectFile.html" title="llvm::HexagonTargetObjectFile" alt="" coords="707,122,905,149"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MipsTargetObjectFile.html" title="llvm::MipsTargetObjectFile" alt="" coords="719,173,893,199"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PPC64LinuxTargetObjectFile.html" title="llvm::PPC64LinuxTargetObjectFile" alt="" coords="697,223,915,250"/>
+<area shape="rect" id="node11" href="$classllvm_1_1X86LinuxTargetObjectFile.html" title="llvm::X86LinuxTargetObjectFile" alt="" coords="706,274,906,301"/>
+<area shape="rect" id="node12" href="$classllvm_1_1XCoreTargetObjectFile.html" title="llvm::XCoreTargetObjectFile" alt="" coords="715,325,897,351"/>
+<area shape="rect" id="node14" href="$classllvm_1_1X86__64MachoTargetObjectFile.html" title="llvm::X86_64MachoTargetObjectFile" alt="" coords="691,375,921,402"/>
+</map>

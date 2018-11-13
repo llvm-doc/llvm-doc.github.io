@@ -1,0 +1,11 @@
+<map id="ObjectCache.h" name="ObjectCache.h">
+<area shape="rect" id="node2" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="198,80,385,107"/>
+<area shape="rect" id="node3" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="423,155,546,181"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="784,304,943,331"/>
+<area shape="rect" id="node17" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="184,155,399,181"/>
+<area shape="rect" id="node19" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="63,155,160,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="460,304,603,331"/>
+<area shape="rect" id="node14" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="523,229,708,256"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="164,379,331,405"/>
+<area shape="rect" id="node18" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="216,304,367,331"/>
+</map>

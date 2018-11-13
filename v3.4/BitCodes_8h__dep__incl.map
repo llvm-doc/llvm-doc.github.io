@@ -1,0 +1,9 @@
+<map id="BitCodes.h" name="BitCodes.h">
+<area shape="rect" id="node2" href="$BitstreamReader_8h.html" title="BitstreamReader.h" alt="" coords="103,80,231,107"/>
+<area shape="rect" id="node6" href="$BitstreamWriter_8h.html" title="BitstreamWriter.h" alt="" coords="397,80,519,107"/>
+<area shape="rect" id="node8" href="$LLVMBitCodes_8h.html" title="LLVMBitCodes.h" alt="" coords="255,80,373,107"/>
+<area shape="rect" id="node3" href="$BitcodeReader_8h.html" title="BitcodeReader.h" alt="" coords="171,155,289,181"/>
+<area shape="rect" id="node5" href="$BitstreamReader_8cpp.html" title="BitstreamReader.cpp" alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node4" href="$BitcodeReader_8cpp.html" title="BitcodeReader.cpp" alt="" coords="213,229,343,256"/>
+<area shape="rect" id="node7" href="$BitcodeWriter_8cpp.html" title="BitcodeWriter.cpp" alt="" coords="375,155,499,181"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::ValueHandleBase" name="llvm::ValueHandleBase">
+<area shape="rect" id="node2" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l const llvm::MDNode \&gt;" alt="" coords="619,5,768,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::BasicBlock \&gt;" alt="" coords="628,81,759,123"/>
+<area shape="rect" id="node4" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l llvm::Function \&gt;" alt="" coords="629,148,758,189"/>
+<area shape="rect" id="node5" href="$classllvm_1_1AssertingVH.html" title="llvm::AssertingVH\&lt;\l ValueTy \&gt;" alt="" coords="235,87,365,128"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CallbackVH.html" title="llvm::CallbackVH" alt="" coords="241,271,359,298"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TrackingVH.html" title="llvm::TrackingVH\&lt; ValueTy \&gt;" alt="" coords="207,322,393,349"/>
+<area shape="rect" id="node14" href="$classllvm_1_1WeakVH.html" title="llvm::WeakVH" alt="" coords="249,373,351,399"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DebugRecVH.html" title="llvm::DebugRecVH" alt="" coords="629,218,757,245"/>
+<area shape="rect" id="node8" href="$classllvm_1_1IVStrideUse.html" title="llvm::IVStrideUse" alt="" coords="634,269,753,295"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MDNodeOperand.html" title="llvm::MDNodeOperand" alt="" coords="618,319,769,346"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MMIAddrLabelMapCallbackPtr.html" title="llvm::MMIAddrLabelMapCallbackPtr" alt="" coords="580,370,807,397"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SCEVUnknown.html" title="llvm::SCEVUnknown" alt="" coords="624,421,763,447"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ValueMapCallbackVH.html" title="llvm::ValueMapCallbackVH\l\&lt; KeyT, ValueT, Config \&gt;" alt="" coords="606,472,781,513"/>
+</map>

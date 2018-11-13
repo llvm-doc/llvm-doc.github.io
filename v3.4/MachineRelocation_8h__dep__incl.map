@@ -1,0 +1,18 @@
+<map id="MachineRelocation.h" name="MachineRelocation.h">
+<area shape="rect" id="node2" href="$JITEmitter_8cpp.html" title="JITEmitter.cpp" alt="" coords="119,80,225,107"/>
+<area shape="rect" id="node3" href="$ARMRelocations_8h.html" title="ARMRelocations.h" alt="" coords="249,80,377,107"/>
+<area shape="rect" id="node6" href="$MipsRelocations_8h.html" title="MipsRelocations.h" alt="" coords="479,80,606,107"/>
+<area shape="rect" id="node9" href="$PPCRelocations_8h.html" title="PPCRelocations.h" alt="" coords="633,80,759,107"/>
+<area shape="rect" id="node12" href="$SparcRelocations_8h.html" title="SparcRelocations.h" alt="" coords="940,80,1073,107"/>
+<area shape="rect" id="node15" href="$X86Relocations_8h.html" title="X86Relocations.h" alt="" coords="1260,80,1383,107"/>
+<area shape="rect" id="node4" href="$ARMCodeEmitter_8cpp.html" title="ARMCodeEmitter.cpp" alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node5" href="$ARMJITInfo_8cpp.html" title="ARMJITInfo.cpp" alt="" coords="177,155,293,181"/>
+<area shape="rect" id="node7" href="$MipsCodeEmitter_8cpp.html" title="MipsCodeEmitter.cpp" alt="" coords="317,155,461,181"/>
+<area shape="rect" id="node8" href="$MipsJITInfo_8cpp.html" title="MipsJITInfo.cpp" alt="" coords="485,155,600,181"/>
+<area shape="rect" id="node10" href="$PPCCodeEmitter_8cpp.html" title="PPCCodeEmitter.cpp" alt="" coords="624,155,768,181"/>
+<area shape="rect" id="node11" href="$PPCJITInfo_8cpp.html" title="PPCJITInfo.cpp" alt="" coords="792,155,907,181"/>
+<area shape="rect" id="node13" href="$SparcCodeEmitter_8cpp.html" title="SparcCodeEmitter.cpp" alt="" coords="931,155,1082,181"/>
+<area shape="rect" id="node14" href="$SparcJITInfo_8cpp.html" title="SparcJITInfo.cpp" alt="" coords="1106,155,1227,181"/>
+<area shape="rect" id="node16" href="$X86CodeEmitter_8cpp.html" title="X86CodeEmitter.cpp" alt="" coords="1251,155,1391,181"/>
+<area shape="rect" id="node17" href="$X86JITInfo_8cpp.html" title="X86JITInfo.cpp" alt="" coords="1415,155,1526,181"/>
+</map>

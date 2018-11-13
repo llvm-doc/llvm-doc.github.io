@@ -1,0 +1,4 @@
+<map id="llvm::ImmutableMap&lt; KeyT, ValT, ValInfo &gt;" name="llvm::ImmutableMap&lt; KeyT, ValT, ValInfo &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1ImmutableMap.html" title="llvm::ImmutableMap\l\&lt; Interval, ValT, ImutInterval\lInfo\&lt; ValT \&gt; \&gt;" alt="" coords="5,124,188,180"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImmutableIntervalMap.html" title="llvm::ImmutableIntervalMap\l\&lt; ValT \&gt;" alt="" coords="7,229,186,271"/>
+</map>

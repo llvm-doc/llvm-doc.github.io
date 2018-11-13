@@ -1,0 +1,15 @@
+<map id="llvm::InstVisitor&lt; SubClass, RetTy &gt;" name="llvm::InstVisitor&lt; SubClass, RetTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l InstCombiner, Instruction * \&gt;" alt="" coords="361,5,548,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="397,71,512,112"/>
+<area shape="rect" id="node8" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l SliceBuilder \&gt;" alt="" coords="572,129,687,171"/>
+<area shape="rect" id="node9" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l Interpreter \&gt;" alt="" coords="397,188,512,229"/>
+<area shape="rect" id="node11" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l ObjectSizeOffsetEvaluator,\l SizeOffsetEvalType \&gt;" alt="" coords="365,253,544,309"/>
+<area shape="rect" id="node13" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l ObjectSizeOffsetVisitor,\l SizeOffsetType \&gt;" alt="" coords="375,333,535,389"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstCombiner.html" title="InstCombiner &#45; The &#45;instcombine pass. " alt="" coords="747,13,874,39"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value. " alt="" coords="748,71,873,112"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="1053,104,1179,145"/>
+<area shape="rect" id="node7" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices. " alt="" coords="1228,111,1396,138"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Interpreter.html" title="llvm::Interpreter" alt="" coords="755,195,866,222"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ObjectSizeOffsetEvaluator.html" title="Evaluate the size and offset of an object pointed to by a Value*. May create code to compute the resu..." alt="" coords="711,267,911,294"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ObjectSizeOffsetVisitor.html" title="Evaluate the size and offset of an object pointed to by a Value* statically. Fails if size or offset ..." alt="" coords="719,347,902,374"/>
+</map>

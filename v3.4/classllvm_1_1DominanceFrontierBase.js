@@ -1,0 +1,28 @@
+var classllvm_1_1DominanceFrontierBase =
+[
+    [ "const_iterator", "classllvm_1_1DominanceFrontierBase.html#a78ceff4825b12a39d037e1fc7c295034", null ],
+    [ "DomSetMapType", "classllvm_1_1DominanceFrontierBase.html#a8272d7bdf975aff42a22c0006b8ac19b", null ],
+    [ "DomSetType", "classllvm_1_1DominanceFrontierBase.html#a483746cf1f0a2ee8264d702361791b85", null ],
+    [ "iterator", "classllvm_1_1DominanceFrontierBase.html#ab30f48a9632108c9259f2cd906e2aec0", null ],
+    [ "DominanceFrontierBase", "classllvm_1_1DominanceFrontierBase.html#a7b1a6ac46c824190b96917f62875fd76", null ],
+    [ "addBasicBlock", "classllvm_1_1DominanceFrontierBase.html#a0066c5c07056f14c75ae3c04839c2ea1", null ],
+    [ "addToFrontier", "classllvm_1_1DominanceFrontierBase.html#adb7d28f918b34cdebf8be808b4ebaec1", null ],
+    [ "begin", "classllvm_1_1DominanceFrontierBase.html#af95fa1d4f5c5baeafecdc9ecdf2907ec", null ],
+    [ "begin", "classllvm_1_1DominanceFrontierBase.html#aa240513c0a25681943fe5db2afb092d5", null ],
+    [ "compare", "classllvm_1_1DominanceFrontierBase.html#a544a6533404caf5c4088c7a1f5ec7da9", null ],
+    [ "compareDomSet", "classllvm_1_1DominanceFrontierBase.html#a5b55399b0b3a8b276259aee481d28874", null ],
+    [ "dump", "classllvm_1_1DominanceFrontierBase.html#a5d4672c43c21a8f6e6b3fc6205d080a8", null ],
+    [ "end", "classllvm_1_1DominanceFrontierBase.html#a2d329ba2b907ec44a1fd60aaca2fa7c3", null ],
+    [ "end", "classllvm_1_1DominanceFrontierBase.html#a1219d8123cd8627215f14356ee783fd2", null ],
+    [ "find", "classllvm_1_1DominanceFrontierBase.html#a0daf830990d3cac5ead0916c6507a6f0", null ],
+    [ "find", "classllvm_1_1DominanceFrontierBase.html#a7a40296008a20eef0a5ef6d0af43eb27", null ],
+    [ "getRoots", "classllvm_1_1DominanceFrontierBase.html#adb50e48b2c0ded443b28d2ebf2861289", null ],
+    [ "isPostDominator", "classllvm_1_1DominanceFrontierBase.html#adb2372ad06cfe1361eb4e96f46eb1128", null ],
+    [ "print", "classllvm_1_1DominanceFrontierBase.html#a1046d2a8b5c22fc101836fceff708bf9", null ],
+    [ "releaseMemory", "classllvm_1_1DominanceFrontierBase.html#a02e36557d6d226d2b1374118b887bb93", null ],
+    [ "removeBlock", "classllvm_1_1DominanceFrontierBase.html#a06a893faaa33676c26f732d8eb46755f", null ],
+    [ "removeFromFrontier", "classllvm_1_1DominanceFrontierBase.html#a0a4976508ecc068f9d134ae55ed87ee1", null ],
+    [ "Frontiers", "classllvm_1_1DominanceFrontierBase.html#a9c7b0abe62b43c6a2a95c3b1607d64a0", null ],
+    [ "IsPostDominators", "classllvm_1_1DominanceFrontierBase.html#a4bf4ed3ebc1eb33941562a5f35eda969", null ],
+    [ "Roots", "classllvm_1_1DominanceFrontierBase.html#aecd1e0f673a9a437750452acea6cbc9a", null ]
+];

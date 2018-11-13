@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; bool,((is_integral_or\l_enum\&lt; T \&gt;::value\|\|is_pointer\l\&lt; T \&gt;::value)&amp;&amp;64%sizeof(T)==0)\&gt;" alt="" coords="5,5,225,76"/>
+<area shape="rect" id="node2" href="$structllvm_1_1hashing_1_1detail_1_1is__hashable__data.html" title="Trait to indicate whether a type&#39;s bits can be hashed directly. " alt="" coords="273,20,431,61"/>
+</map>

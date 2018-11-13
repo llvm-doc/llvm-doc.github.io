@@ -1,0 +1,4 @@
+<map id="llvm::RegisterRegAlloc" name="llvm::RegisterRegAlloc">
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryNode.html" title="llvm::MachinePassRegistryNode" alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachinePassRegistry.html" title="llvm::MachinePassRegistry" alt="" coords="233,5,408,32"/>
+</map>

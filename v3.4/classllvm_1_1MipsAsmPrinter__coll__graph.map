@@ -1,0 +1,35 @@
+<map id="llvm::MipsAsmPrinter" name="llvm::MipsAsmPrinter">
+<area shape="rect" id="node2" href="$classllvm_1_1AsmPrinter.html" title="llvm::AsmPrinter" alt="" coords="1443,641,1557,668"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="869,215,1048,241"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="447,205,577,232"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="5,185,84,212"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="201,155,323,181"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCStreamer.html" title="llvm::MCStreamer" alt="" coords="1092,703,1216,729"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Mangler.html" title="llvm::Mangler" alt="" coords="1105,753,1203,780"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1079,804,1229,831"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MachineModuleInfo.html" title="llvm::MachineModuleInfo" alt="" coords="1072,212,1236,239"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="669,155,809,181"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="680,641,799,668"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l std::pair\&lt; TrackingVH\l\&lt; MDNode \&gt;, UnsignedDebugLoc\lPair \&gt;, 4 \&gt;" alt="" coords="633,59,845,130"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; std::pair\&lt; TrackingVH\l\&lt; MDNode \&gt;, UnsignedDebugLocPair \&gt; \&gt;" alt="" coords="133,71,391,127"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="197,6,327,47"/>
+<area shape="rect" id="node16" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1085,1120,1223,1147"/>
+<area shape="rect" id="node45" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1415,1132,1585,1159"/>
+<area shape="rect" id="node17" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="673,1103,805,1129"/>
+<area shape="rect" id="node36" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="1079,1713,1229,1740"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="668,1647,811,1673"/>
+<area shape="rect" id="node38" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="678,1792,801,1819"/>
+<area shape="rect" id="node40" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="684,1911,795,1937"/>
+<area shape="rect" id="node22" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="695,1245,783,1272"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="666,1052,813,1079"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MipsSubtarget.html" title="llvm::MipsSubtarget" alt="" coords="2016,1317,2151,1344"/>
+<area shape="rect" id="node30" href="$classllvm_1_1MCInstrInfo.html" title="llvm::MCInstrInfo" alt="" coords="1095,481,1213,508"/>
+<area shape="rect" id="node31" href="$classllvm_1_1MCSymbol.html" title="llvm::MCSymbol" alt="" coords="1097,539,1211,565"/>
+<area shape="rect" id="node32" href="$classllvm_1_1MCContext.html" title="llvm::MCContext" alt="" coords="1097,589,1211,616"/>
+<area shape="rect" id="node34" href="$classMipsGenSubtargetInfo.html" title="MipsGenSubtargetInfo" alt="" coords="1697,1368,1848,1395"/>
+<area shape="rect" id="node44" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="1691,1165,1855,1192"/>
+<area shape="rect" id="node46" href="$classllvm_1_1MipsReginfo.html" title="llvm::MipsReginfo" alt="" coords="1711,1216,1834,1243"/>
+<area shape="rect" id="node48" href="$classllvm_1_1MipsFunctionInfo.html" title="llvm::MipsFunctionInfo" alt="" coords="2008,1368,2159,1395"/>
+<area shape="rect" id="node49" href="$structllvm_1_1MachineFunctionInfo.html" title="llvm::MachineFunctionInfo" alt="" coords="1687,1571,1859,1597"/>
+<area shape="rect" id="node50" href="$classllvm_1_1MipsMCInstLower.html" title="MipsMCInstLower &#45; This class is used to lower an MachineInstr into an. " alt="" coords="2007,1419,2160,1445"/>
+</map>

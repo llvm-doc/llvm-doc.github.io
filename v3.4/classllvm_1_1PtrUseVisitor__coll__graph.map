@@ -1,0 +1,25 @@
+<map id="llvm::PtrUseVisitor&lt; DerivedT &gt;" name="llvm::PtrUseVisitor&lt; DerivedT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="2710,47,2825,88"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="Base class for instruction visitors. " alt="" coords="2391,5,2521,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor. " alt="" coords="2672,203,2863,230"/>
+<area shape="rect" id="node5" href="$classllvm_1_1APInt.html" title="Class for arbitrary precision integers. " alt="" coords="2414,122,2498,149"/>
+<area shape="rect" id="node7" href="$classllvm_1_1detail_1_1PtrUseVisitorBase_1_1PtrInfo.html" title="This class provides information about the result of a visit. " alt="" coords="2375,173,2537,215"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l llvm::Use *, 8 \&gt;" alt="" coords="768,311,897,352"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl" alt="" coords="226,311,373,338"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l PtrType, SmallSize \&gt;" alt="" coords="438,331,585,372"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVectorBase.html" title="llvm::SmallVectorBase" alt="" coords="224,185,375,211"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DataLayout.html" title="llvm::DataLayout" alt="" coords="2398,369,2514,395"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="2014,369,2154,395"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="1646,379,1767,406"/>
+<area shape="rect" id="node16" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="1443,379,1521,406"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::detail::PtrUseVisitor\lBase::UseToVisit, 8 \&gt;" alt="" coords="2373,238,2539,294"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::detail::PtrUseVisitor\lBase::UseToVisit \&gt;" alt="" coords="1997,171,2171,227"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::detail::PtrUseVisitor\lBase::UseToVisit, isPodLike\&lt;\l llvm::detail::PtrUseVisitorBase\l::UseToVisit \&gt;::value \&gt;" alt="" coords="1168,109,1371,194"/>
+<area shape="rect" id="node22" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="745,193,920,235"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="1395,215,1569,271"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike \&gt;" alt="" coords="969,252,1144,293"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T, typename \&gt;" alt="" coords="424,205,599,247"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="1619,230,1795,257"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="2019,251,2149,292"/>
+<area shape="rect" id="node29" href="$classllvm_1_1Use.html" title="llvm::Use" alt="" coords="2419,71,2493,98"/>
+</map>

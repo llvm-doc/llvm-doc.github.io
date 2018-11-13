@@ -1,0 +1,21 @@
+<map id="llvm::cl::basic_parser&lt; DataType &gt;" name="llvm::cl::basic_parser&lt; DataType &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; double \&gt;" alt="" coords="548,5,687,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; std::string \&gt;" alt="" coords="548,71,687,112"/>
+<area shape="rect" id="node7" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; unsigned long long \&gt;" alt="" coords="543,136,692,177"/>
+<area shape="rect" id="node9" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; float \&gt;" alt="" coords="548,201,687,243"/>
+<area shape="rect" id="node11" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; boolOrDefault \&gt;" alt="" coords="548,267,687,308"/>
+<area shape="rect" id="node13" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; int \&gt;" alt="" coords="548,332,687,373"/>
+<area shape="rect" id="node15" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; char \&gt;" alt="" coords="548,397,687,439"/>
+<area shape="rect" id="node17" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; unsigned \&gt;" alt="" coords="548,463,687,504"/>
+<area shape="rect" id="node19" href="$classllvm_1_1cl_1_1basic__parser.html" title="llvm::cl::basic_parser\l\&lt; bool \&gt;" alt="" coords="548,528,687,569"/>
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1basic__parser__impl.html" title="llvm::cl::basic_parser_impl" alt="" coords="5,274,176,301"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1parser_3_01double_01_4.html" title="llvm::cl::parser\&lt; double \&gt;" alt="" coords="747,13,910,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1parser_3_01std_1_1string_01_4.html" title="llvm::cl::parser\&lt; std\l::string \&gt;" alt="" coords="763,71,894,112"/>
+<area shape="rect" id="node8" href="$classllvm_1_1cl_1_1parser_3_01unsigned_01long_01long_01_4.html" title="llvm::cl::parser\&lt; unsigned\l long long \&gt;" alt="" coords="747,136,911,177"/>
+<area shape="rect" id="node10" href="$classllvm_1_1cl_1_1parser_3_01float_01_4.html" title="llvm::cl::parser\&lt; float \&gt;" alt="" coords="755,209,903,235"/>
+<area shape="rect" id="node12" href="$classllvm_1_1cl_1_1parser_3_01boolOrDefault_01_4.html" title="llvm::cl::parser\&lt; boolOr\lDefault \&gt;" alt="" coords="753,267,904,308"/>
+<area shape="rect" id="node14" href="$classllvm_1_1cl_1_1parser_3_01int_01_4.html" title="llvm::cl::parser\&lt; int \&gt;" alt="" coords="759,339,898,366"/>
+<area shape="rect" id="node16" href="$classllvm_1_1cl_1_1parser_3_01char_01_4.html" title="llvm::cl::parser\&lt; char \&gt;" alt="" coords="754,405,903,431"/>
+<area shape="rect" id="node18" href="$classllvm_1_1cl_1_1parser_3_01unsigned_01_4.html" title="llvm::cl::parser\&lt; unsigned \&gt;" alt="" coords="741,470,916,497"/>
+<area shape="rect" id="node20" href="$classllvm_1_1cl_1_1parser_3_01bool_01_4.html" title="llvm::cl::parser\&lt; bool \&gt;" alt="" coords="755,535,903,562"/>
+</map>

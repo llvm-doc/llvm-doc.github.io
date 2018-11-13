@@ -1,0 +1,11 @@
+<map id="MachO.h" name="MachO.h">
+<area shape="rect" id="node2" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="157,379,315,405"/>
+<area shape="rect" id="node5" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="754,80,889,107"/>
+<area shape="rect" id="node6" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="827,155,975,181"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="830,229,973,256"/>
+<area shape="rect" id="node16" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="399,229,558,256"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="675,379,842,405"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="227,304,378,331"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="454,304,626,331"/>
+<area shape="rect" id="node19" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="453,379,651,405"/>
+</map>

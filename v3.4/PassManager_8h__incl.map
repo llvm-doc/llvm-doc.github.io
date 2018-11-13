@@ -1,0 +1,20 @@
+<map id="PassManager.h" name="PassManager.h">
+<area shape="rect" id="node2" href="$LegacyPassManager_8h.html" title="llvm/IR/LegacyPassManager.h" alt="" coords="1141,80,1336,107"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="837,155,923,181"/>
+<area shape="rect" id="node19" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="633,379,847,405"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1347,528,1506,555"/>
+<area shape="rect" id="node7" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="634,229,766,256"/>
+<area shape="rect" id="node26" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="791,229,969,256"/>
+<area shape="rect" id="node8" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="563,304,709,331"/>
+<area shape="rect" id="node9" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="373,304,507,331"/>
+<area shape="rect" id="node22" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="5,379,155,405"/>
+<area shape="rect" id="node23" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="1235,453,1389,480"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="230,453,373,480"/>
+<area shape="rect" id="node21" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="293,379,390,405"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="543,528,710,555"/>
+<area shape="rect" id="node20" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="397,453,547,480"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="871,379,1030,405"/>
+<area shape="rect" id="node28" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1465,453,1615,480"/>
+<area shape="rect" id="node29" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="725,453,897,480"/>
+<area shape="rect" id="node30" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="734,528,933,555"/>
+</map>

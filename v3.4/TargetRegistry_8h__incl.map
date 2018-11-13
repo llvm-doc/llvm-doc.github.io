@@ -1,0 +1,13 @@
+<map id="TargetRegistry.h" name="TargetRegistry.h">
+<area shape="rect" id="node2" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="531,80,652,107"/>
+<area shape="rect" id="node17" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="741,155,903,181"/>
+<area shape="rect" id="node25" href="$include_2llvm-c_2Disassembler_8h.html" title="llvm&#45;c/Disassembler.h" alt="" coords="1770,80,1917,107"/>
+<area shape="rect" id="node3" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="529,155,651,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="392,304,535,331"/>
+<area shape="rect" id="node14" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="729,229,915,256"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="144,379,311,405"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="780,304,939,331"/>
+<area shape="rect" id="node18" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="1197,229,1353,256"/>
+<area shape="rect" id="node19" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1708,379,1805,405"/>
+<area shape="rect" id="node20" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="1222,304,1329,331"/>
+</map>

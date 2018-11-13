@@ -1,0 +1,10 @@
+<map id="SparcJITInfo.h" name="SparcJITInfo.h">
+<area shape="rect" id="node2" href="$SparcTargetMachine_8h.html" title="SparcTargetMachine.h" alt="" coords="455,80,607,107"/>
+<area shape="rect" id="node9" href="$SparcJITInfo_8cpp.html" title="SparcJITInfo.cpp" alt="" coords="631,80,753,107"/>
+<area shape="rect" id="node3" href="$SparcAsmPrinter_8cpp.html" title="SparcAsmPrinter.cpp" alt="" coords="5,155,149,181"/>
+<area shape="rect" id="node4" href="$SparcCodeEmitter_8cpp.html" title="SparcCodeEmitter.cpp" alt="" coords="174,155,325,181"/>
+<area shape="rect" id="node5" href="$SparcISelDAGToDAG_8cpp.html" title="SparcISelDAGToDAG.cpp" alt="" coords="349,155,523,181"/>
+<area shape="rect" id="node6" href="$SparcISelLowering_8cpp.html" title="SparcISelLowering.cpp" alt="" coords="548,155,703,181"/>
+<area shape="rect" id="node7" href="$SparcSelectionDAGInfo_8cpp.html" title="SparcSelectionDAGInfo.cpp" alt="" coords="727,155,911,181"/>
+<area shape="rect" id="node8" href="$SparcTargetMachine_8cpp.html" title="SparcTargetMachine.cpp" alt="" coords="935,155,1102,181"/>
+</map>

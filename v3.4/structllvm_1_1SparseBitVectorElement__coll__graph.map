@@ -1,0 +1,6 @@
+<map id="llvm::SparseBitVectorElement&lt; ElementSize &gt;" name="llvm::SparseBitVectorElement&lt; ElementSize &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Sparse\lBitVectorElement\&lt; ElementSize \&gt; \&gt;" alt="" coords="717,46,944,87"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; SparseBitVectorElement\l\&lt; ElementSize \&gt; \&gt;" alt="" coords="341,5,515,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,43,139,85"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="343,85,513,112"/>
+</map>

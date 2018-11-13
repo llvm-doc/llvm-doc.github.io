@@ -1,0 +1,16 @@
+<map id="InstCombineWorklist.h" name="InstCombineWorklist.h">
+<area shape="rect" id="node2" href="$InstCombine_8h.html" title="InstCombine.h" alt="" coords="1217,80,1321,107"/>
+<area shape="rect" id="node3" href="$InstCombineAddSub_8cpp.html" title="InstCombineAddSub.cpp" alt="" coords="5,155,169,181"/>
+<area shape="rect" id="node4" href="$InstCombineAndOrXor_8cpp.html" title="InstCombineAndOrXor.cpp" alt="" coords="193,155,368,181"/>
+<area shape="rect" id="node5" href="$InstCombineCalls_8cpp.html" title="InstCombineCalls.cpp" alt="" coords="393,155,539,181"/>
+<area shape="rect" id="node6" href="$InstCombineCasts_8cpp.html" title="InstCombineCasts.cpp" alt="" coords="564,155,715,181"/>
+<area shape="rect" id="node7" href="$InstCombineCompares_8cpp.html" title="InstCombineCompares.cpp" alt="" coords="739,155,915,181"/>
+<area shape="rect" id="node8" href="$InstCombineLoadStoreAlloca_8cpp.html" title="InstCombineLoadStoreAlloca.cpp" alt="" coords="939,155,1153,181"/>
+<area shape="rect" id="node9" href="$InstCombineMulDivRem_8cpp.html" title="InstCombineMulDivRem.cpp" alt="" coords="1177,155,1361,181"/>
+<area shape="rect" id="node10" href="$InstCombinePHI_8cpp.html" title="InstCombinePHI.cpp" alt="" coords="1385,155,1525,181"/>
+<area shape="rect" id="node11" href="$InstCombineSelect_8cpp.html" title="InstCombineSelect.cpp" alt="" coords="1550,155,1705,181"/>
+<area shape="rect" id="node12" href="$InstCombineShifts_8cpp.html" title="InstCombineShifts.cpp" alt="" coords="1729,155,1880,181"/>
+<area shape="rect" id="node13" href="$InstCombineSimplifyDemanded_8cpp.html" title="InstCombineSimplifyDemanded.cpp" alt="" coords="1905,155,2131,181"/>
+<area shape="rect" id="node14" href="$InstCombineVectorOps_8cpp.html" title="InstCombineVectorOps.cpp" alt="" coords="2155,155,2334,181"/>
+<area shape="rect" id="node15" href="$InstructionCombining_8cpp.html" title="InstructionCombining.cpp" alt="" coords="2359,155,2525,181"/>
+</map>

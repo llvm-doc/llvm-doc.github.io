@@ -1,0 +1,11 @@
+<map id="llvm::SIRegisterInfo" name="llvm::SIRegisterInfo">
+<area shape="rect" id="node2" href="$structllvm_1_1AMDGPURegisterInfo.html" title="llvm::AMDGPURegisterInfo" alt="" coords="1051,444,1228,471"/>
+<area shape="rect" id="node3" href="$classAMDGPUGenRegisterInfo.html" title="AMDGPUGenRegisterInfo" alt="" coords="732,383,904,409"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="749,504,887,531"/>
+<area shape="rect" id="node21" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1054,504,1225,531"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="465,101,597,128"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="471,849,590,876"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="487,535,575,561"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="457,585,604,612"/>
+<area shape="rect" id="node20" href="$classllvm_1_1AMDGPUTargetMachine.html" title="llvm::AMDGPUTargetMachine" alt="" coords="1277,497,1472,524"/>
+</map>

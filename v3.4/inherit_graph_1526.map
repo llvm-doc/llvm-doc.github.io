@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1cl_1_1generic__parser__base.html" title="llvm::cl::generic_parser_base" alt="" coords="5,123,191,149"/>
+<area shape="rect" id="node2" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; DataType \&gt;" alt="" coords="245,5,424,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; const\l PassInfo * \&gt;" alt="" coords="263,57,407,98"/>
+<area shape="rect" id="node6" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; const\l U::entry * \&gt;" alt="" coords="263,174,407,215"/>
+<area shape="rect" id="node8" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; Registry\lClass::FunctionPassCtor \&gt;" alt="" coords="249,305,421,346"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PassNameParser.html" title="llvm::PassNameParser" alt="" coords="485,93,635,120"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FilteredPassNameParser.html" title="llvm::FilteredPassNameParser\l\&lt; Filter \&gt;" alt="" coords="689,86,883,127"/>
+<area shape="rect" id="node7" href="$classllvm_1_1RegistryParser.html" title="llvm::RegistryParser\l\&lt; T, U \&gt;" alt="" coords="493,223,627,265"/>
+<area shape="rect" id="node9" href="$classllvm_1_1RegisterPassParser.html" title="llvm::RegisterPassParser\l\&lt; RegistryClass \&gt;" alt="" coords="479,321,641,362"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Registry_1_1listener.html" title="llvm::Registry\&lt; T,\l U \&gt;::listener" alt="" coords="275,239,395,281"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MachinePassRegistryListener.html" title="llvm::MachinePassRegistry\lListener" alt="" coords="247,370,422,411"/>
+<area shape="rect" id="node12" href="$structllvm_1_1PassRegistrationListener.html" title="llvm::PassRegistrationListener" alt="" coords="239,123,431,149"/>
+</map>

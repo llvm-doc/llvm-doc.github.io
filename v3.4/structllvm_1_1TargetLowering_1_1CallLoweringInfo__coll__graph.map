@@ -1,0 +1,28 @@
+<map id="llvm::TargetLowering::CallLoweringInfo" name="llvm::TargetLowering::CallLoweringInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1Type.html" title="llvm::Type" alt="" coords="2482,44,2561,71"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDValue, 32 \&gt;" alt="" coords="2453,410,2589,451"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::SDValue \&gt;" alt="" coords="2050,350,2197,391"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::SDValue, isPodLike\l\&lt; llvm::SDValue \&gt;::value \&gt;" alt="" coords="1044,305,1248,361"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="617,414,792,455"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="1276,451,1451,507"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike \&gt;" alt="" coords="841,473,1016,514"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; ISD::InputArg, isPodLike\l\&lt; ISD::InputArg \&gt;::value \&gt;" alt="" coords="1475,356,1677,412"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; ISD::OutputArg, isPodLike\l\&lt; ISD::OutputArg \&gt;::value \&gt;" alt="" coords="1040,551,1252,607"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorBase.html" title="llvm::SmallVectorBase" alt="" coords="161,427,312,453"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T, typename \&gt;" alt="" coords="361,455,536,497"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="1701,465,1877,492"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="2059,487,2188,529"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; ISD::InputArg \&gt;" alt="" coords="2050,415,2197,457"/>
+<area shape="rect" id="node29" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; ISD::OutputArg \&gt;" alt="" coords="2050,566,2197,607"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l ISD::InputArg, 32 \&gt;" alt="" coords="2454,475,2589,517"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l ISD::OutputArg, 32 \&gt;" alt="" coords="2449,541,2593,582"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SDValue.html" title="llvm::SDValue" alt="" coords="2471,208,2572,235"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SelectionDAG.html" title="llvm::SelectionDAG" alt="" coords="2455,157,2588,184"/>
+<area shape="rect" id="node22" href="$classllvm_1_1ImmutableCallSite.html" title="ImmutableCallSite &#45; establish a view to a call site for examination. " alt="" coords="2443,607,2600,633"/>
+<area shape="rect" id="node23" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\&lt;\&gt;" alt="" coords="2053,647,2194,673"/>
+<area shape="rect" id="node24" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; const Instruction *,\l 1, bool \&gt;" alt="" coords="1507,703,1645,759"/>
+<area shape="rect" id="node25" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; PointerTy, IntBits,\l IntType, PtrTraits \&gt;" alt="" coords="861,669,997,725"/>
+<area shape="rect" id="node27" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; InstrTy *, 1, bool \&gt;" alt="" coords="1295,647,1431,689"/>
+<area shape="rect" id="node26" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, ValTy, UserTy,\l InstrTy, CallTy, InvokeTy,\l IterTy \&gt;" alt="" coords="1704,625,1875,695"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SDLoc.html" title="llvm::SDLoc" alt="" coords="2476,657,2567,684"/>
+</map>

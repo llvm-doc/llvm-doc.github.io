@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l DerivedT \&gt;" alt="" coords="43,5,158,47"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PtrUseVisitor.html" title="A base class for visitors over the uses of a pointer value. " alt="" coords="244,19,369,60"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstVisitor.html" title="llvm::InstVisitor\&lt;\l SliceBuilder \&gt;" alt="" coords="43,123,158,164"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PtrUseVisitor.html" title="llvm::PtrUseVisitor\l\&lt; SliceBuilder \&gt;" alt="" coords="244,97,369,139"/>
+<area shape="rect" id="node5" href="$classAllocaSlices_1_1SliceBuilder.html" title="Builder for the alloca slices. " alt="" coords="417,105,585,131"/>
+<area shape="rect" id="node6" href="$classllvm_1_1detail_1_1PtrUseVisitorBase.html" title="Implementation of non&#45;dependent functionality for PtrUseVisitor. " alt="" coords="5,71,196,98"/>
+</map>

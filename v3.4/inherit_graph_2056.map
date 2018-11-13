@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TypeBuilder.html" title="llvm::TypeBuilder\&lt;\l T, cross \&gt;" alt="" coords="5,71,132,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypeBuilder_3_01const_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l const T, cross \&gt;" alt="" coords="196,5,323,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypeBuilder_3_01const_01volatile_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l const volatile T, cross \&gt;" alt="" coords="180,71,339,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TypeBuilder_3_01volatile_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l volatile T, cross \&gt;" alt="" coords="196,136,323,177"/>
+</map>

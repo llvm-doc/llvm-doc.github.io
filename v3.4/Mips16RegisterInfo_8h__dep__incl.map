@@ -1,0 +1,8 @@
+<map id="Mips16RegisterInfo.h" name="Mips16RegisterInfo.h">
+<area shape="rect" id="node2" href="$Mips16InstrInfo_8h.html" title="Mips16InstrInfo.h" alt="" coords="467,80,587,107"/>
+<area shape="rect" id="node5" href="$Mips16RegisterInfo_8cpp.html" title="Mips16RegisterInfo.cpp" alt="" coords="757,155,913,181"/>
+<area shape="rect" id="node3" href="$Mips16FrameLowering_8cpp.html" title="Mips16FrameLowering.cpp" alt="" coords="5,155,180,181"/>
+<area shape="rect" id="node4" href="$Mips16InstrInfo_8cpp.html" title="Mips16InstrInfo.cpp" alt="" coords="204,155,339,181"/>
+<area shape="rect" id="node6" href="$MipsConstantIslandPass_8cpp.html" title="MipsConstantIslandPass.cpp" alt="" coords="363,155,550,181"/>
+<area shape="rect" id="node7" href="$MipsTargetMachine_8cpp.html" title="MipsTargetMachine.cpp" alt="" coords="575,155,733,181"/>
+</map>

@@ -1,0 +1,28 @@
+var classllvm_1_1DIType =
+[
+    [ "DIType", "classllvm_1_1DIType.html#a0290a13a7186d170ed0678f35832eb41", null ],
+    [ "getAlignInBits", "classllvm_1_1DIType.html#ad4e0b7189b463a0bba27d5104c6d48d3", null ],
+    [ "getContext", "classllvm_1_1DIType.html#aa4d656a320017f026ab9ab40998a2a7b", null ],
+    [ "getFlags", "classllvm_1_1DIType.html#aee3c2389792f0e8040067477f2759a36", null ],
+    [ "getLineNumber", "classllvm_1_1DIType.html#a29bfbe3b4e5cd5a5c273e664d68b154e", null ],
+    [ "getName", "classllvm_1_1DIType.html#a5487a9a888b2991f1a2e4ba2a04d7680", null ],
+    [ "getOffsetInBits", "classllvm_1_1DIType.html#a6295442c5999a977b2001b4cedf90f64", null ],
+    [ "getSizeInBits", "classllvm_1_1DIType.html#a3c4f49edb3b7ebba19c7bf0cc702a84f", null ],
+    [ "isAppleBlockExtension", "classllvm_1_1DIType.html#a6469b45f741ea278f3d8c923d66c34b4", null ],
+    [ "isArtificial", "classllvm_1_1DIType.html#aa86dc82ab91938c7e5419f0ef4c8f958", null ],
+    [ "isBlockByrefStruct", "classllvm_1_1DIType.html#a645860a0987e41451f2263f313577bfe", null ],
+    [ "isForwardDecl", "classllvm_1_1DIType.html#a9758e7acfcf7d04382f6a430255c75cd", null ],
+    [ "isObjcClassComplete", "classllvm_1_1DIType.html#a4f484edd25e8038032efced2f2303bbb", null ],
+    [ "isObjectPointer", "classllvm_1_1DIType.html#afee7e458ae3cea60756c010ccdbc2574", null ],
+    [ "isPrivate", "classllvm_1_1DIType.html#a13b153d8fc2dd37bcc482a94240c4a41", null ],
+    [ "isProtected", "classllvm_1_1DIType.html#a33447df9ae146f2d30948c18c20d722d", null ],
+    [ "isStaticMember", "classllvm_1_1DIType.html#aee204faa9d1b395a6a4902f1df68db71", null ],
+    [ "isValid", "classllvm_1_1DIType.html#a33085e470272a2d70444530df55e9926", null ],
+    [ "isVector", "classllvm_1_1DIType.html#af4e108d8eb74096a7a0a4819dd036d23", null ],
+    [ "isVirtual", "classllvm_1_1DIType.html#a4cbd5d035b97b6eeed8ee4716c9b80be", null ],
+    [ "printInternal", "classllvm_1_1DIType.html#a461a2af4529383581399d0207b19a754", null ],
+    [ "replaceAllUsesWith", "classllvm_1_1DIType.html#aeaf8fbe28ee61c477e6535165c327c33", null ],
+    [ "replaceAllUsesWith", "classllvm_1_1DIType.html#adb9e13d39765fad27abc415744c25f03", null ],
+    [ "Verify", "classllvm_1_1DIType.html#a9f22dc1e1ef0f439952be3815f0998fe", null ],
+    [ "DIDescriptor", "classllvm_1_1DIType.html#a84461ef7a1b7c42d3d4e63de72f901e0", null ]
+];

@@ -1,0 +1,8 @@
+<map id="llvm::SplitAnalysis::BlockInfo" name="llvm::SplitAnalysis::BlockInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1SlotIndex.html" title="SlotIndex &#45; An opaque wrapper around machine indexes. " alt="" coords="5,304,111,331"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="206,304,371,331"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock \&gt;" alt="" coords="206,213,371,255"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; MachineBasicBlock \&gt;" alt="" coords="152,109,311,151"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="262,5,395,47"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="335,117,506,143"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="R600ISelLowering.h" name="R600ISelLowering.h">
+<area shape="rect" id="node2" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="983,80,1158,107"/>
+<area shape="rect" id="node8" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1675,379,1864,405"/>
+<area shape="rect" id="node17" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="2495,304,2646,331"/>
+<area shape="rect" id="node3" href="$R600RegisterInfo_8h.html" title="Interface definition for R600RegisterInfo. " alt="" coords="1005,155,1136,181"/>
+<area shape="rect" id="node16" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="5,304,128,331"/>
+<area shape="rect" id="node20" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class. " alt="" coords="2274,304,2419,331"/>
+<area shape="rect" id="node21" href="$AMDGPUInstrInfo_8cpp.html" title="Implementation of the TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="1465,155,1615,181"/>
+<area shape="rect" id="node22" href="$AMDGPURegisterInfo_8cpp.html" title="Parent TargetRegisterInfo class common to all hw codegen targets. " alt="" coords="1639,155,1811,181"/>
+<area shape="rect" id="node23" href="$AMDGPUTargetTransformInfo_8cpp.html" title="AMDGPUTargetTransformInfo.cpp" alt="" coords="241,155,461,181"/>
+<area shape="rect" id="node24" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="485,155,592,181"/>
+<area shape="rect" id="node25" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="616,155,744,181"/>
+<area shape="rect" id="node26" href="$AMDGPUTargetInfo_8cpp.html" title="AMDGPUTargetInfo.cpp" alt="" coords="768,155,931,181"/>
+<area shape="rect" id="node4" href="$AMDGPUAsmPrinter_8cpp.html" title="AMDGPUAsmPrinter.cpp" alt="" coords="987,229,1154,256"/>
+<area shape="rect" id="node5" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="1179,229,1288,256"/>
+<area shape="rect" id="node12" href="$R600ClauseMergePass_8cpp.html" title="R600ClauseMergePass.cpp" alt="" coords="368,304,547,331"/>
+<area shape="rect" id="node13" href="$R600ControlFlowFinalizer_8cpp.html" title="R600ControlFlowFinalizer.cpp" alt="" coords="571,304,763,331"/>
+<area shape="rect" id="node14" href="$R600EmitClauseMarkers_8cpp.html" title="R600EmitClauseMarkers.cpp" alt="" coords="2063,304,2249,331"/>
+<area shape="rect" id="node15" href="$R600ExpandSpecialInstrs_8cpp.html" title="R600ExpandSpecialInstrs.cpp" alt="" coords="152,304,344,331"/>
+<area shape="rect" id="node6" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="1639,304,1836,331"/>
+<area shape="rect" id="node7" href="$AMDGPUMCInstLower_8cpp.html" title="Code to lower AMDGPU MachineInstrs to their corresponding MCInst. " alt="" coords="1860,304,2039,331"/>
+<area shape="rect" id="node9" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="787,304,957,331"/>
+<area shape="rect" id="node11" href="$AMDILCFGStructurizer_8cpp.html" title="AMDILCFGStructurizer.cpp" alt="" coords="1032,304,1211,331"/>
+<area shape="rect" id="node18" href="$R600OptimizeVectorRegisters_8cpp.html" title="R600OptimizeVectorRegisters.cpp" alt="" coords="1235,304,1453,331"/>
+<area shape="rect" id="node19" href="$R600Packetizer_8cpp.html" title="R600Packetizer.cpp" alt="" coords="1477,304,1614,331"/>
+<area shape="rect" id="node10" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="781,379,963,405"/>
+</map>

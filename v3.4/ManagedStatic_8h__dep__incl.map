@@ -1,0 +1,28 @@
+<map id="ManagedStatic.h" name="ManagedStatic.h">
+<area shape="rect" id="node2" href="$PseudoSourceValue_8cpp.html" title="PseudoSourceValue.cpp" alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$SelectionDAG_8cpp.html" title="SelectionDAG.cpp" alt="" coords="192,80,320,107"/>
+<area shape="rect" id="node4" href="$ExternalFunctions_8cpp.html" title="ExternalFunctions.cpp" alt="" coords="345,80,493,107"/>
+<area shape="rect" id="node5" href="$JIT_8cpp.html" title="JIT.cpp" alt="" coords="517,80,582,107"/>
+<area shape="rect" id="node6" href="$JITEmitter_8cpp.html" title="JITEmitter.cpp" alt="" coords="607,80,713,107"/>
+<area shape="rect" id="node7" href="$Attributes_8cpp.html" title="Attributes.cpp" alt="" coords="737,80,839,107"/>
+<area shape="rect" id="node8" href="$ConstantFold_8cpp.html" title="ConstantFold.cpp" alt="" coords="863,80,985,107"/>
+<area shape="rect" id="node9" href="$Constants_8cpp.html" title="Constants.cpp" alt="" coords="1010,80,1113,107"/>
+<area shape="rect" id="node10" href="$Core_8cpp.html" title="Core.cpp" alt="" coords="1137,80,1210,107"/>
+<area shape="rect" id="node11" href="$DataLayout_8cpp.html" title="DataLayout.cpp" alt="" coords="1234,80,1345,107"/>
+<area shape="rect" id="node12" href="$Function_8cpp.html" title="Function.cpp" alt="" coords="1369,80,1465,107"/>
+<area shape="rect" id="node13" href="$LeakDetector_8cpp.html" title="LeakDetector.cpp" alt="" coords="1489,80,1612,107"/>
+<area shape="rect" id="node14" href="$LegacyPassManager_8cpp.html" title="LegacyPassManager.cpp" alt="" coords="1636,80,1801,107"/>
+<area shape="rect" id="node15" href="$LLVMContext_8cpp.html" title="LLVMContext.cpp" alt="" coords="1825,80,1948,107"/>
+<area shape="rect" id="node16" href="$PassRegistry_8cpp.html" title="PassRegistry.cpp" alt="" coords="1972,80,2092,107"/>
+<area shape="rect" id="node17" href="$Value_8cpp.html" title="Value.cpp" alt="" coords="2117,80,2195,107"/>
+<area shape="rect" id="node18" href="$CommandLine_8cpp.html" title="CommandLine.cpp" alt="" coords="2219,80,2349,107"/>
+<area shape="rect" id="node19" href="$CrashRecoveryContext_8cpp.html" title="CrashRecoveryContext.cpp" alt="" coords="2373,80,2549,107"/>
+<area shape="rect" id="node20" href="$DynamicLibrary_8cpp.html" title="DynamicLibrary.cpp" alt="" coords="2574,80,2709,107"/>
+<area shape="rect" id="node21" href="$ManagedStatic_8cpp.html" title="ManagedStatic.cpp" alt="" coords="2733,80,2867,107"/>
+<area shape="rect" id="node22" href="$PluginLoader_8cpp.html" title="PluginLoader.cpp" alt="" coords="2891,80,3013,107"/>
+<area shape="rect" id="node23" href="$PrettyStackTrace_8cpp.html" title="PrettyStackTrace.cpp" alt="" coords="3037,80,3184,107"/>
+<area shape="rect" id="node24" href="$Statistic_8cpp.html" title="Statistic.cpp" alt="" coords="3208,80,3301,107"/>
+<area shape="rect" id="node25" href="$Timer_8cpp.html" title="Timer.cpp" alt="" coords="3326,80,3405,107"/>
+<area shape="rect" id="node26" href="$NVPTXUtilities_8cpp.html" title="NVPTXUtilities.cpp" alt="" coords="3429,80,3560,107"/>
+<area shape="rect" id="node27" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="3585,80,3749,107"/>
+</map>

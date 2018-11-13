@@ -1,0 +1,6 @@
+<map id="llvm::IntervalMapImpl::BranchNode&lt; KeyT, ValT, N, Traits &gt;" name="llvm::IntervalMapImpl::BranchNode&lt; KeyT, ValT, N, Traits &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; NodeRef,\l KeyT, N \&gt;" alt="" coords="77,199,229,255"/>
+<area shape="rect" id="node3" href="$classKeyT.html" title="KeyT" alt="" coords="5,102,57,129"/>
+<area shape="rect" id="node4" href="$classllvm_1_1IntervalMapImpl_1_1NodeRef.html" title="llvm::IntervalMapImpl\l::NodeRef" alt="" coords="81,95,224,136"/>
+<area shape="rect" id="node5" href="$classllvm_1_1IntervalMapImpl_1_1NodeBase.html" title="llvm::IntervalMapImpl\l::NodeBase\&lt; T1, T2, N \&gt;" alt="" coords="249,95,411,136"/>
+</map>

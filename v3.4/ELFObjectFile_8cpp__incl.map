@@ -1,0 +1,35 @@
+<map id="ELFObjectFile.cpp" name="ELFObjectFile.cpp">
+<area shape="rect" id="node2" href="$ELFObjectFile_8h.html" title="llvm/Object/ELFObjectFile.h" alt="" coords="2549,80,2732,107"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="586,528,758,555"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="410,453,561,480"/>
+<area shape="rect" id="node22" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="783,528,951,555"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2033,453,2192,480"/>
+<area shape="rect" id="node26" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2554,453,2716,480"/>
+<area shape="rect" id="node29" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="3652,229,3773,256"/>
+<area shape="rect" id="node31" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3248,453,3433,480"/>
+<area shape="rect" id="node32" href="$Object_2ELF_8h.html" title="llvm/Object/ELF.h" alt="" coords="2332,155,2456,181"/>
+<area shape="rect" id="node37" href="$Support_2ELF_8h.html" title="llvm/Support/ELF.h" alt="" coords="1504,453,1635,480"/>
+<area shape="rect" id="node38" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1334,453,1480,480"/>
+<area shape="rect" id="node41" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1854,453,2005,480"/>
+<area shape="rect" id="node43" href="$MemoryBuffer_8h.html" title="llvm/Support/MemoryBuffer.h" alt="" coords="3842,304,4028,331"/>
+<area shape="rect" id="node46" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2634,229,2815,256"/>
+<area shape="rect" id="node48" href="$ObjectFile_8h.html" title="llvm/Object/ObjectFile.h" alt="" coords="3150,229,3310,256"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="338,528,510,555"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="564,603,727,644"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1025,610,1192,637"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1128,528,1278,555"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1438,610,1597,637"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1216,610,1414,637"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2994,528,3137,555"/>
+<area shape="rect" id="node30" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3892,379,4015,405"/>
+<area shape="rect" id="node33" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2167,304,2306,331"/>
+<area shape="rect" id="node36" href="$ELFTypes_8h.html" title="llvm/Object/ELFTypes.h" alt="" coords="1593,379,1752,405"/>
+<area shape="rect" id="node40" href="$Object_2Error_8h.html" title="llvm/Object/Error.h" alt="" coords="3348,379,3476,405"/>
+<area shape="rect" id="node42" href="$ErrorOr_8h.html" title="llvm/Support/ErrorOr.h" alt="" coords="1110,453,1259,480"/>
+<area shape="rect" id="node34" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2186,379,2305,405"/>
+<area shape="rect" id="node39" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1810,528,1945,555"/>
+<area shape="rect" id="node44" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="3501,379,3716,405"/>
+<area shape="rect" id="node45" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="4090,379,4188,405"/>
+<area shape="rect" id="node47" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2994,304,3166,331"/>
+<area shape="rect" id="node49" href="$Binary_8h.html" title="llvm/Object/Binary.h" alt="" coords="3344,304,3481,331"/>
+</map>

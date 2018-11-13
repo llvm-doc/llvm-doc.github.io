@@ -1,0 +1,10 @@
+<map id="llvm::MipsInstrInfo" name="llvm::MipsInstrInfo">
+<area shape="rect" id="node2" href="$classMipsGenInstrInfo.html" title="MipsGenInstrInfo" alt="" coords="1245,384,1365,411"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="1223,435,1387,461"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1003,425,1173,452"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="732,387,869,413"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="465,64,597,91"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="471,841,590,868"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="487,387,575,413"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="457,437,604,464"/>
+</map>

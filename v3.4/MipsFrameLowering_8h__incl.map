@@ -1,0 +1,37 @@
+<map id="MipsFrameLowering.h" name="MipsFrameLowering.h">
+<area shape="rect" id="node2" href="$Mips_8h.html" title="Mips.h" alt="" coords="713,162,771,189"/>
+<area shape="rect" id="node28" href="$MipsSubtarget_8h.html" title="MipsSubtarget.h" alt="" coords="1547,162,1662,189"/>
+<area shape="rect" id="node35" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="3045,80,3271,107"/>
+<area shape="rect" id="node3" href="$MipsMCTargetDesc_8h.html" title="MCTargetDesc/MipsMCTarget\lDesc.h" alt="" coords="272,244,468,285"/>
+<area shape="rect" id="node8" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="649,251,835,278"/>
+<area shape="rect" id="node9" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1297,483,1440,509"/>
+<area shape="rect" id="node18" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="901,333,988,360"/>
+<area shape="rect" id="node24" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1349,333,1511,360"/>
+<area shape="rect" id="node27" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="703,483,885,509"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2981,557,3148,584"/>
+<area shape="rect" id="node19" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1567,483,1725,509"/>
+<area shape="rect" id="node21" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1059,408,1191,435"/>
+<area shape="rect" id="node23" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="855,408,1034,435"/>
+<area shape="rect" id="node25" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="1317,408,1473,435"/>
+<area shape="rect" id="node26" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1497,408,1683,435"/>
+<area shape="rect" id="node29" href="$MipsReginfo_8h.html" title="MCTargetDesc/MipsReginfo.h" alt="" coords="1875,251,2068,278"/>
+<area shape="rect" id="node30" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1902,483,2086,509"/>
+<area shape="rect" id="node32" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="1668,244,1851,285"/>
+<area shape="rect" id="node31" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="1929,557,2086,584"/>
+<area shape="rect" id="node33" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="2150,408,2331,435"/>
+<area shape="rect" id="node34" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="2313,483,2496,509"/>
+<area shape="rect" id="node36" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2999,155,3187,196"/>
+<area shape="rect" id="node37" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2356,251,2512,278"/>
+<area shape="rect" id="node38" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2536,251,2727,278"/>
+<area shape="rect" id="node39" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2521,483,2659,509"/>
+<area shape="rect" id="node40" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="2976,483,3148,509"/>
+<area shape="rect" id="node41" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2937,333,3085,360"/>
+<area shape="rect" id="node43" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2017,408,2125,435"/>
+<area shape="rect" id="node44" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1961,333,2104,360"/>
+<area shape="rect" id="node45" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="1591,557,1805,584"/>
+<area shape="rect" id="node46" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="1859,408,1993,435"/>
+<area shape="rect" id="node47" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="2553,333,2710,360"/>
+<area shape="rect" id="node48" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="2128,333,2316,360"/>
+<area shape="rect" id="node49" href="$DebugLoc_8h.html" title="llvm/Support/DebugLoc.h" alt="" coords="2785,483,2952,509"/>
+<area shape="rect" id="node50" href="$TargetOpcodes_8h.html" title="llvm/Target/TargetOpcodes.h" alt="" coords="2340,333,2528,360"/>
+</map>

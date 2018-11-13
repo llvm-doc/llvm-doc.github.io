@@ -1,0 +1,37 @@
+<map id="X86AsmParser.cpp" name="X86AsmParser.cpp">
+<area shape="rect" id="node2" href="$X86BaseInfo_8h.html" title="MCTargetDesc/X86BaseInfo.h" alt="" coords="3777,169,3973,196"/>
+<area shape="rect" id="node16" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="2689,87,2825,114"/>
+<area shape="rect" id="node19" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="132,244,280,271"/>
+<area shape="rect" id="node23" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="737,169,893,196"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="645,244,804,271"/>
+<area shape="rect" id="node27" href="$StringSwitch_8h.html" title="llvm/ADT/StringSwitch.h" alt="" coords="2301,244,2463,271"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="3423,169,3546,196"/>
+<area shape="rect" id="node29" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1379,87,1526,114"/>
+<area shape="rect" id="node34" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1994,244,2175,271"/>
+<area shape="rect" id="node38" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="2341,169,2469,196"/>
+<area shape="rect" id="node39" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1421,169,1545,196"/>
+<area shape="rect" id="node40" href="$MCAsmLexer_8h.html" title="llvm/MC/MCParser/MCAsmLexer.h" alt="" coords="2738,244,2959,271"/>
+<area shape="rect" id="node41" href="$MCAsmParser_8h.html" title="llvm/MC/MCParser/MCAsmParser.h" alt="" coords="2487,244,2714,271"/>
+<area shape="rect" id="node42" href="$MCParsedAsmOperand_8h.html" title="llvm/MC/MCParser/MCParsed\lAsmOperand.h" alt="" coords="2849,80,3043,121"/>
+<area shape="rect" id="node43" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="3176,169,3348,196"/>
+<area shape="rect" id="node44" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="3068,87,3224,114"/>
+<area shape="rect" id="node45" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="3827,87,4009,114"/>
+<area shape="rect" id="node46" href="$MCSymbol_8h.html" title="llvm/MC/MCSymbol.h" alt="" coords="1773,244,1919,271"/>
+<area shape="rect" id="node47" href="$MCTargetAsmParser_8h.html" title="llvm/MC/MCTargetAsmParser.h" alt="" coords="2259,87,2462,114"/>
+<area shape="rect" id="node48" href="$SourceMgr_8h.html" title="llvm/Support/SourceMgr.h" alt="" coords="3375,87,3546,114"/>
+<area shape="rect" id="node49" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="3384,319,3575,345"/>
+<area shape="rect" id="node3" href="$X86MCTargetDesc_8h.html" title="X86MCTargetDesc.h" alt="" coords="4027,319,4169,345"/>
+<area shape="rect" id="node6" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3283,244,3468,271"/>
+<area shape="rect" id="node15" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="3599,319,3749,345"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2013,319,2156,345"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1795,393,1953,420"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1259,393,1425,420"/>
+<area shape="rect" id="node17" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="2983,244,3106,271"/>
+<area shape="rect" id="node18" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1259,319,1431,345"/>
+<area shape="rect" id="node25" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="880,319,1031,345"/>
+<area shape="rect" id="node30" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1088,244,1239,271"/>
+<area shape="rect" id="node31" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1249,169,1397,196"/>
+<area shape="rect" id="node32" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="852,244,1011,271"/>
+<area shape="rect" id="node33" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="1722,169,1858,196"/>
+<area shape="rect" id="node37" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1020,169,1173,196"/>
+</map>

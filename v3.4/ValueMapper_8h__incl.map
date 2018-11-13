@@ -1,0 +1,20 @@
+<map id="ValueMapper.h" name="ValueMapper.h">
+<area shape="rect" id="node2" href="$ValueMap_8h.html" title="llvm/ADT/ValueMap.h" alt="" coords="1023,80,1169,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="550,379,701,405"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="577,535,743,562"/>
+<area shape="rect" id="node22" href="$Mutex_8h.html" title="llvm/Support/Mutex.h" alt="" coords="1819,453,1962,480"/>
+<area shape="rect" id="node24" href="$ValueHandle_8h.html" title="llvm/Support/ValueHandle.h" alt="" coords="1238,155,1418,181"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="687,453,859,480"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1265,528,1428,569"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="935,453,1086,480"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1453,535,1611,562"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="391,453,563,480"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1042,535,1241,562"/>
+<area shape="rect" id="node23" href="$Threading_8h.html" title="llvm/Support/Threading.h" alt="" coords="1797,535,1963,562"/>
+<area shape="rect" id="node25" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1576,453,1744,480"/>
+<area shape="rect" id="node26" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="1377,229,1485,256"/>
+<area shape="rect" id="node27" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="1439,304,1537,331"/>
+<area shape="rect" id="node28" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1235,379,1450,405"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1299,453,1450,480"/>
+<area shape="rect" id="node30" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1627,379,1725,405"/>
+</map>

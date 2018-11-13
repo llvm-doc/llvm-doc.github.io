@@ -1,0 +1,38 @@
+<map id="Thumb2SizeReduction.cpp" name="Thumb2SizeReduction.cpp">
+<area shape="rect" id="node2" href="$ARM_8h.html" title="ARM.h" alt="" coords="901,341,963,367"/>
+<area shape="rect" id="node14" href="$ARMBaseInstrInfo_8h.html" title="ARMBaseInstrInfo.h" alt="" coords="821,251,958,278"/>
+<area shape="rect" id="node15" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1666,423,1817,449"/>
+<area shape="rect" id="node29" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="987,333,1168,375"/>
+<area shape="rect" id="node31" href="$ARMBaseRegisterInfo_8h.html" title="ARMBaseRegisterInfo.h" alt="" coords="1135,251,1294,278"/>
+<area shape="rect" id="node33" href="$ARMSubtarget_8h.html" title="ARMSubtarget.h" alt="" coords="93,423,211,449"/>
+<area shape="rect" id="node37" href="$ARMAddressingModes_8h.html" title="MCTargetDesc/ARMAddressing\lModes.h" alt="" coords="1943,244,2147,285"/>
+<area shape="rect" id="node40" href="$Thumb2InstrInfo_8h.html" title="Thumb2InstrInfo.h" alt="" coords="1062,87,1189,114"/>
+<area shape="rect" id="node42" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="2503,87,2691,114"/>
+<area shape="rect" id="node44" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="2716,87,2852,114"/>
+<area shape="rect" id="node45" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="2877,80,3083,121"/>
+<area shape="rect" id="node46" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="1811,169,2002,196"/>
+<area shape="rect" id="node47" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2902,251,3029,278"/>
+<area shape="rect" id="node48" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="2482,423,2673,449"/>
+<area shape="rect" id="node49" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2282,87,2427,114"/>
+<area shape="rect" id="node50" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2247,169,2428,196"/>
+<area shape="rect" id="node3" href="$ARMBaseInfo_8h.html" title="MCTargetDesc/ARMBaseInfo.h" alt="" coords="627,423,829,449"/>
+<area shape="rect" id="node4" href="$ARMMCTargetDesc_8h.html" title="ARMMCTargetDesc.h" alt="" coords="503,505,649,531"/>
+<area shape="rect" id="node12" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="853,423,1040,449"/>
+<area shape="rect" id="node10" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="983,505,1169,531"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2487,594,2646,621"/>
+<area shape="rect" id="node28" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="234,423,377,449"/>
+<area shape="rect" id="node30" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="240,341,424,367"/>
+<area shape="rect" id="node16" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1779,505,1951,531"/>
+<area shape="rect" id="node17" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1228,587,1391,628"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1843,594,2010,621"/>
+<area shape="rect" id="node21" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1466,505,1617,531"/>
+<area shape="rect" id="node22" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2267,505,2439,531"/>
+<area shape="rect" id="node32" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1295,333,1470,375"/>
+<area shape="rect" id="node34" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="255,505,377,531"/>
+<area shape="rect" id="node35" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="673,505,857,531"/>
+<area shape="rect" id="node36" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="49,497,231,539"/>
+<area shape="rect" id="node38" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="2133,341,2269,367"/>
+<area shape="rect" id="node39" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="2231,423,2353,449"/>
+<area shape="rect" id="node41" href="$Thumb2RegisterInfo_8h.html" title="Thumb2RegisterInfo.h" alt="" coords="1087,169,1235,196"/>
+<area shape="rect" id="node43" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2519,169,2675,196"/>
+</map>

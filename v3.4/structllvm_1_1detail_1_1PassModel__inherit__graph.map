@@ -1,0 +1,5 @@
+<map id="llvm::detail::PassModel&lt; T, PassT &gt;" name="llvm::detail::PassModel&lt; T, PassT &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1detail_1_1PassModel.html" title="llvm::detail::PassModel\l\&lt; Function *, PassT \&gt;" alt="" coords="575,5,725,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1detail_1_1PassModel.html" title="llvm::detail::PassModel\l\&lt; Module *, PassT \&gt;" alt="" coords="575,71,725,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1detail_1_1PassConcept.html" title="Template for the abstract base class used to dispatch polymorphically over pass objects. " alt="" coords="5,46,200,73"/>
+</map>

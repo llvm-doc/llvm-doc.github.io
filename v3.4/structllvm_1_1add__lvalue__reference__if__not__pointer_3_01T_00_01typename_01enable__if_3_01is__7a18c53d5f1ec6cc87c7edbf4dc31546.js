@@ -1,0 +1,4 @@
+var structllvm_1_1add__lvalue__reference__if__not__pointer_3_01T_00_01typename_01enable__if_3_01is__7a18c53d5f1ec6cc87c7edbf4dc31546 =
+[
+    [ "type", "structllvm_1_1add__lvalue__reference__if__not__pointer_3_01T_00_01typename_01enable__if_3_01is__7a18c53d5f1ec6cc87c7edbf4dc31546.html#a7ad0598aa663bcd45e5afae4877c98c6", null ]
+];

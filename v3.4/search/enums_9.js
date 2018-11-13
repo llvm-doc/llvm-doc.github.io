@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['icvalues',['ICValues',['../namespacellvm_1_1A64IC.html#a6f720a77813e89e788552f50747a1c61',1,'llvm::A64IC']]],
+  ['id',['ID',['../namespacellvm_1_1CallingConv.html#a4f861731fc6dbfdccc05af5968d98974',1,'llvm::CallingConv::ID()'],['../namespacellvm_1_1Intrinsic.html#a73349916f7e54a6b988a3646c7a02e90',1,'llvm::Intrinsic::ID()'],['../namespacellvm_1_1AMDGPUIntrinsic.html#a1bf5a7a727b2896a4255bb24a8195539',1,'llvm::AMDGPUIntrinsic::ID()']]],
+  ['iflags',['IFlags',['../namespacellvm_1_1ARM__PROC.html#aac31dd660a6f18140efdd62b351cb11b',1,'llvm::ARM_PROC']]],
+  ['iit_5finfo',['IIT_Info',['../Function_8cpp.html#ab47a6c0dd432fb555cdefe03dfd9d7ff',1,'Function.cpp']]],
+  ['iitdescriptorkind',['IITDescriptorKind',['../structllvm_1_1Intrinsic_1_1IITDescriptor.html#a4bdf4f1a432b628d6c78a4942244c0fc',1,'llvm::Intrinsic::IITDescriptor']]],
+  ['ijit_5fjvm_5fevent',['iJIT_jvm_event',['../jitprofiling_8h.html#a199e5cfae34a345dd07c5da4db615318',1,'jitprofiling.h']]],
+  ['imod',['IMod',['../namespacellvm_1_1ARM__PROC.html#a1add7850fad3f66c140ecee871460ea4',1,'llvm::ARM_PROC']]],
+  ['impl',['Impl',['../structllvm_1_1object_1_1object__error.html#a1f8dbc9f7f47d1cfa9bcfee11a6a6d6a',1,'llvm::object::object_error::Impl()'],['../structllvm_1_1sys_1_1fs_1_1file__magic.html#a3ee10a564a3f1865ced9706946e316e5',1,'llvm::sys::fs::file_magic::Impl()']]],
+  ['importnametype',['ImportNameType',['../namespacellvm_1_1COFF.html#acd2091d09f8c98e0285a7206358093a9',1,'llvm::COFF']]],
+  ['importtype',['ImportType',['../namespacellvm_1_1COFF.html#aa40acd0fa260c1f51fca46add3e573c2',1,'llvm::COFF']]],
+  ['indexmode',['IndexMode',['../namespacellvm_1_1ARMII.html#ac3c83a9ce4f6ef1a90d63ebe5722b2b9',1,'llvm::ARMII']]],
+  ['initkind',['InitKind',['../classllvm_1_1Init.html#a391b394017fc05f852045e4162999897',1,'llvm::Init']]],
+  ['inlineattribute',['InlineAttribute',['../namespacellvm_1_1dwarf.html#a05feed307dcff1df2e39f250502ab4b3',1,'llvm::dwarf']]],
+  ['instructionclass',['InstructionClass',['../namespacellvm_1_1objcarc.html#abba93b7feb4ffebce5927b8def92ee2a',1,'llvm::objcarc']]],
+  ['instructioncontext',['InstructionContext',['../X86DisassemblerDecoderCommon_8h.html#a8ee4ef62ace14145044f3ab99fa2a8fa',1,'X86DisassemblerDecoderCommon.h']]],
+  ['instsyncbopt',['InstSyncBOpt',['../namespacellvm_1_1ARM__ISB.html#ace7794787dfffb6440f88a5e8043b77e',1,'llvm::ARM_ISB']]],
+  ['inteloperatorkind',['IntelOperatorKind',['../X86AsmParser_8cpp.html#a76c91247179692cedba7aa69fce0b894',1,'X86AsmParser.cpp']]],
+  ['interferencekind',['InterferenceKind',['../classllvm_1_1LiveRegMatrix.html#ab317b81a1c575049207d5d9348d8635a',1,'llvm::LiveRegMatrix']]],
+  ['isbvalues',['ISBValues',['../namespacellvm_1_1A64ISB.html#ac7629147708be80f5368c6770931eda0',1,'llvm::A64ISB']]],
+  ['itmode',['ITMode',['../ARMSubtarget_8cpp.html#acd10987f88cf72d75845f32397f768a2',1,'ARMSubtarget.cpp']]]
+];

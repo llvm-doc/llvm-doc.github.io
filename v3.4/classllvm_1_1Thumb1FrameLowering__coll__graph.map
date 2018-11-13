@@ -1,0 +1,12 @@
+<map id="llvm::Thumb1FrameLowering" name="llvm::Thumb1FrameLowering">
+<area shape="rect" id="node2" href="$classllvm_1_1ARMFrameLowering.html" title="llvm::ARMFrameLowering" alt="" coords="1268,533,1436,560"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetFrameLowering.html" title="llvm::TargetFrameLowering" alt="" coords="1019,512,1195,539"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ARMSubtarget.html" title="llvm::ARMSubtarget" alt="" coords="1039,563,1175,589"/>
+<area shape="rect" id="node5" href="$classARMGenSubtargetInfo.html" title="ARMGenSubtargetInfo" alt="" coords="720,207,873,233"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="731,308,863,335"/>
+<area shape="rect" id="node13" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="722,484,871,511"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="343,624,486,651"/>
+<area shape="rect" id="node16" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="353,417,476,444"/>
+<area shape="rect" id="node18" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="359,367,470,393"/>
+<area shape="rect" id="node21" href="$classllvm_1_1Triple.html" title="llvm::Triple" alt="" coords="755,904,838,931"/>
+</map>

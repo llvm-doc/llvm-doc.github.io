@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['dagupdatelistener',['DAGUpdateListener',['../classllvm_1_1SelectionDAG.html#ae465b76a465f0d698764e660f1be55d0',1,'llvm::SelectionDAG']]],
+  ['datalayout',['DataLayout',['../classllvm_1_1StructLayout.html#a398fb0f3c52a366b921968883d5eab05',1,'llvm::StructLayout']]],
+  ['defusechain_5fiterator',['defusechain_iterator',['../classllvm_1_1MachineRegisterInfo.html#a7e7e757cf0e1dc21a40e4d183d980196',1,'llvm::MachineRegisterInfo']]],
+  ['densemapbase_3c_20densemap_2c_20keyt_2c_20valuet_2c_20keyinfot_20_3e',['DenseMapBase&lt; DenseMap, KeyT, ValueT, KeyInfoT &gt;',['../classllvm_1_1DenseMap.html#ade403915b6e942dccc2c28638a2480bd',1,'llvm::DenseMap']]],
+  ['densemapbase_3c_20smalldensemap_2c_20keyt_2c_20valuet_2c_20keyinfot_20_3e',['DenseMapBase&lt; SmallDenseMap, KeyT, ValueT, KeyInfoT &gt;',['../classllvm_1_1SmallDenseMap.html#ae4b4f6aad173065080c034a8a262cc5b',1,'llvm::SmallDenseMap']]],
+  ['densemapinfo',['DenseMapInfo',['../classllvm_1_1AttributeSet.html#aa6028bf52b34db79c36196ca0c0025be',1,'llvm::AttributeSet']]],
+  ['densemapinfo_3c_20debugloc_20_3e',['DenseMapInfo&lt; DebugLoc &gt;',['../classllvm_1_1DebugLoc.html#a8ffbe01623d5367da9ca7effdeace43c',1,'llvm::DebugLoc']]],
+  ['densemapinfo_3c_20valuemapcallbackvh_20_3e',['DenseMapInfo&lt; ValueMapCallbackVH &gt;',['../classllvm_1_1ValueMapCallbackVH.html#a6198f1d5a96a85cf17df1abcbef9745f',1,'llvm::ValueMapCallbackVH']]],
+  ['densemapiterator_3c_20keyt_2c_20valuet_2c_20keyinfot_2c_20true_20_3e',['DenseMapIterator&lt; KeyT, ValueT, KeyInfoT, true &gt;',['../classllvm_1_1DenseMapIterator.html#a5ca7b1d9a29cffcf2938593619cf677a',1,'llvm::DenseMapIterator']]],
+  ['denseset',['DenseSet',['../classllvm_1_1DenseSet_1_1Iterator.html#a9b4728e5e7447257df301622eb1c51d5',1,'llvm::DenseSet::Iterator::DenseSet()'],['../classllvm_1_1DenseSet_1_1ConstIterator.html#a9b4728e5e7447257df301622eb1c51d5',1,'llvm::DenseSet::ConstIterator::DenseSet()']]],
+  ['dependenceanalysis',['DependenceAnalysis',['../classllvm_1_1Dependence.html#a25d3a37cac105bb5566b24566a348ce5',1,'llvm::Dependence::DependenceAnalysis()'],['../classllvm_1_1FullDependence.html#a25d3a37cac105bb5566b24566a348ce5',1,'llvm::FullDependence::DependenceAnalysis()']]],
+  ['deserializer',['Deserializer',['../classllvm_1_1BitstreamCursor.html#a0c541e43f0cc8d5a52e519ebcf1709f5',1,'llvm::BitstreamCursor']]],
+  ['dfspass',['DFSPass',['../classllvm_1_1DominatorTreeBase.html#a0c4dfe6306a49389d0a756a4cca51b71',1,'llvm::DominatorTreeBase']]],
+  ['didescriptor',['DIDescriptor',['../classllvm_1_1DISubrange.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DISubrange::DIDescriptor()'],['../classllvm_1_1DIEnumerator.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIEnumerator::DIDescriptor()'],['../classllvm_1_1DIScope.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIScope::DIDescriptor()'],['../classllvm_1_1DIType.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIType::DIDescriptor()'],['../classllvm_1_1DIDerivedType.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIDerivedType::DIDescriptor()'],['../classllvm_1_1DICompositeType.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DICompositeType::DIDescriptor()'],['../classllvm_1_1DIFile.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIFile::DIDescriptor()'],['../classllvm_1_1DICompileUnit.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DICompileUnit::DIDescriptor()'],['../classllvm_1_1DISubprogram.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DISubprogram::DIDescriptor()'],['../classllvm_1_1DINameSpace.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DINameSpace::DIDescriptor()'],['../classllvm_1_1DIGlobalVariable.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIGlobalVariable::DIDescriptor()'],['../classllvm_1_1DIVariable.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIVariable::DIDescriptor()'],['../classllvm_1_1DIObjCProperty.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIObjCProperty::DIDescriptor()'],['../classllvm_1_1DIImportedEntity.html#a84461ef7a1b7c42d3d4e63de72f901e0',1,'llvm::DIImportedEntity::DIDescriptor()']]],
+  ['diref',['DIRef',['../classllvm_1_1DIDescriptor.html#aa9796763b8be43e2da2548528bebb559',1,'llvm::DIDescriptor']]],
+  ['document',['Document',['../classllvm_1_1yaml_1_1Stream.html#a883538034e58fc5c0de7d4e4cab3cef7',1,'llvm::yaml::Stream']]],
+  ['document_5fiterator',['document_iterator',['../classllvm_1_1yaml_1_1Document.html#aa1b2098fb9098819d9009d63dda2f7b5',1,'llvm::yaml::Document']]],
+  ['dominatortreebase',['DominatorTreeBase',['../classllvm_1_1DomTreeNodeBase.html#a74b072ede12b948c0e156f69f922ec2c',1,'llvm::DomTreeNodeBase']]],
+  ['getcontext',['getContext',['../classllvm_1_1DIRef.html#afe515e261b436f4730fc6a56bc6ffb38',1,'llvm::DIRef']]],
+  ['getfieldas',['getFieldAs',['../classllvm_1_1DIRef.html#a0aed01353d5df4a5b4db8cf3365899ce',1,'llvm::DIRef']]],
+  ['getref',['getRef',['../classllvm_1_1DIRef.html#a639cc60900e0cc1be3f87c217a42a158',1,'llvm::DIRef']]]
+];

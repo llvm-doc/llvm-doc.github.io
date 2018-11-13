@@ -1,0 +1,36 @@
+<map id="LoopIterator.h" name="LoopIterator.h">
+<area shape="rect" id="node2" href="$PostOrderIterator_8h.html" title="llvm/ADT/PostOrderIterator.h" alt="" coords="3327,379,3515,405"/>
+<area shape="rect" id="node15" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1101,80,1261,107"/>
+<area shape="rect" id="node3" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="3699,453,3855,480"/>
+<area shape="rect" id="node4" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="2448,453,2607,480"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1781,535,1940,562"/>
+<area shape="rect" id="node8" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="2154,528,2317,569"/>
+<area shape="rect" id="node16" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="699,379,849,405"/>
+<area shape="rect" id="node26" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="701,155,847,181"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1209,379,1368,405"/>
+<area shape="rect" id="node30" href="$Dominators_8h.html" title="llvm/Analysis/Dominators.h" alt="" coords="1907,155,2081,181"/>
+<area shape="rect" id="node40" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1899,229,1985,256"/>
+<area shape="rect" id="node17" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1003,453,1175,480"/>
+<area shape="rect" id="node18" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="960,535,1127,562"/>
+<area shape="rect" id="node20" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="580,453,731,480"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="807,453,979,480"/>
+<area shape="rect" id="node22" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="737,535,936,562"/>
+<area shape="rect" id="node31" href="$DepthFirstIterator_8h.html" title="llvm/ADT/DepthFirstIterator.h" alt="" coords="3113,379,3302,405"/>
+<area shape="rect" id="node33" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2072,304,2199,331"/>
+<area shape="rect" id="node47" href="$Support_2CFG_8h.html" title="llvm/Support/CFG.h" alt="" coords="2348,229,2483,256"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2686,379,2867,405"/>
+<area shape="rect" id="node32" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="1999,453,2167,480"/>
+<area shape="rect" id="node34" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="2169,379,2301,405"/>
+<area shape="rect" id="node35" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2242,453,2373,480"/>
+<area shape="rect" id="node37" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2679,535,2821,562"/>
+<area shape="rect" id="node38" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="1831,379,1975,405"/>
+<area shape="rect" id="node39" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2000,379,2145,405"/>
+<area shape="rect" id="node41" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2320,304,2452,331"/>
+<area shape="rect" id="node46" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1679,304,1858,331"/>
+<area shape="rect" id="node42" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="2942,379,3089,405"/>
+<area shape="rect" id="node43" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="2326,379,2459,405"/>
+<area shape="rect" id="node45" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="3590,379,3739,405"/>
+<area shape="rect" id="node44" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1680,453,1823,480"/>
+<area shape="rect" id="node48" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="2476,304,2611,331"/>
+<area shape="rect" id="node50" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2784,453,2956,480"/>
+</map>

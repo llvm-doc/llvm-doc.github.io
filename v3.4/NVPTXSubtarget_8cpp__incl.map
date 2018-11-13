@@ -1,0 +1,38 @@
+<map id="NVPTXSubtarget.cpp" name="NVPTXSubtarget.cpp">
+<area shape="rect" id="node2" href="$NVPTXSubtarget_8h.html" title="NVPTXSubtarget.h" alt="" coords="2472,80,2603,107"/>
+<area shape="rect" id="node3" href="$NVPTX_8h.html" title="NVPTX.h" alt="" coords="1515,155,1589,181"/>
+<area shape="rect" id="node46" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="1166,453,1349,495"/>
+<area shape="rect" id="node4" href="$NVPTXBaseInfo_8h.html" title="MCTargetDesc/NVPTXBaseInfo.h" alt="" coords="1847,229,2063,256"/>
+<area shape="rect" id="node5" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1991,543,2139,569"/>
+<area shape="rect" id="node21" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="717,229,835,256"/>
+<area shape="rect" id="node26" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="269,461,377,487"/>
+<area shape="rect" id="node37" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1591,617,1777,644"/>
+<area shape="rect" id="node38" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2137,461,2324,487"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1991,692,2134,719"/>
+<area shape="rect" id="node16" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1409,617,1567,644"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1373,767,1539,793"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1227,692,1378,719"/>
+<area shape="rect" id="node19" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1402,692,1574,719"/>
+<area shape="rect" id="node18" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="679,767,838,793"/>
+<area shape="rect" id="node22" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="469,692,619,719"/>
+<area shape="rect" id="node23" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="633,304,759,331"/>
+<area shape="rect" id="node28" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="745,617,959,644"/>
+<area shape="rect" id="node34" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="784,304,925,331"/>
+<area shape="rect" id="node35" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="950,304,1109,331"/>
+<area shape="rect" id="node36" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="257,379,388,405"/>
+<area shape="rect" id="node24" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="486,379,618,405"/>
+<area shape="rect" id="node25" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="693,692,824,719"/>
+<area shape="rect" id="node31" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="744,543,885,569"/>
+<area shape="rect" id="node32" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="795,379,939,405"/>
+<area shape="rect" id="node33" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="963,379,1109,405"/>
+<area shape="rect" id="node27" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="187,543,285,569"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="899,692,1050,719"/>
+<area shape="rect" id="node30" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="43,692,141,719"/>
+<area shape="rect" id="node39" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2311,692,2398,719"/>
+<area shape="rect" id="node40" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1187,543,1349,569"/>
+<area shape="rect" id="node42" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2268,543,2449,569"/>
+<area shape="rect" id="node41" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="411,617,567,644"/>
+<area shape="rect" id="node47" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="1199,617,1380,644"/>
+<area shape="rect" id="node48" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1599,692,1783,719"/>
+<area shape="rect" id="node49" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="217,767,399,793"/>
+</map>

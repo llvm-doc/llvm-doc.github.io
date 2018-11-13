@@ -1,0 +1,5 @@
+<map id="llvm::DOTGraphTraits&lt; DomTreeNode * &gt;" name="llvm::DOTGraphTraits&lt; DomTreeNode * &gt;">
+<area shape="rect" id="node3" href="$structllvm_1_1DOTGraphTraits_3_01DominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; DominatorTree * \&gt;" alt="" coords="442,5,587,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1DOTGraphTraits_3_01PostDominatorTree_01_5_01_4.html" title="llvm::DOTGraphTraits\l\&lt; PostDominatorTree * \&gt;" alt="" coords="433,71,596,112"/>
+<area shape="rect" id="node2" href="$structllvm_1_1DefaultDOTGraphTraits.html" title="llvm::DefaultDOTGraphTraits" alt="" coords="5,46,192,73"/>
+</map>

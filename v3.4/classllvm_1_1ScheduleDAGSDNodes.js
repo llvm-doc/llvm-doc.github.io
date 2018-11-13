@@ -1,0 +1,28 @@
+var classllvm_1_1ScheduleDAGSDNodes =
+[
+    [ "RegDefIter", "classllvm_1_1ScheduleDAGSDNodes_1_1RegDefIter.html", "classllvm_1_1ScheduleDAGSDNodes_1_1RegDefIter" ],
+    [ "ScheduleDAGSDNodes", "classllvm_1_1ScheduleDAGSDNodes.html#ad73652eab6e03e092e32bde82040c8c7", null ],
+    [ "~ScheduleDAGSDNodes", "classllvm_1_1ScheduleDAGSDNodes.html#a606a3968bb4b336cb0caac9b682ca1c5", null ],
+    [ "BuildSchedGraph", "classllvm_1_1ScheduleDAGSDNodes.html#a3c3345f58d110bb14c409d80a8c34c64", null ],
+    [ "Clone", "classllvm_1_1ScheduleDAGSDNodes.html#a3a4bc523c204969228191d06465dad0c", null ],
+    [ "computeLatency", "classllvm_1_1ScheduleDAGSDNodes.html#a6ab45d1027ab01be9c371634c49d077b", null ],
+    [ "computeOperandLatency", "classllvm_1_1ScheduleDAGSDNodes.html#a83980e58075cc47fa1a6dbc63bc81b8f", null ],
+    [ "dumpNode", "classllvm_1_1ScheduleDAGSDNodes.html#a61e5fb038a9406e7c4d2677f386811f0", null ],
+    [ "dumpSchedule", "classllvm_1_1ScheduleDAGSDNodes.html#a3fd977c90e0dadc44ded650c2112c336", null ],
+    [ "EmitSchedule", "classllvm_1_1ScheduleDAGSDNodes.html#a6f60ed03227dbeb711a3ae9b1f0238e9", null ],
+    [ "forceUnitLatencies", "classllvm_1_1ScheduleDAGSDNodes.html#abb7997ab526c9ce168442c850e615f8a", null ],
+    [ "getCustomGraphFeatures", "classllvm_1_1ScheduleDAGSDNodes.html#ad2fe972e9d03e7c83ebf9685fb9fa574", null ],
+    [ "getDAGName", "classllvm_1_1ScheduleDAGSDNodes.html#aad61595e44411ce8173c17125d6d518c", null ],
+    [ "getGraphNodeLabel", "classllvm_1_1ScheduleDAGSDNodes.html#a3f67c644f91e157be556dd6aace59588", null ],
+    [ "InitNumRegDefsLeft", "classllvm_1_1ScheduleDAGSDNodes.html#a9e19da5240e1c311814f574bb0c235a4", null ],
+    [ "InitVRegCycleFlag", "classllvm_1_1ScheduleDAGSDNodes.html#ac8f6df53973157d119e2bf3fe0f4a91e", null ],
+    [ "isPassiveNode", "classllvm_1_1ScheduleDAGSDNodes.html#a901a96fb8eb2598eed200755554567c0", null ],
+    [ "newSUnit", "classllvm_1_1ScheduleDAGSDNodes.html#a15c0200b4b6e12b97d270fbea215443e", null ],
+    [ "Run", "classllvm_1_1ScheduleDAGSDNodes.html#aa00d73e05dee6c2701209bac3d7786b8", null ],
+    [ "Schedule", "classllvm_1_1ScheduleDAGSDNodes.html#a6730dde277dec2e2f901917520c8b3cc", null ],
+    [ "VerifyScheduledSequence", "classllvm_1_1ScheduleDAGSDNodes.html#a4b8c5a6f17aa50ecc8f64f74d4ba5e47", null ],
+    [ "BB", "classllvm_1_1ScheduleDAGSDNodes.html#a9f718397926caadcb301ca1e00aaf68c", null ],
+    [ "DAG", "classllvm_1_1ScheduleDAGSDNodes.html#a2dbfb92f74a3067ce823a76e3266b0e0", null ],
+    [ "InstrItins", "classllvm_1_1ScheduleDAGSDNodes.html#a91db1a13eaa5f8a8ac8ac78b5a60791b", null ],
+    [ "Sequence", "classllvm_1_1ScheduleDAGSDNodes.html#a9e9bf8e61a41a12bd87df9f4c671b2c2", null ]
+];

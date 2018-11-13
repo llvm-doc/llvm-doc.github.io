@@ -1,0 +1,4 @@
+<map id="llvm::CallSite" name="llvm::CallSite">
+<area shape="rect" id="node2" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; Function, Value, User,\l Instruction, CallInst,\l InvokeInst, User::op_iterator \&gt;" alt="" coords="341,29,536,99"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, ValTy, UserTy,\l InstrTy, CallTy, InvokeTy,\l IterTy \&gt;" alt="" coords="5,29,176,99"/>
+</map>

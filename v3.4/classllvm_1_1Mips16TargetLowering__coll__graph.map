@@ -1,0 +1,19 @@
+<map id="llvm::Mips16TargetLowering" name="llvm::Mips16TargetLowering">
+<area shape="rect" id="node2" href="$classllvm_1_1MipsTargetLowering.html" title="llvm::MipsTargetLowering" alt="" coords="1923,97,2089,124"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLowering.html" title="llvm::TargetLowering" alt="" coords="927,69,1065,96"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetLoweringBase.html" title="llvm::TargetLoweringBase" alt="" coords="457,115,625,141"/>
+<area shape="rect" id="node7" href="$classllvm_1_1MipsSubtarget.html" title="llvm::MipsSubtarget" alt="" coords="1680,615,1815,641"/>
+<area shape="rect" id="node11" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="470,688,613,715"/>
+<area shape="rect" id="node27" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="482,1593,601,1620"/>
+<area shape="rect" id="node10" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="753,755,903,781"/>
+<area shape="rect" id="node12" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="480,948,603,975"/>
+<area shape="rect" id="node14" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="486,832,597,859"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="759,1876,897,1903"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="475,1876,607,1903"/>
+<area shape="rect" id="node8" href="$classMipsGenSubtargetInfo.html" title="MipsGenSubtargetInfo" alt="" coords="1371,589,1522,616"/>
+<area shape="rect" id="node18" href="$classllvm_1_1MipsTargetMachine.html" title="llvm::MipsTargetMachine" alt="" coords="1365,1501,1529,1528"/>
+<area shape="rect" id="node19" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1089,1801,1260,1828"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="497,2049,585,2076"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="468,2100,615,2127"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MipsReginfo.html" title="llvm::MipsReginfo" alt="" coords="1385,488,1508,515"/>
+</map>

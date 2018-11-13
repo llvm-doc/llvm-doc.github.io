@@ -1,0 +1,6 @@
+<map id="llvm::SparcTargetMachine" name="llvm::SparcTargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1SparcV8TargetMachine.html" title="llvm::SparcV8TargetMachine" alt="" coords="5,229,192,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SparcV9TargetMachine.html" title="llvm::SparcV9TargetMachine" alt="" coords="216,229,403,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="119,80,289,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="135,5,273,32"/>
+</map>

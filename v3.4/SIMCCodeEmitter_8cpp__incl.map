@@ -1,0 +1,32 @@
+<map id="SIMCCodeEmitter.cpp" name="SIMCCodeEmitter.cpp">
+<area shape="rect" id="node2" href="$AMDGPUMCTargetDesc_8h.html" title="Provides AMDGPU specific target descriptions. " alt="" coords="2743,80,2969,121"/>
+<area shape="rect" id="node16" href="$AMDGPUMCCodeEmitter_8h.html" title="CodeEmitter interface for R600 and SI codegen. " alt="" coords="2036,80,2255,121"/>
+<area shape="rect" id="node17" href="$MCCodeEmitter_8h.html" title="llvm/MC/MCCodeEmitter.h" alt="" coords="2505,169,2679,196"/>
+<area shape="rect" id="node20" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1476,244,1657,271"/>
+<area shape="rect" id="node31" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="1865,87,2012,114"/>
+<area shape="rect" id="node42" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="115,319,250,345"/>
+<area shape="rect" id="node44" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="521,393,645,420"/>
+<area shape="rect" id="node45" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="399,169,550,196"/>
+<area shape="rect" id="node47" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="359,319,531,345"/>
+<area shape="rect" id="node48" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="721,319,903,345"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1342,468,1485,495"/>
+<area shape="rect" id="node4" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1011,625,1178,651"/>
+<area shape="rect" id="node18" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2385,625,2543,651"/>
+<area shape="rect" id="node21" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="1357,319,1529,345"/>
+<area shape="rect" id="node22" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1629,393,1785,420"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1030,393,1215,420"/>
+<area shape="rect" id="node23" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1670,468,1829,495"/>
+<area shape="rect" id="node24" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1974,543,2125,569"/>
+<area shape="rect" id="node25" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1582,543,1754,569"/>
+<area shape="rect" id="node32" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="723,468,874,495"/>
+<area shape="rect" id="node37" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2046,393,2194,420"/>
+<area shape="rect" id="node38" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="2041,468,2199,495"/>
+<area shape="rect" id="node39" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="2128,169,2264,196"/>
+<area shape="rect" id="node41" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="1605,169,1758,196"/>
+<area shape="rect" id="node33" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="435,543,607,569"/>
+<area shape="rect" id="node34" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="316,617,479,659"/>
+<area shape="rect" id="node43" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="245,468,395,495"/>
+<area shape="rect" id="node46" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="396,244,553,271"/>
+<area shape="rect" id="node49" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1291,393,1475,420"/>
+<area shape="rect" id="node50" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="721,393,903,420"/>
+</map>

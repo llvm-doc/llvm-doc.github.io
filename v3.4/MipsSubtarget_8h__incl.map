@@ -1,0 +1,18 @@
+<map id="MipsSubtarget.h" name="MipsSubtarget.h">
+<area shape="rect" id="node2" href="$MipsReginfo_8h.html" title="MCTargetDesc/MipsReginfo.h" alt="" coords="207,87,401,114"/>
+<area shape="rect" id="node3" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="188,244,372,271"/>
+<area shape="rect" id="node8" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="695,468,881,495"/>
+<area shape="rect" id="node18" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="525,80,707,121"/>
+<area shape="rect" id="node4" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="5,543,163,569"/>
+<area shape="rect" id="node9" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="413,543,555,569"/>
+<area shape="rect" id="node16" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1601,543,1759,569"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="489,617,655,644"/>
+<area shape="rect" id="node19" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="476,169,657,196"/>
+<area shape="rect" id="node24" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="732,393,895,420"/>
+<area shape="rect" id="node20" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="398,244,581,271"/>
+<area shape="rect" id="node21" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="403,319,525,345"/>
+<area shape="rect" id="node22" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="408,393,531,420"/>
+<area shape="rect" id="node25" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="970,468,1126,495"/>
+<area shape="rect" id="node26" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="893,617,990,644"/>
+<area shape="rect" id="node27" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="1255,543,1361,569"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="llvm::TypedInit" name="llvm::TypedInit">
+<area shape="rect" id="node3" href="$classllvm_1_1DagInit.html" title="llvm::DagInit" alt="" coords="306,5,398,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DefInit.html" title="llvm::DefInit" alt="" coords="307,56,397,83"/>
+<area shape="rect" id="node5" href="$classllvm_1_1FieldInit.html" title="llvm::FieldInit" alt="" coords="303,107,401,133"/>
+<area shape="rect" id="node6" href="$classllvm_1_1IntInit.html" title="llvm::IntInit" alt="" coords="310,157,394,184"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ListInit.html" title="llvm::ListInit" alt="" coords="307,208,397,235"/>
+<area shape="rect" id="node8" href="$classllvm_1_1OpInit.html" title="llvm::OpInit" alt="" coords="309,259,395,285"/>
+<area shape="rect" id="node12" href="$classllvm_1_1StringInit.html" title="llvm::StringInit" alt="" coords="301,309,403,336"/>
+<area shape="rect" id="node13" href="$classllvm_1_1VarInit.html" title="llvm::VarInit" alt="" coords="308,360,396,387"/>
+<area shape="rect" id="node14" href="$classllvm_1_1VarListElementInit.html" title="llvm::VarListElementInit" alt="" coords="275,411,429,437"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="5,208,75,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1BinOpInit.html" title="llvm::BinOpInit" alt="" coords="481,208,586,235"/>
+<area shape="rect" id="node10" href="$classllvm_1_1TernOpInit.html" title="llvm::TernOpInit" alt="" coords="477,259,589,285"/>
+<area shape="rect" id="node11" href="$classllvm_1_1UnOpInit.html" title="llvm::UnOpInit" alt="" coords="482,309,585,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::PatternMatch::br_match" name="llvm::PatternMatch::br_match">
+<area shape="rect" id="node2" href="$classllvm_1_1BasicBlock.html" title="LLVM Basic Block Representation. " alt="" coords="85,304,201,331"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="5,228,88,255"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; BasicBlock \&gt;" alt="" coords="112,228,304,255"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; BasicBlock \&gt;" alt="" coords="121,109,255,151"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="216,5,349,47"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="279,117,449,143"/>
+</map>

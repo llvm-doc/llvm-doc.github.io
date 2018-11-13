@@ -1,0 +1,7 @@
+<map id="Transforms" name="Transforms">
+<area shape="rect" id="node1" href="$group__LLVMCTransformsPassManagerBuilder.html" title="Pass manager builder" alt="" coords="351,5,495,32"/>
+<area shape="rect" id="node2" href="$group__LLVMCTransformsScalar.html" title="Scalar transformations" alt="" coords="348,56,499,83"/>
+<area shape="rect" id="node3" href="$group__LLVMCTransformsVectorize.html" title="Vectorization transformations" alt="" coords="330,107,517,133"/>
+<area shape="rect" id="node5" href="$group__LLVMCTransformsIPO.html" title="Interprocedural transformations" alt="" coords="324,157,523,184"/>
+<area shape="rect" id="node6" href="$group__LLVMC.html" title="LLVM&#45;C: C interface\l to LLVM" alt="" coords="5,74,141,115"/>
+</map>

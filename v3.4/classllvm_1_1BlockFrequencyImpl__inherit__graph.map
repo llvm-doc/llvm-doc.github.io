@@ -1,0 +1,4 @@
+<map id="llvm::BlockFrequencyImpl&lt; BlockT, FunctionT, BlockProbInfoT &gt;" name="llvm::BlockFrequencyImpl&lt; BlockT, FunctionT, BlockProbInfoT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1BlockFrequencyImpl.html" title="llvm::BlockFrequencyImpl\l\&lt; llvm::MachineBasicBlock,\l llvm::MachineFunction, llvm\l::MachineBranchProbabilityInfo \&gt;" alt="" coords="445,17,655,87"/>
+<area shape="rect" id="node3" href="$classllvm_1_1BlockFrequencyImpl.html" title="llvm::BlockFrequencyImpl\l\&lt; llvm::BasicBlock, llvm\l::Function, llvm::BranchProbability\lInfo \&gt;" alt="" coords="443,111,657,182"/>
+</map>

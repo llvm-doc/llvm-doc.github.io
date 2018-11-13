@@ -1,0 +1,11 @@
+<map id="llvm::SwitchInst" name="llvm::SwitchInst">
+<area shape="rect" id="node2" href="$classllvm_1_1TerminatorInst.html" title="llvm::TerminatorInst" alt="" coords="1132,73,1267,100"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="972,120,1083,147"/>
+<area shape="rect" id="node4" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="673,120,751,147"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="359,120,441,147"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Use.html" title="llvm::Use" alt="" coords="363,171,437,197"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="619,229,805,256"/>
+<area shape="rect" id="node9" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="333,222,467,263"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,253,139,294"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="315,288,485,315"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BitVector.h" name="BitVector.h">
+<area shape="rect" id="node2" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="34,155,193,181"/>
+<area shape="rect" id="node4" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="557,80,742,107"/>
+<area shape="rect" id="node15" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="361,80,533,107"/>
+<area shape="rect" id="node5" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="546,155,689,181"/>
+<area shape="rect" id="node6" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="367,229,534,256"/>
+<area shape="rect" id="node16" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="217,155,415,181"/>
+</map>

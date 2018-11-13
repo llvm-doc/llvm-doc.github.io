@@ -1,0 +1,26 @@
+var classllvm_1_1object_1_1SectionRef =
+[
+    [ "SectionRef", "classllvm_1_1object_1_1SectionRef.html#ab2f0c3eed0f43863490532eba78be7ff", null ],
+    [ "SectionRef", "classllvm_1_1object_1_1SectionRef.html#ac698cd44041380ea3da5dba04d7ac97f", null ],
+    [ "begin_relocations", "classllvm_1_1object_1_1SectionRef.html#aa26bce1b1e1ac4311247ecb87052e820", null ],
+    [ "containsSymbol", "classllvm_1_1object_1_1SectionRef.html#ad750a1944ddd2b8fdcfb9deb5c5d5a92", null ],
+    [ "end_relocations", "classllvm_1_1object_1_1SectionRef.html#a182d9a4d0b0962d1689e5b226a3ff7ca", null ],
+    [ "getAddress", "classllvm_1_1object_1_1SectionRef.html#ae6327700dfa3b4ee327dae8aaba0eeef", null ],
+    [ "getAlignment", "classllvm_1_1object_1_1SectionRef.html#ad9b67d6d3098b951aa14c772cdae03e5", null ],
+    [ "getContents", "classllvm_1_1object_1_1SectionRef.html#af0ab97899979f84efd05e181181fe147", null ],
+    [ "getName", "classllvm_1_1object_1_1SectionRef.html#a866a81c19bbd7274a44df57613edcb3d", null ],
+    [ "getNext", "classllvm_1_1object_1_1SectionRef.html#ac092ca013a1e5753f29ff9e2ea17525b", null ],
+    [ "getRawDataRefImpl", "classllvm_1_1object_1_1SectionRef.html#a6257695e2d82b498321dd047fa11d0f9", null ],
+    [ "getRelocatedSection", "classllvm_1_1object_1_1SectionRef.html#a05d0f866b4c7d24bb1197b091b7ca373", null ],
+    [ "getSize", "classllvm_1_1object_1_1SectionRef.html#aa823037799223da66cc1895469f410e3", null ],
+    [ "isBSS", "classllvm_1_1object_1_1SectionRef.html#a2d3155b6defb8d524b76ad8a2af5273a", null ],
+    [ "isData", "classllvm_1_1object_1_1SectionRef.html#a25f90191def7c08c971c61f7c6e002f1", null ],
+    [ "isReadOnlyData", "classllvm_1_1object_1_1SectionRef.html#a0e03a3c1b346150e215f7a84732018a4", null ],
+    [ "isRequiredForExecution", "classllvm_1_1object_1_1SectionRef.html#aaac5d454f0c2a273e1a41b57a714192d", null ],
+    [ "isText", "classllvm_1_1object_1_1SectionRef.html#abb65fd3285875fefcd34948707a10945", null ],
+    [ "isVirtual", "classllvm_1_1object_1_1SectionRef.html#a8fe5753e0ff544a0624337c91064f9e5", null ],
+    [ "isZeroInit", "classllvm_1_1object_1_1SectionRef.html#acada12b9deb4f4f6532f133e1760f684", null ],
+    [ "operator<", "classllvm_1_1object_1_1SectionRef.html#a13ef16d29f171f681161a156258e29c0", null ],
+    [ "operator==", "classllvm_1_1object_1_1SectionRef.html#a07d38f95e69fb98a3fcc3fbb9e4811cf", null ],
+    [ "SymbolRef", "classllvm_1_1object_1_1SectionRef.html#a23fe52bbc164a30ba18e057d37bd2283", null ]
+];

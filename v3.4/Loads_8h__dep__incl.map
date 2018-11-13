@@ -1,0 +1,11 @@
+<map id="Loads.h" name="Loads.h">
+<area shape="rect" id="node2" href="$Lint_8cpp.html" title="Lint.cpp" alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" href="$Loads_8cpp.html" title="Loads.cpp" alt="" coords="96,80,176,107"/>
+<area shape="rect" id="node4" href="$FastISel_8cpp.html" title="FastISel.cpp" alt="" coords="201,80,295,107"/>
+<area shape="rect" id="node5" href="$InstCombineLoadStoreAlloca_8cpp.html" title="InstCombineLoadStoreAlloca.cpp" alt="" coords="320,80,533,107"/>
+<area shape="rect" id="node6" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="558,80,631,107"/>
+<area shape="rect" id="node7" href="$JumpThreading_8cpp.html" title="JumpThreading.cpp" alt="" coords="655,80,790,107"/>
+<area shape="rect" id="node8" href="$ScalarReplAggregates_8cpp.html" title="ScalarReplAggregates.cpp" alt="" coords="814,80,989,107"/>
+<area shape="rect" id="node9" href="$SROA_8cpp.html" title="SROA.cpp" alt="" coords="1013,80,1096,107"/>
+<area shape="rect" id="node10" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="1120,80,1307,107"/>
+</map>

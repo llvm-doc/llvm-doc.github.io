@@ -1,0 +1,4 @@
+var structllvm_1_1add__const__past__pointer_3_01T_00_01typename_01enable__if_3_01is__pointer_3_01T_01_4_01_4_1_1type_01_4 =
+[
+    [ "type", "structllvm_1_1add__const__past__pointer_3_01T_00_01typename_01enable__if_3_01is__pointer_3_01T_01_4_01_4_1_1type_01_4.html#a348cd6c349927291f0dca8854f820252", null ]
+];

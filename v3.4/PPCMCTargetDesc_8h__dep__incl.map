@@ -1,0 +1,34 @@
+<map id="PPCMCTargetDesc.h" name="PPCMCTargetDesc.h">
+<area shape="rect" id="node2" href="$PPCAsmParser_8cpp.html" title="PPCAsmParser.cpp" alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node3" href="$PPCInstPrinter_8cpp.html" title="PPCInstPrinter.cpp" alt="" coords="166,80,298,107"/>
+<area shape="rect" id="node4" href="$PPCAsmBackend_8cpp.html" title="PPCAsmBackend.cpp" alt="" coords="322,80,473,107"/>
+<area shape="rect" id="node5" href="$PPCELFObjectWriter_8cpp.html" title="PPCELFObjectWriter.cpp" alt="" coords="497,80,665,107"/>
+<area shape="rect" id="node6" href="$PPCMachObjectWriter_8cpp.html" title="PPCMachObjectWriter.cpp" alt="" coords="690,80,867,107"/>
+<area shape="rect" id="node7" href="$PPCMCCodeEmitter_8cpp.html" title="PPCMCCodeEmitter.cpp" alt="" coords="891,80,1055,107"/>
+<area shape="rect" id="node8" href="$PPCMCTargetDesc_8cpp.html" title="PPCMCTargetDesc.cpp" alt="" coords="1079,80,1238,107"/>
+<area shape="rect" id="node9" href="$PPC_8h.html" title="PPC.h" alt="" coords="1263,80,1321,107"/>
+<area shape="rect" id="node10" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="277,453,414,480"/>
+<area shape="rect" id="node11" href="$PPCFrameLowering_8h.html" title="PPCFrameLowering.h" alt="" coords="1057,155,1204,181"/>
+<area shape="rect" id="node13" href="$PPCCodeEmitter_8cpp.html" title="PPCCodeEmitter.cpp" alt="" coords="439,453,583,480"/>
+<area shape="rect" id="node14" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="607,453,740,480"/>
+<area shape="rect" id="node15" href="$PPCFastISel_8cpp.html" title="PPCFastISel.cpp" alt="" coords="1421,453,1542,480"/>
+<area shape="rect" id="node16" href="$PPCInstrInfo_8cpp.html" title="PPCInstrInfo.cpp" alt="" coords="764,453,884,480"/>
+<area shape="rect" id="node17" href="$PPCISelDAGToDAG_8cpp.html" title="PPCISelDAGToDAG.cpp" alt="" coords="1566,453,1733,480"/>
+<area shape="rect" id="node21" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="1757,453,1915,480"/>
+<area shape="rect" id="node22" href="$PPCTargetTransformInfo_8cpp.html" title="PPCTargetTransformInfo.cpp" alt="" coords="1939,453,2130,480"/>
+<area shape="rect" id="node24" href="$PPCRegisterInfo_8cpp.html" title="PPCRegisterInfo.cpp" alt="" coords="1169,229,1311,256"/>
+<area shape="rect" id="node25" href="$PPCISelLowering_8h.html" title="PPCISelLowering.h" alt="" coords="1395,304,1528,331"/>
+<area shape="rect" id="node26" href="$PPCInstrInfo_8h.html" title="PPCInstrInfo.h" alt="" coords="936,229,1043,256"/>
+<area shape="rect" id="node27" href="$PPCBranchSelector_8cpp.html" title="PPCBranchSelector.cpp" alt="" coords="624,304,787,331"/>
+<area shape="rect" id="node29" href="$PPCHazardRecognizers_8cpp.html" title="PPCHazardRecognizers.cpp" alt="" coords="862,379,1045,405"/>
+<area shape="rect" id="node30" href="$PPCRegisterInfo_8h.html" title="PPCRegisterInfo.h" alt="" coords="1279,155,1407,181"/>
+<area shape="rect" id="node31" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="1387,229,1517,256"/>
+<area shape="rect" id="node32" href="$PPCMCInstLower_8cpp.html" title="PPCMCInstLower.cpp" alt="" coords="1795,155,1943,181"/>
+<area shape="rect" id="node33" href="$PowerPCTargetInfo_8cpp.html" title="PowerPCTargetInfo.cpp" alt="" coords="1967,155,2126,181"/>
+<area shape="rect" id="node12" href="$PPCTargetMachine_8h.html" title="PPCTargetMachine.h" alt="" coords="1178,379,1323,405"/>
+<area shape="rect" id="node23" href="$PPCFrameLowering_8cpp.html" title="PPCFrameLowering.cpp" alt="" coords="1158,304,1319,331"/>
+<area shape="rect" id="node18" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="1249,453,1396,480"/>
+<area shape="rect" id="node19" href="$PPCJITInfo_8cpp.html" title="PPCJITInfo.cpp" alt="" coords="1111,453,1225,480"/>
+<area shape="rect" id="node20" href="$PPCSelectionDAGInfo_8cpp.html" title="PPCSelectionDAGInfo.cpp" alt="" coords="909,453,1086,480"/>
+<area shape="rect" id="node28" href="$PPCHazardRecognizers_8h.html" title="PPCHazardRecognizers.h" alt="" coords="913,304,1082,331"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CallGraphSCCPass.h" name="CallGraphSCCPass.h">
+<area shape="rect" id="node2" href="$InlineCost_8h.html" title="InlineCost.h" alt="" coords="359,80,449,107"/>
+<area shape="rect" id="node8" href="$InlinerPass_8h.html" title="InlinerPass.h" alt="" coords="477,80,571,107"/>
+<area shape="rect" id="node9" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="595,80,754,107"/>
+<area shape="rect" id="node10" href="$ArgumentPromotion_8cpp.html" title="ArgumentPromotion.cpp" alt="" coords="778,80,939,107"/>
+<area shape="rect" id="node11" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="964,80,1087,107"/>
+<area shape="rect" id="node12" href="$PruneEH_8cpp.html" title="PruneEH.cpp" alt="" coords="1111,80,1209,107"/>
+<area shape="rect" id="node3" href="$InlineCost_8cpp.html" title="InlineCost.cpp" alt="" coords="217,155,319,181"/>
+<area shape="rect" id="node4" href="$InlineAlways_8cpp.html" title="InlineAlways.cpp" alt="" coords="344,155,461,181"/>
+<area shape="rect" id="node5" href="$Inliner_8cpp.html" title="Inliner.cpp" alt="" coords="486,155,567,181"/>
+<area shape="rect" id="node6" href="$InlineSimple_8cpp.html" title="InlineSimple.cpp" alt="" coords="592,155,709,181"/>
+<area shape="rect" id="node7" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="5,155,192,181"/>
+</map>

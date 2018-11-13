@@ -1,0 +1,26 @@
+var classllvm_1_1SplitAnalysis =
+[
+    [ "BlockInfo", "structllvm_1_1SplitAnalysis_1_1BlockInfo.html", "structllvm_1_1SplitAnalysis_1_1BlockInfo" ],
+    [ "BlockPtrSet", "classllvm_1_1SplitAnalysis.html#a560d6f138169926a8d39b0e1fa331bb2", null ],
+    [ "SplitAnalysis", "classllvm_1_1SplitAnalysis.html#a027186766ff82f05b729d087baf9a25f", null ],
+    [ "analyze", "classllvm_1_1SplitAnalysis.html#aa1e3d133ed73597d0c21e0a5d11fa31f", null ],
+    [ "clear", "classllvm_1_1SplitAnalysis.html#ab21a191f8cdb8f76d22d0bae3089e1c5", null ],
+    [ "countLiveBlocks", "classllvm_1_1SplitAnalysis.html#a7cd60187fcffd2af5b77cd6b9c867f0b", null ],
+    [ "didRepairRange", "classllvm_1_1SplitAnalysis.html#aa4cb66debc1a10f2c6ac8d7ae7d974f6", null ],
+    [ "getLastSplitPoint", "classllvm_1_1SplitAnalysis.html#a723a443c171be9909a0f101c7b84333e", null ],
+    [ "getLastSplitPointIter", "classllvm_1_1SplitAnalysis.html#aa8647b76803770916108522bb5bf5aac", null ],
+    [ "getNumLiveBlocks", "classllvm_1_1SplitAnalysis.html#a189e7a14532185ccc5f95f654d9ab326", null ],
+    [ "getNumThroughBlocks", "classllvm_1_1SplitAnalysis.html#af4642b7a911820bc0543b16d887fd38e", null ],
+    [ "getParent", "classllvm_1_1SplitAnalysis.html#a00a9b0f268432e2f8b9dd99eac50577a", null ],
+    [ "getThroughBlocks", "classllvm_1_1SplitAnalysis.html#af0994364d28de4bfa71923586d86b5f1", null ],
+    [ "getUseBlocks", "classllvm_1_1SplitAnalysis.html#ab62e85ba80ceaef4644386d4fcfa87d0", null ],
+    [ "getUseSlots", "classllvm_1_1SplitAnalysis.html#aa5c8b14335e996e2bfaa2d92c3216897", null ],
+    [ "isOriginalEndpoint", "classllvm_1_1SplitAnalysis.html#afecb89b0acb281a8d91aac1609499e6a", null ],
+    [ "isThroughBlock", "classllvm_1_1SplitAnalysis.html#a8c62d39ffb4dc20826586a4fb379bcc5", null ],
+    [ "shouldSplitSingleBlock", "classllvm_1_1SplitAnalysis.html#ad56736ab976e0c49c5af1a61a8c72e87", null ],
+    [ "LIS", "classllvm_1_1SplitAnalysis.html#a8e4649f48b911935d6604bde06468788", null ],
+    [ "Loops", "classllvm_1_1SplitAnalysis.html#ab4478598c0a88b09a259c89aead763c5", null ],
+    [ "MF", "classllvm_1_1SplitAnalysis.html#a192ed636858339b1ad1fbaa98d2f5d7d", null ],
+    [ "TII", "classllvm_1_1SplitAnalysis.html#ab56d031a917d10b407904c964bbb9083", null ],
+    [ "VRM", "classllvm_1_1SplitAnalysis.html#ae922fe27fed5647d4fe22789a6c61683", null ]
+];

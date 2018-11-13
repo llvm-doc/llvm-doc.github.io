@@ -1,0 +1,4 @@
+<map id="llvm::TinyPtrVector&lt; EltTy &gt;" name="llvm::TinyPtrVector&lt; EltTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; EltTy, llvm::SmallVector * \&gt;" alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; PT1, PT2 \&gt;" alt="" coords="36,5,161,47"/>
+</map>

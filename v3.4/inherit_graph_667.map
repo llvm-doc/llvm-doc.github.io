@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="llvm::CrashRecoveryContext\lCleanup" alt="" coords="5,133,187,174"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="235,5,473,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDestructorCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="235,85,473,141"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="235,165,473,221"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; DERIVED, T \&gt;" alt="" coords="259,245,449,286"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title="llvm::CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;" alt="" coords="521,13,703,54"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title="llvm::CrashRecoveryContext\lDestructorCleanup\&lt; T \&gt;" alt="" coords="521,93,703,134"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title="llvm::CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;" alt="" coords="521,173,703,214"/>
+</map>

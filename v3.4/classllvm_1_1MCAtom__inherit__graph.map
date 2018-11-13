@@ -1,0 +1,4 @@
+<map id="llvm::MCAtom" name="llvm::MCAtom">
+<area shape="rect" id="node2" href="$classllvm_1_1MCDataAtom.html" title="An atom consising of a sequence of bytes. " alt="" coords="5,80,135,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCTextAtom.html" title="An atom consisting of disassembled instructions. " alt="" coords="159,80,285,107"/>
+</map>

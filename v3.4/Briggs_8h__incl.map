@@ -1,0 +1,10 @@
+<map id="Briggs.h" name="Briggs.h">
+<area shape="rect" id="node2" href="$HeuristicBase_8h.html" title="../HeuristicBase.h" alt="" coords="583,80,705,107"/>
+<area shape="rect" id="node3" href="$HeuristicSolver_8h.html" title="HeuristicSolver.h" alt="" coords="610,155,729,181"/>
+<area shape="rect" id="node4" href="$Graph_8h.html" title="Graph.h" alt="" coords="513,304,580,331"/>
+<area shape="rect" id="node18" href="$Solution_8h.html" title="Solution.h" alt="" coords="583,229,662,256"/>
+<area shape="rect" id="node5" href="$Math_8h.html" title="Math.h" alt="" coords="592,379,653,405"/>
+<area shape="rect" id="node9" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="167,379,275,405"/>
+<area shape="rect" id="node14" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="299,379,442,405"/>
+<area shape="rect" id="node10" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="6,453,165,480"/>
+</map>

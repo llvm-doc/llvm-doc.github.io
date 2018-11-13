@@ -1,0 +1,26 @@
+var classllvm_1_1JITMemoryManager =
+[
+    [ "JITMemoryManager", "classllvm_1_1JITMemoryManager.html#ad15781b3103178f69c190b5bd3731fdb", null ],
+    [ "~JITMemoryManager", "classllvm_1_1JITMemoryManager.html#a83a5bf651c95359c4c13ad3849fb585a", null ],
+    [ "allocateGlobal", "classllvm_1_1JITMemoryManager.html#ad4ed966cba0cd68c00126e597077eb53", null ],
+    [ "AllocateGOT", "classllvm_1_1JITMemoryManager.html#a4cf108ee8b6c664303499668c46f0f49", null ],
+    [ "allocateSpace", "classllvm_1_1JITMemoryManager.html#a36b4c538f45ef891a3cb54a1bf2e2e38", null ],
+    [ "allocateStub", "classllvm_1_1JITMemoryManager.html#aae9ef3b68b5c03764756faf7f1de7f03", null ],
+    [ "CheckInvariants", "classllvm_1_1JITMemoryManager.html#a860ddc8e1ceb0bcc49c2a6828bd88922", null ],
+    [ "CreateDefaultMemManager", "classllvm_1_1JITMemoryManager.html#a38a94276e787acd0cda0f1a0b7d58463", null ],
+    [ "deallocateFunctionBody", "classllvm_1_1JITMemoryManager.html#afef9813bbed59c0d02d96e40c754b642", null ],
+    [ "endFunctionBody", "classllvm_1_1JITMemoryManager.html#a696d95930a3fb254452065e122ec5cda", null ],
+    [ "GetDefaultCodeSlabSize", "classllvm_1_1JITMemoryManager.html#a450d074b4c791654d971cfc25ab080eb", null ],
+    [ "GetDefaultDataSlabSize", "classllvm_1_1JITMemoryManager.html#ab339f6b5a3613daac95898e6979dc83e", null ],
+    [ "GetDefaultStubSlabSize", "classllvm_1_1JITMemoryManager.html#a8c46139571f57b67e393f445486f8898", null ],
+    [ "getGOTBase", "classllvm_1_1JITMemoryManager.html#a4d0c4f1849d0def5539950c047a2ce7f", null ],
+    [ "GetNumCodeSlabs", "classllvm_1_1JITMemoryManager.html#a8c65e53d44ba3e8a8e9c2a7ad144ae17", null ],
+    [ "GetNumDataSlabs", "classllvm_1_1JITMemoryManager.html#a6e22cda5944b162cfb671e242894fa54", null ],
+    [ "GetNumStubSlabs", "classllvm_1_1JITMemoryManager.html#a9996a30064d40feeb4e23991ef2e5fb6", null ],
+    [ "isManagingGOT", "classllvm_1_1JITMemoryManager.html#a3a54a7626d76a8ef86676bb5a463bb18", null ],
+    [ "setMemoryExecutable", "classllvm_1_1JITMemoryManager.html#a69db17a07690214a7455a102af15bae0", null ],
+    [ "setMemoryWritable", "classllvm_1_1JITMemoryManager.html#a9add3e0d5a4e9ec4677f6a705094487f", null ],
+    [ "setPoisonMemory", "classllvm_1_1JITMemoryManager.html#a2badd0f16f40fb1b5cfe1e570170cc53", null ],
+    [ "startFunctionBody", "classllvm_1_1JITMemoryManager.html#a3f99e7db9b54b646c744e1842ae34be0", null ],
+    [ "HasGOT", "classllvm_1_1JITMemoryManager.html#a51caf6559ad9e00c474073680db08f22", null ]
+];

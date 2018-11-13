@@ -1,0 +1,27 @@
+var TargetRegistry_8h =
+[
+    [ "Target", "classllvm_1_1Target.html", "classllvm_1_1Target" ],
+    [ "TargetRegistry", "structllvm_1_1TargetRegistry.html", "structllvm_1_1TargetRegistry" ],
+    [ "iterator", "classllvm_1_1TargetRegistry_1_1iterator.html", "classllvm_1_1TargetRegistry_1_1iterator" ],
+    [ "RegisterTarget", "structllvm_1_1RegisterTarget.html", "structllvm_1_1RegisterTarget" ],
+    [ "RegisterMCAsmInfo", "structllvm_1_1RegisterMCAsmInfo.html", "structllvm_1_1RegisterMCAsmInfo" ],
+    [ "RegisterMCAsmInfoFn", "structllvm_1_1RegisterMCAsmInfoFn.html", "structllvm_1_1RegisterMCAsmInfoFn" ],
+    [ "RegisterMCCodeGenInfo", "structllvm_1_1RegisterMCCodeGenInfo.html", "structllvm_1_1RegisterMCCodeGenInfo" ],
+    [ "RegisterMCCodeGenInfoFn", "structllvm_1_1RegisterMCCodeGenInfoFn.html", "structllvm_1_1RegisterMCCodeGenInfoFn" ],
+    [ "RegisterMCInstrInfo", "structllvm_1_1RegisterMCInstrInfo.html", "structllvm_1_1RegisterMCInstrInfo" ],
+    [ "RegisterMCInstrInfoFn", "structllvm_1_1RegisterMCInstrInfoFn.html", "structllvm_1_1RegisterMCInstrInfoFn" ],
+    [ "RegisterMCInstrAnalysis", "structllvm_1_1RegisterMCInstrAnalysis.html", "structllvm_1_1RegisterMCInstrAnalysis" ],
+    [ "RegisterMCInstrAnalysisFn", "structllvm_1_1RegisterMCInstrAnalysisFn.html", "structllvm_1_1RegisterMCInstrAnalysisFn" ],
+    [ "RegisterMCRegInfo", "structllvm_1_1RegisterMCRegInfo.html", "structllvm_1_1RegisterMCRegInfo" ],
+    [ "RegisterMCRegInfoFn", "structllvm_1_1RegisterMCRegInfoFn.html", "structllvm_1_1RegisterMCRegInfoFn" ],
+    [ "RegisterMCSubtargetInfo", "structllvm_1_1RegisterMCSubtargetInfo.html", "structllvm_1_1RegisterMCSubtargetInfo" ],
+    [ "RegisterMCSubtargetInfoFn", "structllvm_1_1RegisterMCSubtargetInfoFn.html", "structllvm_1_1RegisterMCSubtargetInfoFn" ],
+    [ "RegisterTargetMachine", "structllvm_1_1RegisterTargetMachine.html", "structllvm_1_1RegisterTargetMachine" ],
+    [ "RegisterMCAsmBackend", "structllvm_1_1RegisterMCAsmBackend.html", "structllvm_1_1RegisterMCAsmBackend" ],
+    [ "RegisterMCAsmParser", "structllvm_1_1RegisterMCAsmParser.html", "structllvm_1_1RegisterMCAsmParser" ],
+    [ "RegisterAsmPrinter", "structllvm_1_1RegisterAsmPrinter.html", "structllvm_1_1RegisterAsmPrinter" ],
+    [ "RegisterMCCodeEmitter", "structllvm_1_1RegisterMCCodeEmitter.html", "structllvm_1_1RegisterMCCodeEmitter" ],
+    [ "createAsmStreamer", "TargetRegistry_8h.html#a75e4389a2466ab46ea6f6474e1a39d66", null ],
+    [ "createMCRelocationInfo", "TargetRegistry_8h.html#a2f7e6ab81fe92926be3d52978fe8427a", null ],
+    [ "createMCSymbolizer", "TargetRegistry_8h.html#a00fe6588353b90c81de689c84a33d036", null ]
+];

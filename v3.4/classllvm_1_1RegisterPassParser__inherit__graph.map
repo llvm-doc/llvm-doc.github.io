@@ -1,0 +1,6 @@
+<map id="llvm::RegisterPassParser&lt; RegistryClass &gt;" name="llvm::RegisterPassParser&lt; RegistryClass &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1MachinePassRegistryListener.html" title="llvm::MachinePassRegistry\lListener" alt="" coords="615,5,789,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; Registry\lClass::FunctionPassCtor \&gt;" alt="" coords="616,71,788,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1cl_1_1generic__parser__base.html" title="llvm::cl::generic_parser_base" alt="" coords="5,74,191,101"/>
+<area shape="rect" id="node5" href="$classllvm_1_1cl_1_1parser.html" title="llvm::cl::parser\&lt; DataType \&gt;" alt="" coords="240,103,419,130"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SIRegisterInfo.h" name="SIRegisterInfo.h">
+<area shape="rect" id="node2" href="$AMDGPUAsmPrinter_8cpp.html" title="AMDGPUAsmPrinter.cpp" alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="736,80,828,107"/>
+<area shape="rect" id="node7" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="682,229,815,256"/>
+<area shape="rect" id="node12" href="$SIRegisterInfo_8cpp.html" title="SI implementation of the TargetRegisterInfo class. " alt="" coords="1133,155,1261,181"/>
+<area shape="rect" id="node4" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="939,155,1057,181"/>
+<area shape="rect" id="node6" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1061,229,1250,256"/>
+<area shape="rect" id="node8" href="$SIFixSGPRCopies_8cpp.html" title="SIFixSGPRCopies.cpp" alt="" coords="247,155,399,181"/>
+<area shape="rect" id="node9" href="$SIInsertWaits_8cpp.html" title="Insert wait instructions for memory reads and writes. " alt="" coords="423,155,546,181"/>
+<area shape="rect" id="node10" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="570,155,677,181"/>
+<area shape="rect" id="node11" href="$SILowerControlFlow_8cpp.html" title="This pass lowers the pseudo control flow instructions to real machine instructions. " alt="" coords="701,155,863,181"/>
+<area shape="rect" id="node5" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="839,229,1037,256"/>
+</map>

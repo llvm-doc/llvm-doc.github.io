@@ -1,0 +1,6 @@
+<map id="llvm::PointerUnion&lt; PT1, PT2 &gt;" name="llvm::PointerUnion&lt; PT1, PT2 &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; InnerUnion1, InnerUnion2 \&gt;" alt="" coords="349,5,539,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; llvm::MCSymbol *,\l std::vector\&lt; llvm::MCSymbol\l * \&gt; * \&gt;" alt="" coords="351,71,537,141"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; InnerUnion, PT3 \&gt;" alt="" coords="375,165,513,207"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PointerUnion.html" title="llvm::PointerUnion\l\&lt; EltTy, llvm::SmallVector * \&gt;" alt="" coords="351,231,537,272"/>
+</map>

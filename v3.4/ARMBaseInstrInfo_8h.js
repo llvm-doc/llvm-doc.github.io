@@ -1,0 +1,25 @@
+var ARMBaseInstrInfo_8h =
+[
+    [ "ARMBaseInstrInfo", "classllvm_1_1ARMBaseInstrInfo.html", "classllvm_1_1ARMBaseInstrInfo" ],
+    [ "GET_INSTRINFO_HEADER", "ARMBaseInstrInfo_8h.html#ab12de263eb2ee622714701bc1946fad6", null ],
+    [ "AddDefaultCC", "ARMBaseInstrInfo_8h.html#a8b9edb9ece6ca4b10c73ae93a487c600", null ],
+    [ "AddDefaultPred", "ARMBaseInstrInfo_8h.html#abf7336821a22d9da733af010b2f39089", null ],
+    [ "AddDefaultT1CC", "ARMBaseInstrInfo_8h.html#a3d6a58730920ddb4e1d1375812730313", null ],
+    [ "AddNoT1CC", "ARMBaseInstrInfo_8h.html#ae2f5a5e596252715ddf5ac3e48ca8115", null ],
+    [ "canFoldARMInstrIntoMOVCC", "ARMBaseInstrInfo_8h.html#a10c0f7b27d60a1704fc8e6c6be600df9", null ],
+    [ "convertAddSubFlagsOpcode", "ARMBaseInstrInfo_8h.html#af38d3efc162ab4c4fc14f9220c142b91", null ],
+    [ "emitARMRegPlusImmediate", "ARMBaseInstrInfo_8h.html#a402aa8ec2571af98e3b5871721c6f642", null ],
+    [ "emitT2RegPlusImmediate", "ARMBaseInstrInfo_8h.html#ae59f84da43ddc1b247716625b3b31dfb", null ],
+    [ "emitThumbRegPlusImmediate", "ARMBaseInstrInfo_8h.html#a110c825c97c1c9d86af994b78f30e4cf", null ],
+    [ "getInstrPredicate", "ARMBaseInstrInfo_8h.html#aee7a1f8a965c68c02b5628e9b261197e", null ],
+    [ "getMatchingCondBranchOpcode", "ARMBaseInstrInfo_8h.html#aea68e726ee579fec1a9a09e6c7c2509e", null ],
+    [ "isCondBranchOpcode", "ARMBaseInstrInfo_8h.html#a0e6336a1dd23986cd15023ea0aae5269", null ],
+    [ "isIndirectBranchOpcode", "ARMBaseInstrInfo_8h.html#a25ebb5d5fa4431b1a1835d0a5f4e2796", null ],
+    [ "isJumpTableBranchOpcode", "ARMBaseInstrInfo_8h.html#a6b37f55b5ab197bb725692f21204c9bc", null ],
+    [ "isPopOpcode", "ARMBaseInstrInfo_8h.html#a84c8853f87c6f19f9e75130f6b05d763", null ],
+    [ "isPushOpcode", "ARMBaseInstrInfo_8h.html#a139d94c9f05d52dab00ed111ce058523", null ],
+    [ "isUncondBranchOpcode", "ARMBaseInstrInfo_8h.html#abbf5784629864b659e702b4861bc3b1e", null ],
+    [ "rewriteARMFrameIndex", "ARMBaseInstrInfo_8h.html#aa74e4894fee993892fcd8ce9b66cc6bd", null ],
+    [ "rewriteT2FrameIndex", "ARMBaseInstrInfo_8h.html#aa7e3ca219769642a9d531a7102a5725a", null ],
+    [ "tryFoldSPUpdateIntoPushPop", "ARMBaseInstrInfo_8h.html#a0c287a0a3e811d36352812b8a7d5425e", null ]
+];

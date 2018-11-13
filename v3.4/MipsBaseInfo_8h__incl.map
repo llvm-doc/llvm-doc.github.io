@@ -1,0 +1,18 @@
+<map id="MipsBaseInfo.h" name="MipsBaseInfo.h">
+<area shape="rect" id="node2" href="$MipsFixupKinds_8h.html" title="MipsFixupKinds.h" alt="" coords="189,80,312,107"/>
+<area shape="rect" id="node5" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1151,229,1337,256"/>
+<area shape="rect" id="node18" href="$MipsMCTargetDesc_8h.html" title="MipsMCTargetDesc.h" alt="" coords="525,80,670,107"/>
+<area shape="rect" id="node22" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="313,155,441,181"/>
+<area shape="rect" id="node3" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="151,155,286,181"/>
+<area shape="rect" id="node17" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="144,229,293,256"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1157,304,1299,331"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1835,386,1994,413"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="907,386,1074,413"/>
+<area shape="rect" id="node23" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="977,229,1127,256"/>
+<area shape="rect" id="node32" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="290,304,441,331"/>
+<area shape="rect" id="node24" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="858,304,1030,331"/>
+<area shape="rect" id="node25" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="516,379,679,420"/>
+<area shape="rect" id="node26" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1725,304,1875,331"/>
+<area shape="rect" id="node27" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1426,304,1598,331"/>
+<area shape="rect" id="node28" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1511,386,1710,413"/>
+</map>

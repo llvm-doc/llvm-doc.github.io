@@ -1,0 +1,27 @@
+var Local_8h =
+[
+    [ "SmallVectorImpl", "classllvm_1_1SmallVectorImpl.html", "classllvm_1_1SmallVectorImpl" ],
+    [ "ConstantFoldTerminator", "Local_8h.html#a78ab69092404fc83d77ccb06b3f7138d", null ],
+    [ "ConvertDebugDeclareToDebugValue", "Local_8h.html#ab3d313ef442aae5b5bebf03c923506d0", null ],
+    [ "ConvertDebugDeclareToDebugValue", "Local_8h.html#aa478b5231d63c60541970f8bbf426e30", null ],
+    [ "DemotePHIToStack", "Local_8h.html#ac9fde0e3f7fcfc1cf6a4c7b8decacac5", null ],
+    [ "DemoteRegToStack", "Local_8h.html#ab70de4869abc35aca0ed6d28408285df", null ],
+    [ "EliminateDuplicatePHINodes", "Local_8h.html#aed498f056a09006219c59ee9fab0450f", null ],
+    [ "EmitGEPOffset", "Local_8h.html#a87a909169e4e5de59bb72705c1d7d026", null ],
+    [ "FindAllocaDbgDeclare", "Local_8h.html#aabf35a012f84ad0dab49cd5b7dec7965", null ],
+    [ "FlattenCFG", "Local_8h.html#a487a4138dc435ef20d443febb21c7cbc", null ],
+    [ "FoldBranchToCommonDest", "Local_8h.html#ab75560d250028c3c4e54556421109b9d", null ],
+    [ "getKnownAlignment", "Local_8h.html#a43b09383874e62945e0050480bf3d641", null ],
+    [ "getOrEnforceKnownAlignment", "Local_8h.html#a3dd948f1535b4b28f2a7d45a5c11a34a", null ],
+    [ "isInstructionTriviallyDead", "Local_8h.html#abe283966f269761ee387642061c4451e", null ],
+    [ "LowerDbgDeclare", "Local_8h.html#a7994fd7ca0d8f8fcf2a9d18d151d0988", null ],
+    [ "MergeBasicBlockIntoOnlyPred", "Local_8h.html#a02b5336d71826082af53837f2ffe6128", null ],
+    [ "RecursivelyDeleteDeadPHINode", "Local_8h.html#a99dd30fd2667233bb86f5aeda794deea", null ],
+    [ "RecursivelyDeleteTriviallyDeadInstructions", "Local_8h.html#a23b3753cc662a87b599913814ccf2444", null ],
+    [ "RemovePredecessorAndSimplify", "Local_8h.html#ae51038023f0a6cbfc42085cfa71f9754", null ],
+    [ "removeUnreachableBlocks", "Local_8h.html#a93b95c8527f4f744ec4ac5d30150f7c5", null ],
+    [ "replaceDbgDeclareForAlloca", "Local_8h.html#a32988f75d4d36f6897a3801b9e8c0ae8", null ],
+    [ "SimplifyCFG", "Local_8h.html#a0d7510b62253a63eec92eb1813dab79d", null ],
+    [ "SimplifyInstructionsInBlock", "Local_8h.html#ad5b5ed1a0de8792e2ebf2eba3ba712fd", null ],
+    [ "TryToSimplifyUncondBranchFromEmptyBlock", "Local_8h.html#a599000eece6fb1addb05b6b2c36be28c", null ]
+];

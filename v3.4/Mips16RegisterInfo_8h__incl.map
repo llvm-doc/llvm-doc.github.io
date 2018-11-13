@@ -1,0 +1,35 @@
+<map id="Mips16RegisterInfo.h" name="Mips16RegisterInfo.h">
+<area shape="rect" id="node2" href="$MipsRegisterInfo_8h.html" title="MipsRegisterInfo.h" alt="" coords="805,80,933,107"/>
+<area shape="rect" id="node3" href="$Mips_8h.html" title="Mips.h" alt="" coords="840,162,898,189"/>
+<area shape="rect" id="node34" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="2151,155,2326,196"/>
+<area shape="rect" id="node4" href="$MipsMCTargetDesc_8h.html" title="MCTargetDesc/MipsMCTarget\lDesc.h" alt="" coords="196,244,392,285"/>
+<area shape="rect" id="node9" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1002,251,1189,278"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1782,483,1924,509"/>
+<area shape="rect" id="node19" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1740,333,1827,360"/>
+<area shape="rect" id="node30" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1014,333,1177,360"/>
+<area shape="rect" id="node33" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="692,408,873,435"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="2248,632,2415,659"/>
+<area shape="rect" id="node20" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2035,632,2194,659"/>
+<area shape="rect" id="node21" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1898,408,2030,435"/>
+<area shape="rect" id="node23" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1694,408,1873,435"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2160,483,2319,509"/>
+<area shape="rect" id="node25" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="2352,557,2503,584"/>
+<area shape="rect" id="node26" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1812,557,1984,584"/>
+<area shape="rect" id="node31" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="898,408,1054,435"/>
+<area shape="rect" id="node32" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1231,408,1416,435"/>
+<area shape="rect" id="node35" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2414,408,2553,435"/>
+<area shape="rect" id="node37" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2468,244,2656,285"/>
+<area shape="rect" id="node47" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="1323,333,1506,360"/>
+<area shape="rect" id="node48" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="2112,251,2256,278"/>
+<area shape="rect" id="node49" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2083,333,2255,360"/>
+<area shape="rect" id="node36" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2424,483,2543,509"/>
+<area shape="rect" id="node38" href="$GraphTraits_8h.html" title="llvm/ADT/GraphTraits.h" alt="" coords="2682,333,2838,360"/>
+<area shape="rect" id="node39" href="$MachineInstr_8h.html" title="llvm/CodeGen/MachineInstr.h" alt="" coords="2467,333,2658,360"/>
+<area shape="rect" id="node40" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3003,557,3175,584"/>
+<area shape="rect" id="node41" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="2971,483,3119,509"/>
+<area shape="rect" id="node43" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="2742,483,2850,509"/>
+<area shape="rect" id="node44" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="2976,408,3119,435"/>
+<area shape="rect" id="node45" href="$MachineOperand_8h.html" title="llvm/CodeGen/MachineOperand.h" alt="" coords="1543,483,1758,509"/>
+<area shape="rect" id="node46" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2257,408,2390,435"/>
+<area shape="rect" id="node50" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2567,483,2718,509"/>
+</map>

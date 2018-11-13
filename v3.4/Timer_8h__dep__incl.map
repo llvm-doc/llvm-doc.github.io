@@ -1,0 +1,13 @@
+<map id="Timer.h" name="Timer.h">
+<area shape="rect" id="node2" href="$CallGraphSCCPass_8cpp.html" title="CallGraphSCCPass.cpp" alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$LoopPass_8cpp.html" title="LoopPass.cpp" alt="" coords="188,80,291,107"/>
+<area shape="rect" id="node4" href="$RegionPass_8cpp.html" title="RegionPass.cpp" alt="" coords="315,80,430,107"/>
+<area shape="rect" id="node5" href="$AsmPrinter_8cpp.html" title="AsmPrinter.cpp" alt="" coords="455,80,565,107"/>
+<area shape="rect" id="node6" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="589,80,705,107"/>
+<area shape="rect" id="node7" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="729,80,856,107"/>
+<area shape="rect" id="node8" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="881,80,1019,107"/>
+<area shape="rect" id="node9" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="1044,80,1195,107"/>
+<area shape="rect" id="node10" href="$LegacyPassManager_8cpp.html" title="LegacyPassManager.cpp" alt="" coords="1219,80,1385,107"/>
+<area shape="rect" id="node11" href="$IRReader_8cpp.html" title="IRReader.cpp" alt="" coords="1408,80,1508,107"/>
+<area shape="rect" id="node12" href="$Timer_8cpp.html" title="Timer.cpp" alt="" coords="1532,80,1611,107"/>
+</map>

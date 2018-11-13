@@ -1,0 +1,36 @@
+var InstructionCombining_8cpp =
+[
+    [ "DEBUG_TYPE", "InstructionCombining_8cpp.html#ad78e062f62e0d6e453941fb4ca843e4d", null ],
+    [ "Personality_Type", "InstructionCombining_8cpp.html#a7b411f919e9298c8e86fae1794c3fcec", [
+      [ "Unknown_Personality", "InstructionCombining_8cpp.html#a7b411f919e9298c8e86fae1794c3fceca81e079acf8b55d4547c8c56a1aff358a", null ],
+      [ "GNU_Ada_Personality", "InstructionCombining_8cpp.html#a7b411f919e9298c8e86fae1794c3fcecae42a316fa16964a2189a63eafb02321d", null ],
+      [ "GNU_CXX_Personality", "InstructionCombining_8cpp.html#a7b411f919e9298c8e86fae1794c3fceca6a371cd3d7534a425c90e324bbed75aa", null ],
+      [ "GNU_ObjC_Personality", "InstructionCombining_8cpp.html#a7b411f919e9298c8e86fae1794c3fcecaaeef37b5503975660ff3cb350bc5b162", null ]
+    ] ],
+    [ "AddReachableCodeToWorklist", "InstructionCombining_8cpp.html#a758068c5c175fc10dcd4b9086abfdfba", null ],
+    [ "ClearSubclassDataAfterReassociation", "InstructionCombining_8cpp.html#a4904699fe3329a5027ccd76991b0c1e4", null ],
+    [ "FoldOperationIntoSelectOperand", "InstructionCombining_8cpp.html#a6435fba4effd1a8feeb1307acc4041ea", null ],
+    [ "INITIALIZE_PASS_BEGIN", "InstructionCombining_8cpp.html#a3475a57398d86c1748bdd006dfc0c4f3", null ],
+    [ "isAllocSiteRemovable", "InstructionCombining_8cpp.html#a22f50a59f6de5223d536d8b5fc5cd91c", null ],
+    [ "isCatchAll", "InstructionCombining_8cpp.html#aa4790342aeb6f773552d018e0bcf410b", null ],
+    [ "LeftDistributesOverRight", "InstructionCombining_8cpp.html#afa4bb891679df17d0d41dc77417d28f5", null ],
+    [ "LLVMInitializeInstCombine", "group__LLVMCInitialization.html#gaf7d731d72d80afb7917f7cd548da8298", null ],
+    [ "MaintainNoSignedWrap", "InstructionCombining_8cpp.html#ad6b4395aa43cd570081d8ef779730d81", null ],
+    [ "RecognizePersonality", "InstructionCombining_8cpp.html#aba1a7ea04978c1d1d7f0dd865b24a213", null ],
+    [ "RightDistributesOverLeft", "InstructionCombining_8cpp.html#aaeaff568610aa9560be815db546329dc", null ],
+    [ "shorter_filter", "InstructionCombining_8cpp.html#a13d41ea63582902162e0efd8a78a5ad5", null ],
+    [ "shouldMergeGEPs", "InstructionCombining_8cpp.html#a27dc41c474e5376ef7d1865735cfb3dd", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a0cb157e7251482c582e36d8c63893ae1", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#accf487e45a5c966eb1c593fdb95e85fc", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a8e510c6c6881628f8a86783d134c9435", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a412162b08b10d3d9fee53d142cabdd5d", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a9311e2e4f77e6e0d678e9f9873b72736", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a3ec71a5d54020c62d4c7ae3711195e9c", null ],
+    [ "STATISTIC", "InstructionCombining_8cpp.html#a44567246f382fe3974c9d5056b172b91", null ],
+    [ "tryToMoveFreeBeforeNullTest", "InstructionCombining_8cpp.html#ae9b9a9768b1162f8db3dec7a8ec71ab1", null ],
+    [ "TryToSinkInstruction", "InstructionCombining_8cpp.html#a1ea2b997ffc11a09339f80ef8287c8d5", null ],
+    [ "false", "InstructionCombining_8cpp.html#ac735dc0034fb289533e5dc1a10a6c9ce", null ],
+    [ "instcombine", "InstructionCombining_8cpp.html#a7d4d7e39548303ef4c1f5a0ed13a9c23", null ],
+    [ "instructions", "InstructionCombining_8cpp.html#a9360db2a972441c49cdbbabb5b20cc27", null ],
+    [ "UnsafeFPShrink", "InstructionCombining_8cpp.html#a85b6b7c082723d74f04ac701c91daa47", null ]
+];

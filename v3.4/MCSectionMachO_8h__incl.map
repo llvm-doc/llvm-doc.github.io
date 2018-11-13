@@ -1,0 +1,7 @@
+<map id="MCSectionMachO.h" name="MCSectionMachO.h">
+<area shape="rect" id="node2" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="444,155,587,181"/>
+<area shape="rect" id="node12" href="$MCSection_8h.html" title="llvm/MC/MCSection.h" alt="" coords="598,80,745,107"/>
+<area shape="rect" id="node3" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="137,229,304,256"/>
+<area shape="rect" id="node13" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="611,155,764,181"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="799,155,957,181"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="BitCodes.h" name="BitCodes.h">
+<area shape="rect" id="node2" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="515,80,674,107"/>
+<area shape="rect" id="node19" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1225,80,1410,107"/>
+<area shape="rect" id="node3" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="267,155,418,181"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="310,229,469,256"/>
+<area shape="rect" id="node7" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="595,155,767,181"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="850,229,1017,256"/>
+<area shape="rect" id="node8" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="543,229,742,256"/>
+<area shape="rect" id="node20" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1225,155,1367,181"/>
+</map>

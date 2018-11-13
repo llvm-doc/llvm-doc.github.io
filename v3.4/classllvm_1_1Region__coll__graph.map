@@ -1,0 +1,5 @@
+<map id="llvm::Region" name="llvm::Region">
+<area shape="rect" id="node2" href="$classllvm_1_1RegionNode.html" title="A RegionNode represents a subregion or a BasicBlock that is part of a Region. " alt="" coords="50,257,171,284"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::BasicBlock *,\l 1, bool \&gt;" alt="" coords="120,139,259,195"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; PointerTy, IntBits,\l IntType, PtrTraits \&gt;" alt="" coords="121,5,257,61"/>
+</map>

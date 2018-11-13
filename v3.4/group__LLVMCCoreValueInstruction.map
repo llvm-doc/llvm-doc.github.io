@@ -1,0 +1,5 @@
+<map id="Instructions" name="Instructions">
+<area shape="rect" id="node1" href="$group__LLVMCCoreValueInstructionPHINode.html" title="PHI Nodes" alt="" coords="281,5,364,32"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreValueInstructionCall.html" title="Call Sites and Invocations" alt="" coords="239,56,407,83"/>
+<area shape="rect" id="node4" href="$group__LLVMCCore.html" title="Core" alt="" coords="5,31,55,57"/>
+</map>

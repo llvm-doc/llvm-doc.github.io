@@ -1,0 +1,5 @@
+<map id="llvm::LiveRegSet" name="llvm::LiveRegSet">
+<area shape="rect" id="node2" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; unsigned,\l llvm::VirtReg2IndexFunctor \&gt;" alt="" coords="371,5,560,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; ValueT,\l KeyFunctorT, SparseT \&gt;" alt="" coords="5,33,172,75"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SparseSet.html" title="llvm::SparseSet\&lt; unsigned \&gt;" alt="" coords="373,71,557,98"/>
+</map>

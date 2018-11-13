@@ -1,0 +1,26 @@
+var classllvm_1_1LiveVariables =
+[
+    [ "VarInfo", "structllvm_1_1LiveVariables_1_1VarInfo.html", "structllvm_1_1LiveVariables_1_1VarInfo" ],
+    [ "LiveVariables", "classllvm_1_1LiveVariables.html#a6d2a86ed97aa0b672ce6ee3925fd619c", null ],
+    [ "addNewBlock", "classllvm_1_1LiveVariables.html#afbcff91139fc89e3e8c0dda857e7b128", null ],
+    [ "addVirtualRegisterDead", "classllvm_1_1LiveVariables.html#abb9d34248326780608aad1a7ea2fa1d6", null ],
+    [ "addVirtualRegisterKilled", "classllvm_1_1LiveVariables.html#a9f49d5526aacaa90fbf6eb8f21503fa3", null ],
+    [ "getAnalysisUsage", "classllvm_1_1LiveVariables.html#a2e56eb54efdaa4723f43237784e6c0bd", null ],
+    [ "getVarInfo", "classllvm_1_1LiveVariables.html#a434b7516027126339021e18d66c34864", null ],
+    [ "HandleVirtRegDef", "classllvm_1_1LiveVariables.html#aaf4d133ff60d62006326804b5401bca2", null ],
+    [ "HandleVirtRegUse", "classllvm_1_1LiveVariables.html#a82720de5ebc9a6c0e4838b2db127bea5", null ],
+    [ "isLiveIn", "classllvm_1_1LiveVariables.html#a0bcfca5f6b640c8065c5d16fc0741f72", null ],
+    [ "isLiveOut", "classllvm_1_1LiveVariables.html#a64a9ca767d7e09e699416b60132b4208", null ],
+    [ "isPHIJoin", "classllvm_1_1LiveVariables.html#a75f1c829705e905d845d4165b6433773", null ],
+    [ "MarkVirtRegAliveInBlock", "classllvm_1_1LiveVariables.html#a051cfe914c1c4eb2ceabb758d018a966", null ],
+    [ "MarkVirtRegAliveInBlock", "classllvm_1_1LiveVariables.html#af86e13e45e95838c85a6ad22252c2018", null ],
+    [ "RegisterDefIsDead", "classllvm_1_1LiveVariables.html#a0841277798fc48d4eae0524235297f0a", null ],
+    [ "releaseMemory", "classllvm_1_1LiveVariables.html#a39359f67c90a6fa9ff31bff5f212084f", null ],
+    [ "removeVirtualRegisterDead", "classllvm_1_1LiveVariables.html#a85a22f6c153c4dea2e32bb6754a8ae49", null ],
+    [ "removeVirtualRegisterKilled", "classllvm_1_1LiveVariables.html#a60e731c66fb9d4143edaf2c11befb221", null ],
+    [ "removeVirtualRegistersKilled", "classllvm_1_1LiveVariables.html#a4006a483e02178ac854923dde8e5cc35", null ],
+    [ "replaceKillInstruction", "classllvm_1_1LiveVariables.html#a41eac39d1f0317209d712bbecea8eb1f", null ],
+    [ "runOnMachineFunction", "classllvm_1_1LiveVariables.html#a944222171f774f59e974a97879ab66bc", null ],
+    [ "setPHIJoin", "classllvm_1_1LiveVariables.html#a518c4c86e62bb8a82de9e6ede1b92fc4", null ],
+    [ "ID", "classllvm_1_1LiveVariables.html#a42e1e6f4c393e0339a1583d20eb06b42", null ]
+];

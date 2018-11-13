@@ -1,0 +1,6 @@
+<map id="llvm::PPCTargetMachine" name="llvm::PPCTargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1PPC32TargetMachine.html" title="llvm::PPC32TargetMachine" alt="" coords="5,229,184,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PPC64TargetMachine.html" title="llvm::PPC64TargetMachine" alt="" coords="208,229,387,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="111,80,281,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="127,5,265,32"/>
+</map>

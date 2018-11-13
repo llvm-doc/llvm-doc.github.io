@@ -1,0 +1,10 @@
+<map id="Value.h" name="Value.h">
+<area shape="rect" id="node2" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="367,80,466,107"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="562,237,721,263"/>
+<area shape="rect" id="node9" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="25,155,240,181"/>
+<area shape="rect" id="node10" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="69,237,220,263"/>
+<area shape="rect" id="node14" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="697,155,794,181"/>
+<area shape="rect" id="node3" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="403,155,571,181"/>
+<area shape="rect" id="node6" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="375,229,538,271"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="73,319,240,345"/>
+</map>

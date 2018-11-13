@@ -1,0 +1,6 @@
+var structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4 =
+[
+    [ "Elf_Addr", "structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html#aeb65c92a7ce01dbf8a68306588ff7391", null ],
+    [ "Elf_Off", "structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html#a390fff0256f8c7e653adad4796af4f4f", null ],
+    [ "value_type", "structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html#a52e18b6ca8319da67275a508cff91b1f", null ]
+];

@@ -1,0 +1,16 @@
+<map id="llvm::TerminatorInst" name="llvm::TerminatorInst">
+<area shape="rect" id="node9" href="$classllvm_1_1BranchInst.html" title="llvm::BranchInst" alt="" coords="1171,5,1285,32"/>
+<area shape="rect" id="node10" href="$classllvm_1_1IndirectBrInst.html" title="llvm::IndirectBrInst" alt="" coords="1164,56,1292,83"/>
+<area shape="rect" id="node11" href="$classllvm_1_1InvokeInst.html" title="llvm::InvokeInst" alt="" coords="1173,107,1283,133"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ResumeInst.html" title="llvm::ResumeInst" alt="" coords="1169,157,1287,184"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ReturnInst.html" title="llvm::ReturnInst" alt="" coords="1173,208,1283,235"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SwitchInst.html" title="llvm::SwitchInst" alt="" coords="1173,259,1283,285"/>
+<area shape="rect" id="node15" href="$classllvm_1_1UnreachableInst.html" title="llvm::UnreachableInst" alt="" coords="1156,309,1300,336"/>
+<area shape="rect" id="node2" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="812,157,923,184"/>
+<area shape="rect" id="node3" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="631,132,708,159"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="316,128,399,155"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="576,187,763,213"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="291,179,424,221"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,207,139,249"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="272,245,443,272"/>
+</map>

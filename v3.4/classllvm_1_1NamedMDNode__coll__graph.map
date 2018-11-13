@@ -1,0 +1,6 @@
+<map id="llvm::NamedMDNode" name="llvm::NamedMDNode">
+<area shape="rect" id="node2" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NamedMDNode \&gt;" alt="" coords="18,213,237,240"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NamedMDNode \&gt;" alt="" coords="5,109,140,151"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="99,5,233,47"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="165,117,335,143"/>
+</map>

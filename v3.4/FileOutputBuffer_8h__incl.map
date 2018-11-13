@@ -1,0 +1,18 @@
+<map id="FileOutputBuffer.h" name="FileOutputBuffer.h">
+<area shape="rect" id="node2" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="863,326,1013,353"/>
+<area shape="rect" id="node7" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="819,155,975,181"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1365,326,1508,353"/>
+<area shape="rect" id="node23" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="1195,80,1367,107"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="869,408,1028,435"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="468,237,627,263"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="27,326,177,353"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="253,326,425,353"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1239,408,1405,435"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="647,408,845,435"/>
+<area shape="rect" id="node24" href="$IntrusiveRefCntPtr_8h.html" title="llvm/ADT/IntrusiveRefCnt\lPtr.h" alt="" coords="1093,229,1260,271"/>
+<area shape="rect" id="node26" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1574,155,1697,181"/>
+<area shape="rect" id="node27" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1387,237,1572,263"/>
+<area shape="rect" id="node28" href="$TimeValue_8h.html" title="llvm/Support/TimeValue.h" alt="" coords="1949,326,2119,353"/>
+<area shape="rect" id="node29" href="$system__error_8h.html" title="llvm/Support/system\l_error.h" alt="" coords="1583,319,1722,360"/>
+<area shape="rect" id="node25" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1139,326,1289,353"/>
+</map>

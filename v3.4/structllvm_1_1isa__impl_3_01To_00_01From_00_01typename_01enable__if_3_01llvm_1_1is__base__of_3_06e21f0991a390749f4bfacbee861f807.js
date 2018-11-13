@@ -1,0 +1,4 @@
+var structllvm_1_1isa__impl_3_01To_00_01From_00_01typename_01enable__if_3_01llvm_1_1is__base__of_3_06e21f0991a390749f4bfacbee861f807 =
+[
+    [ "doit", "structllvm_1_1isa__impl_3_01To_00_01From_00_01typename_01enable__if_3_01llvm_1_1is__base__of_3_06e21f0991a390749f4bfacbee861f807.html#a3e54eaa85ada9d62febed510f480e661", null ]
+];

@@ -1,0 +1,51 @@
+<map id="MCObjectFileInfo.h" name="MCObjectFileInfo.h">
+<area shape="rect" id="node2" href="$TargetLoweringObjectFile_8h.html" title="TargetLoweringObjectFile.h" alt="" coords="2867,80,3045,107"/>
+<area shape="rect" id="node43" href="$MachineModuleInfo_8cpp.html" title="MachineModuleInfo.cpp" alt="" coords="3070,80,3229,107"/>
+<area shape="rect" id="node44" href="$StackMaps_8cpp.html" title="StackMaps.cpp" alt="" coords="3253,80,3363,107"/>
+<area shape="rect" id="node45" href="$MCAsmStreamer_8cpp.html" title="MCAsmStreamer.cpp" alt="" coords="3387,80,3533,107"/>
+<area shape="rect" id="node46" href="$MCContext_8cpp.html" title="MCContext.cpp" alt="" coords="3557,80,3667,107"/>
+<area shape="rect" id="node47" href="$MCDwarf_8cpp.html" title="MCDwarf.cpp" alt="" coords="3692,80,3791,107"/>
+<area shape="rect" id="node48" href="$MCObjectFileInfo_8cpp.html" title="MCObjectFileInfo.cpp" alt="" coords="3815,80,3961,107"/>
+<area shape="rect" id="node49" href="$MCPureStreamer_8cpp.html" title="MCPureStreamer.cpp" alt="" coords="3985,80,4132,107"/>
+<area shape="rect" id="node50" href="$MCWin64EH_8cpp.html" title="MCWin64EH.cpp" alt="" coords="4157,80,4275,107"/>
+<area shape="rect" id="node3" href="$TargetLoweringObjectFileImpl_8h.html" title="TargetLoweringObjectFile\lImpl.h" alt="" coords="1471,155,1641,196"/>
+<area shape="rect" id="node6" href="$AArch64TargetObjectFile_8h.html" title="AArch64TargetObjectFile.h" alt="" coords="192,251,371,278"/>
+<area shape="rect" id="node14" href="$PPCTargetObjectFile_8h.html" title="PPCTargetObjectFile.h" alt="" coords="2740,251,2895,278"/>
+<area shape="rect" id="node21" href="$X86TargetObjectFile_8h.html" title="X86TargetObjectFile.h" alt="" coords="2919,251,3070,278"/>
+<area shape="rect" id="node22" href="$AsmPrinter_8cpp.html" title="AsmPrinter.cpp" alt="" coords="1767,162,1878,189"/>
+<area shape="rect" id="node23" href="$AsmPrinterDwarf_8cpp.html" title="AsmPrinterDwarf.cpp" alt="" coords="1902,162,2045,189"/>
+<area shape="rect" id="node24" href="$DwarfCFIException_8cpp.html" title="DwarfCFIException.cpp" alt="" coords="2069,162,2225,189"/>
+<area shape="rect" id="node25" href="$DwarfCompileUnit_8cpp.html" title="DwarfCompileUnit.cpp" alt="" coords="2249,162,2399,189"/>
+<area shape="rect" id="node26" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="2423,162,2539,189"/>
+<area shape="rect" id="node27" href="$DwarfException_8cpp.html" title="DwarfException.cpp" alt="" coords="2563,162,2698,189"/>
+<area shape="rect" id="node28" href="$ErlangGCPrinter_8cpp.html" title="ErlangGCPrinter.cpp" alt="" coords="2723,162,2861,189"/>
+<area shape="rect" id="node29" href="$OcamlGCPrinter_8cpp.html" title="OcamlGCPrinter.cpp" alt="" coords="2885,162,3027,189"/>
+<area shape="rect" id="node30" href="$Win64Exception_8cpp.html" title="Win64Exception.cpp" alt="" coords="3051,162,3189,189"/>
+<area shape="rect" id="node31" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="3213,162,3379,189"/>
+<area shape="rect" id="node32" href="$TargetLowering_8cpp.html" title="TargetLowering.cpp" alt="" coords="3403,162,3538,189"/>
+<area shape="rect" id="node33" href="$TargetLoweringBase_8cpp.html" title="TargetLoweringBase.cpp" alt="" coords="3563,162,3725,189"/>
+<area shape="rect" id="node34" href="$HexagonAsmPrinter_8cpp.html" title="HexagonAsmPrinter.cpp" alt="" coords="3749,162,3909,189"/>
+<area shape="rect" id="node35" href="$MipsAsmPrinter_8cpp.html" title="MipsAsmPrinter.cpp" alt="" coords="3934,162,4071,189"/>
+<area shape="rect" id="node36" href="$NVPTXAsmPrinter_8cpp.html" title="NVPTXAsmPrinter.cpp" alt="" coords="4095,162,4249,189"/>
+<area shape="rect" id="node37" href="$NVPTXTargetObjectFile_8h.html" title="NVPTXTargetObjectFile.h" alt="" coords="37,162,208,189"/>
+<area shape="rect" id="node38" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="4273,162,4447,189"/>
+<area shape="rect" id="node39" href="$AMDGPUAsmPrinter_8cpp.html" title="AMDGPUAsmPrinter.cpp" alt="" coords="4471,162,4638,189"/>
+<area shape="rect" id="node40" href="$TargetLoweringObjectFile_8cpp.html" title="TargetLoweringObjectFile.cpp" alt="" coords="4662,162,4855,189"/>
+<area shape="rect" id="node41" href="$XCoreAsmPrinter_8cpp.html" title="XCoreAsmPrinter.cpp" alt="" coords="4880,162,5027,189"/>
+<area shape="rect" id="node42" href="$GlobalMerge_8cpp.html" title="GlobalMerge.cpp" alt="" coords="5051,162,5170,189"/>
+<area shape="rect" id="node4" href="$TargetLoweringObjectFileImpl_8cpp.html" title="TargetLoweringObjectFile\lImpl.cpp" alt="" coords="2130,244,2299,285"/>
+<area shape="rect" id="node5" href="$AArch64AsmPrinter_8cpp.html" title="AArch64AsmPrinter.cpp" alt="" coords="2324,251,2484,278"/>
+<area shape="rect" id="node7" href="$AArch64ISelLowering_8cpp.html" title="AArch64ISelLowering.cpp" alt="" coords="260,333,431,360"/>
+<area shape="rect" id="node8" href="$ARMTargetObjectFile_8h.html" title="ARMTargetObjectFile.h" alt="" coords="2559,251,2716,278"/>
+<area shape="rect" id="node9" href="$HexagonTargetObjectFile_8h.html" title="HexagonTargetObjectFile.h" alt="" coords="445,251,624,278"/>
+<area shape="rect" id="node10" href="$MipsTargetObjectFile_8h.html" title="MipsTargetObjectFile.h" alt="" coords="648,251,803,278"/>
+<area shape="rect" id="node11" href="$MSP430ISelLowering_8cpp.html" title="MSP430ISelLowering.cpp" alt="" coords="827,251,997,278"/>
+<area shape="rect" id="node12" href="$NVPTXISelLowering_8cpp.html" title="NVPTXISelLowering.cpp" alt="" coords="5,251,168,278"/>
+<area shape="rect" id="node13" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="1022,251,1159,278"/>
+<area shape="rect" id="node15" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="2596,333,2743,360"/>
+<area shape="rect" id="node16" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="1183,251,1361,278"/>
+<area shape="rect" id="node17" href="$AMDILISelLowering_8cpp.html" title="TargetLowering functions borrowed from AMDIL. " alt="" coords="1385,251,1545,278"/>
+<area shape="rect" id="node18" href="$SparcISelLowering_8cpp.html" title="SparcISelLowering.cpp" alt="" coords="1569,251,1724,278"/>
+<area shape="rect" id="node19" href="$SystemZAsmPrinter_8cpp.html" title="SystemZAsmPrinter.cpp" alt="" coords="1749,251,1910,278"/>
+<area shape="rect" id="node20" href="$SystemZISelLowering_8cpp.html" title="SystemZISelLowering.cpp" alt="" coords="1935,251,2105,278"/>
+</map>

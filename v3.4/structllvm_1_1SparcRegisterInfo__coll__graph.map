@@ -1,0 +1,5 @@
+<map id="llvm::SparcRegisterInfo" name="llvm::SparcRegisterInfo">
+<area shape="rect" id="node2" href="$classSparcGenRegisterInfo.html" title="SparcGenRegisterInfo" alt="" coords="5,81,155,108"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SparcSubtarget.html" title="llvm::SparcSubtarget" alt="" coords="179,81,320,108"/>
+<area shape="rect" id="node4" href="$classSparcGenSubtargetInfo.html" title="SparcGenSubtargetInfo" alt="" coords="170,5,329,32"/>
+</map>

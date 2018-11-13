@@ -1,0 +1,8 @@
+<map id="SparcTargetMachine.h" name="SparcTargetMachine.h">
+<area shape="rect" id="node2" href="$SparcAsmPrinter_8cpp.html" title="SparcAsmPrinter.cpp" alt="" coords="5,80,149,107"/>
+<area shape="rect" id="node3" href="$SparcCodeEmitter_8cpp.html" title="SparcCodeEmitter.cpp" alt="" coords="174,80,325,107"/>
+<area shape="rect" id="node4" href="$SparcISelDAGToDAG_8cpp.html" title="SparcISelDAGToDAG.cpp" alt="" coords="349,80,523,107"/>
+<area shape="rect" id="node5" href="$SparcISelLowering_8cpp.html" title="SparcISelLowering.cpp" alt="" coords="548,80,703,107"/>
+<area shape="rect" id="node6" href="$SparcSelectionDAGInfo_8cpp.html" title="SparcSelectionDAGInfo.cpp" alt="" coords="727,80,911,107"/>
+<area shape="rect" id="node7" href="$SparcTargetMachine_8cpp.html" title="SparcTargetMachine.cpp" alt="" coords="935,80,1102,107"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="SparcMCTargetDesc.h" name="SparcMCTargetDesc.h">
+<area shape="rect" id="node2" href="$Sparc_8h.html" title="Sparc.h" alt="" coords="673,80,740,107"/>
+<area shape="rect" id="node18" href="$SparcMCTargetDesc_8cpp.html" title="SparcMCTargetDesc.cpp" alt="" coords="765,80,931,107"/>
+<area shape="rect" id="node3" href="$DelaySlotFiller_8cpp.html" title="DelaySlotFiller.cpp" alt="" coords="74,155,203,181"/>
+<area shape="rect" id="node4" href="$SparcAsmPrinter_8cpp.html" title="SparcAsmPrinter.cpp" alt="" coords="5,304,149,331"/>
+<area shape="rect" id="node5" href="$SparcFrameLowering_8h.html" title="SparcFrameLowering.h" alt="" coords="404,155,559,181"/>
+<area shape="rect" id="node7" href="$SparcCodeEmitter_8cpp.html" title="SparcCodeEmitter.cpp" alt="" coords="174,304,325,331"/>
+<area shape="rect" id="node11" href="$SparcTargetMachine_8cpp.html" title="SparcTargetMachine.cpp" alt="" coords="935,304,1102,331"/>
+<area shape="rect" id="node13" href="$SparcISelLowering_8h.html" title="SparcISelLowering.h" alt="" coords="583,155,723,181"/>
+<area shape="rect" id="node14" href="$SparcInstrInfo_8cpp.html" title="SparcInstrInfo.cpp" alt="" coords="799,155,926,181"/>
+<area shape="rect" id="node15" href="$SparcRegisterInfo_8cpp.html" title="SparcRegisterInfo.cpp" alt="" coords="951,155,1100,181"/>
+<area shape="rect" id="node16" href="$SparcSubtarget_8cpp.html" title="SparcSubtarget.cpp" alt="" coords="1124,155,1260,181"/>
+<area shape="rect" id="node17" href="$SparcTargetInfo_8cpp.html" title="SparcTargetInfo.cpp" alt="" coords="1284,155,1423,181"/>
+<area shape="rect" id="node6" href="$SparcTargetMachine_8h.html" title="SparcTargetMachine.h" alt="" coords="521,229,673,256"/>
+<area shape="rect" id="node12" href="$SparcFrameLowering_8cpp.html" title="SparcFrameLowering.cpp" alt="" coords="329,229,497,256"/>
+<area shape="rect" id="node8" href="$SparcISelDAGToDAG_8cpp.html" title="SparcISelDAGToDAG.cpp" alt="" coords="349,304,523,331"/>
+<area shape="rect" id="node9" href="$SparcISelLowering_8cpp.html" title="SparcISelLowering.cpp" alt="" coords="756,304,911,331"/>
+<area shape="rect" id="node10" href="$SparcSelectionDAGInfo_8cpp.html" title="SparcSelectionDAGInfo.cpp" alt="" coords="548,304,732,331"/>
+</map>

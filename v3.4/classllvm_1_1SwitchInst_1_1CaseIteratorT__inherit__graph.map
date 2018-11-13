@@ -1,0 +1,4 @@
+<map id="llvm::SwitchInst::CaseIteratorT&lt; SwitchInstTy, ConstantIntTy, BasicBlockTy &gt;" name="llvm::SwitchInst::CaseIteratorT&lt; SwitchInstTy, ConstantIntTy, BasicBlockTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SwitchInst_1_1CaseIteratorT.html" title="llvm::SwitchInst::CaseIterator\lT\&lt; SwitchInst, ConstantInt,\l BasicBlock \&gt;" alt="" coords="15,139,202,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SwitchInst_1_1CaseIt.html" title="llvm::SwitchInst::CaseIt" alt="" coords="31,244,186,271"/>
+</map>

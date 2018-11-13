@@ -1,0 +1,48 @@
+<map id="InstCombineVectorOps.cpp" name="InstCombineVectorOps.cpp">
+<area shape="rect" id="node2" href="$InstCombine_8h.html" title="InstCombine.h" alt="" coords="1523,80,1627,107"/>
+<area shape="rect" id="node50" href="$PatternMatch_8h.html" title="llvm/Support/PatternMatch.h" alt="" coords="440,162,627,189"/>
+<area shape="rect" id="node3" href="$InstCombineWorklist_8h.html" title="InstCombineWorklist.h" alt="" coords="2838,401,2989,427"/>
+<area shape="rect" id="node14" href="$ValueTracking_8h.html" title="llvm/Analysis/ValueTracking.h" alt="" coords="43,557,235,584"/>
+<area shape="rect" id="node16" href="$IRBuilder_8h.html" title="llvm/IR/IRBuilder.h" alt="" coords="2115,244,2245,271"/>
+<area shape="rect" id="node26" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2545,557,2631,584"/>
+<area shape="rect" id="node35" href="$Operator_8h.html" title="llvm/IR/Operator.h" alt="" coords="1399,319,1526,345"/>
+<area shape="rect" id="node41" href="$IntrinsicInst_8h.html" title="llvm/IR/IntrinsicInst.h" alt="" coords="561,244,703,271"/>
+<area shape="rect" id="node44" href="$InstVisitor_8h.html" title="llvm/InstVisitor.h" alt="" coords="735,162,849,189"/>
+<area shape="rect" id="node47" href="$TargetFolder_8h.html" title="llvm/Support/TargetFolder.h" alt="" coords="1769,319,1951,345"/>
+<area shape="rect" id="node49" href="$SimplifyLibCalls_8h.html" title="llvm/Transforms/Utils\l/SimplifyLibCalls.h" alt="" coords="2666,155,2809,196"/>
+<area shape="rect" id="node4" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="2666,483,2817,509"/>
+<area shape="rect" id="node5" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2034,931,2193,957"/>
+<area shape="rect" id="node6" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2034,856,2193,883"/>
+<area shape="rect" id="node7" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="1847,483,1983,509"/>
+<area shape="rect" id="node9" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2841,483,2986,509"/>
+<area shape="rect" id="node10" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2856,557,3037,584"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2269,707,2411,733"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="773,781,912,808"/>
+<area shape="rect" id="node17" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2017,557,2140,584"/>
+<area shape="rect" id="node19" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1513,401,1655,427"/>
+<area shape="rect" id="node20" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1725,632,1939,659"/>
+<area shape="rect" id="node21" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2167,401,2308,427"/>
+<area shape="rect" id="node29" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="350,319,493,345"/>
+<area shape="rect" id="node34" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="2367,557,2521,584"/>
+<area shape="rect" id="node39" href="$ConstantFolder_8h.html" title="llvm/Support/ConstantFolder.h" alt="" coords="1551,319,1745,345"/>
+<area shape="rect" id="node40" href="$ValueHandle_8h.html" title="llvm/Support/ValueHandle.h" alt="" coords="2026,319,2206,345"/>
+<area shape="rect" id="node18" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1270,632,1455,659"/>
+<area shape="rect" id="node22" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1285,483,1438,509"/>
+<area shape="rect" id="node23" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1500,557,1604,584"/>
+<area shape="rect" id="node24" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1044,632,1180,659"/>
+<area shape="rect" id="node25" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1051,707,1173,733"/>
+<area shape="rect" id="node27" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="2522,632,2654,659"/>
+<area shape="rect" id="node28" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="2319,632,2497,659"/>
+<area shape="rect" id="node30" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="421,707,552,733"/>
+<area shape="rect" id="node31" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="357,401,501,427"/>
+<area shape="rect" id="node32" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="1730,401,1865,427"/>
+<area shape="rect" id="node33" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="1513,483,1671,509"/>
+<area shape="rect" id="node36" href="$Constants_8h.html" title="llvm/IR/Constants.h" alt="" coords="1047,401,1180,427"/>
+<area shape="rect" id="node38" href="$GetElementPtrTypeIterator_8h.html" title="llvm/Support/GetElementPtr\lTypeIterator.h" alt="" coords="1255,393,1438,435"/>
+<area shape="rect" id="node37" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="1134,483,1261,509"/>
+<area shape="rect" id="node42" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="627,319,754,345"/>
+<area shape="rect" id="node43" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="678,707,805,733"/>
+<area shape="rect" id="node45" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="881,244,999,271"/>
+<area shape="rect" id="node46" href="$CallSite_8h.html" title="llvm/Support/CallSite.h" alt="" coords="230,244,383,271"/>
+<area shape="rect" id="node48" href="$ConstantFolding_8h.html" title="llvm/Analysis/ConstantFolding.h" alt="" coords="1940,401,2143,427"/>
+</map>

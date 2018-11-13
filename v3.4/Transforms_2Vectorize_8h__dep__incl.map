@@ -1,0 +1,8 @@
+<map id="Vectorize.h" name="Vectorize.h">
+<area shape="rect" id="node2" href="$LinkAllPasses_8h.html" title="LinkAllPasses.h" alt="" coords="5,80,117,107"/>
+<area shape="rect" id="node3" href="$PassManagerBuilder_8cpp.html" title="PassManagerBuilder.cpp" alt="" coords="142,80,306,107"/>
+<area shape="rect" id="node4" href="$BBVectorize_8cpp.html" title="BBVectorize.cpp" alt="" coords="331,80,448,107"/>
+<area shape="rect" id="node5" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="473,80,599,107"/>
+<area shape="rect" id="node6" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="624,80,752,107"/>
+<area shape="rect" id="node7" href="$Vectorize_8cpp.html" title="Vectorize.cpp" alt="" coords="776,80,875,107"/>
+</map>

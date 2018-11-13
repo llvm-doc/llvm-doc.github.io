@@ -1,0 +1,5 @@
+<map id="llvm::ARMTargetMachine" name="llvm::ARMTargetMachine">
+<area shape="rect" id="node2" href="$classllvm_1_1ARMBaseTargetMachine.html" title="llvm::ARMBaseTargetMachine" alt="" coords="5,155,200,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="17,80,188,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="34,5,171,32"/>
+</map>

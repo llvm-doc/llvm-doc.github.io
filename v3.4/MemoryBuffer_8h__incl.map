@@ -1,0 +1,10 @@
+<map id="MemoryBuffer.h" name="MemoryBuffer.h">
+<area shape="rect" id="node2" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="423,80,546,107"/>
+<area shape="rect" id="node14" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="784,229,943,256"/>
+<area shape="rect" id="node16" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="184,80,399,107"/>
+<area shape="rect" id="node18" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="63,80,160,107"/>
+<area shape="rect" id="node3" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="460,229,603,256"/>
+<area shape="rect" id="node13" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="523,155,708,181"/>
+<area shape="rect" id="node4" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="164,304,331,331"/>
+<area shape="rect" id="node17" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="216,229,367,256"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="MCRegisterInfo.h" name="MCRegisterInfo.h">
+<area shape="rect" id="node2" href="$MCInstrDesc_8h.html" title="MCInstrDesc.h" alt="" coords="2156,80,2263,107"/>
+<area shape="rect" id="node7" href="$AArch64MCTargetDesc_8cpp.html" title="AArch64MCTargetDesc.cpp" alt="" coords="1910,304,2093,331"/>
+<area shape="rect" id="node8" href="$ARMMCTargetDesc_8cpp.html" title="ARMMCTargetDesc.cpp" alt="" coords="1725,304,1886,331"/>
+<area shape="rect" id="node9" href="$X86MCTargetDesc_8cpp.html" title="X86MCTargetDesc.cpp" alt="" coords="2583,304,2737,331"/>
+<area shape="rect" id="node11" href="$MC_2MCDisassembler_2Disassembler_8cpp.html" title="Disassembler.cpp" alt="" coords="1019,229,1141,256"/>
+<area shape="rect" id="node12" href="$MCModuleYAML_8cpp.html" title="MCModuleYAML.cpp" alt="" coords="1165,229,1309,256"/>
+<area shape="rect" id="node13" href="$AsmParser_8cpp.html" title="AsmParser.cpp" alt="" coords="1333,229,1443,256"/>
+<area shape="rect" id="node14" href="$AArch64MCCodeEmitter_8cpp.html" title="AArch64MCCodeEmitter.cpp" alt="" coords="1629,229,1816,256"/>
+<area shape="rect" id="node15" href="$ARMAsmParser_8cpp.html" title="ARMAsmParser.cpp" alt="" coords="1467,229,1605,256"/>
+<area shape="rect" id="node16" href="$ARMInstPrinter_8cpp.html" title="ARMInstPrinter.cpp" alt="" coords="2039,229,2174,256"/>
+<area shape="rect" id="node17" href="$ARMMCCodeEmitter_8cpp.html" title="ARMMCCodeEmitter.cpp" alt="" coords="2198,229,2365,256"/>
+<area shape="rect" id="node18" href="$HexagonMCTargetDesc_8cpp.html" title="HexagonMCTargetDesc.cpp" alt="" coords="2389,229,2571,256"/>
+<area shape="rect" id="node19" href="$MipsMCCodeEmitter_8cpp.html" title="MipsMCCodeEmitter.cpp" alt="" coords="2698,229,2862,256"/>
+<area shape="rect" id="node20" href="$MipsMCTargetDesc_8cpp.html" title="MipsMCTargetDesc.cpp" alt="" coords="2886,229,3045,256"/>
+<area shape="rect" id="node21" href="$MSP430MCTargetDesc_8cpp.html" title="MSP430MCTargetDesc.cpp" alt="" coords="3069,229,3251,256"/>
+<area shape="rect" id="node22" href="$NVPTXMCTargetDesc_8cpp.html" title="NVPTXMCTargetDesc.cpp" alt="" coords="3275,229,3450,256"/>
+<area shape="rect" id="node23" href="$PPCAsmParser_8cpp.html" title="PPCAsmParser.cpp" alt="" coords="3475,229,3611,256"/>
+<area shape="rect" id="node24" href="$PPCMCTargetDesc_8cpp.html" title="PPCMCTargetDesc.cpp" alt="" coords="3635,229,3794,256"/>
+<area shape="rect" id="node25" href="$AMDGPUMCTargetDesc_8cpp.html" title="This file provides AMDGPU specific target descriptions. " alt="" coords="3819,229,4008,256"/>
+<area shape="rect" id="node26" href="$R600MCCodeEmitter_8cpp.html" title="The R600 code emitter produces machine code that can be executed directly on the GPU device..." alt="" coords="5003,229,5170,256"/>
+<area shape="rect" id="node27" href="$SIMCCodeEmitter_8cpp.html" title="The SI code emitter produces machine code that can be executed directly on the GPU device..." alt="" coords="4033,229,4183,256"/>
+<area shape="rect" id="node28" href="$SparcMCTargetDesc_8cpp.html" title="SparcMCTargetDesc.cpp" alt="" coords="4207,229,4374,256"/>
+<area shape="rect" id="node29" href="$X86ATTInstPrinter_8cpp.html" title="X86ATTInstPrinter.cpp" alt="" coords="4398,229,4551,256"/>
+<area shape="rect" id="node30" href="$X86MCCodeEmitter_8cpp.html" title="X86MCCodeEmitter.cpp" alt="" coords="4576,229,4736,256"/>
+<area shape="rect" id="node31" href="$XCoreMCTargetDesc_8cpp.html" title="XCoreMCTargetDesc.cpp" alt="" coords="4760,229,4928,256"/>
+<area shape="rect" id="node35" href="$TargetRegisterInfo_8h.html" title="TargetRegisterInfo.h" alt="" coords="477,155,616,181"/>
+<area shape="rect" id="node40" href="$AllocationOrder_8h.html" title="AllocationOrder.h" alt="" coords="3919,80,4041,107"/>
+<area shape="rect" id="node41" href="$MCAsmStreamer_8cpp.html" title="MCAsmStreamer.cpp" alt="" coords="4065,80,4210,107"/>
+<area shape="rect" id="node42" href="$MCContext_8cpp.html" title="MCContext.cpp" alt="" coords="4234,80,4345,107"/>
+<area shape="rect" id="node43" href="$MCDwarf_8cpp.html" title="MCDwarf.cpp" alt="" coords="4369,80,4468,107"/>
+<area shape="rect" id="node44" href="$COFFAsmParser_8cpp.html" title="COFFAsmParser.cpp" alt="" coords="4492,80,4636,107"/>
+<area shape="rect" id="node45" href="$MCRegisterInfo_8cpp.html" title="MCRegisterInfo.cpp" alt="" coords="4661,80,4795,107"/>
+<area shape="rect" id="node46" href="$AArch64AsmParser_8cpp.html" title="AArch64AsmParser.cpp" alt="" coords="4819,80,4978,107"/>
+<area shape="rect" id="node47" href="$AArch64InstPrinter_8cpp.html" title="AArch64InstPrinter.cpp" alt="" coords="5003,80,5157,107"/>
+<area shape="rect" id="node48" href="$ARMELFStreamer_8cpp.html" title="ARMELFStreamer.cpp" alt="" coords="5182,80,5333,107"/>
+<area shape="rect" id="node49" href="$R600Defines_8h.html" title="R600Defines.h" alt="" coords="4469,155,4573,181"/>
+<area shape="rect" id="node50" href="$X86AsmParser_8cpp.html" title="X86AsmParser.cpp" alt="" coords="5357,80,5489,107"/>
+<area shape="rect" id="node3" href="$MachineInstr_8h.html" title="MachineInstr.h" alt="" coords="881,155,988,181"/>
+<area shape="rect" id="node5" href="$MachineInstr_8cpp.html" title="MachineInstr.cpp" alt="" coords="875,229,995,256"/>
+<area shape="rect" id="node6" href="$MCInstrAnalysis_8h.html" title="MCInstrAnalysis.h" alt="" coords="1891,229,2015,256"/>
+<area shape="rect" id="node10" href="$MCInstrInfo_8h.html" title="MCInstrInfo.h" alt="" coords="2663,155,2761,181"/>
+<area shape="rect" id="node32" href="$AArch64Disassembler_8cpp.html" title="AArch64Disassembler.cpp" alt="" coords="1938,155,2110,181"/>
+<area shape="rect" id="node33" href="$ARMDisassembler_8cpp.html" title="ARMDisassembler.cpp" alt="" coords="2134,155,2285,181"/>
+<area shape="rect" id="node34" href="$SIInstrInfo_8cpp.html" title="SI Implementation of TargetInstrInfo. " alt="" coords="2360,155,2467,181"/>
+<area shape="rect" id="node4" href="$LiveVariables_8h.html" title="LiveVariables.h" alt="" coords="693,229,800,256"/>
+<area shape="rect" id="node36" href="$FunctionLoweringInfo_8h.html" title="FunctionLoweringInfo.h" alt="" coords="296,229,451,256"/>
+<area shape="rect" id="node37" href="$LiveIntervalAnalysis_8h.html" title="LiveIntervalAnalysis.h" alt="" coords="475,229,619,256"/>
+<area shape="rect" id="node38" href="$LiveRegUnits_8h.html" title="LiveRegUnits.h" alt="" coords="5,229,112,256"/>
+<area shape="rect" id="node39" href="$LiveStackAnalysis_8h.html" title="LiveStackAnalysis.h" alt="" coords="136,229,272,256"/>
+</map>

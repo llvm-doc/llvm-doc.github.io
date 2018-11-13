@@ -1,0 +1,6 @@
+<map id="llvm::DIDerivedType" name="llvm::DIDerivedType">
+<area shape="rect" id="node5" href="$classllvm_1_1DICompositeType.html" title="llvm::DICompositeType" alt="" coords="5,304,159,331"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DIType.html" title="llvm::DIType" alt="" coords="36,155,128,181"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DIScope.html" title="DIScope &#45; A base class for various scopes. " alt="" coords="31,80,133,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DIDescriptor.html" title="llvm::DIDescriptor" alt="" coords="21,5,143,32"/>
+</map>

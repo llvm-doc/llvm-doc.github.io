@@ -1,0 +1,7 @@
+<map id="HexagonBaseInfo.h" name="HexagonBaseInfo.h">
+<area shape="rect" id="node2" href="$HexagonMCTargetDesc_8h.html" title="HexagonMCTargetDesc.h" alt="" coords="314,80,482,107"/>
+<area shape="rect" id="node6" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="679,80,864,107"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="621,155,764,181"/>
+<area shape="rect" id="node17" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="871,155,1029,181"/>
+<area shape="rect" id="node8" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="235,229,401,256"/>
+</map>

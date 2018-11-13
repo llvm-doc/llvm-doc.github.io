@@ -1,0 +1,9 @@
+<map id="MCELFObjectWriter.h" name="MCELFObjectWriter.h">
+<area shape="rect" id="node2" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="221,80,343,107"/>
+<area shape="rect" id="node17" href="$Support_2ELF_8h.html" title="llvm/Support/ELF.h" alt="" coords="118,229,249,256"/>
+<area shape="rect" id="node3" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="418,155,541,181"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="564,304,707,331"/>
+<area shape="rect" id="node14" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="543,229,728,256"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="509,379,676,405"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="239,304,397,331"/>
+</map>

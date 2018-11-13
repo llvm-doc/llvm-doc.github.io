@@ -1,0 +1,5 @@
+<map id="llvm::ImmutableIntervalMap&lt; ValT &gt;" name="llvm::ImmutableIntervalMap&lt; ValT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1ImmutableMap.html" title="llvm::ImmutableMap\l\&lt; Interval, ValT, ImutInterval\lInfo\&lt; ValT \&gt; \&gt;" alt="" coords="5,228,188,284"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImutAVLTree.html" title="llvm::ImutAVLTree\&lt;\l ImutInfo \&gt;" alt="" coords="52,5,187,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ImmutableMap.html" title="llvm::ImmutableMap\l\&lt; KeyT, ValT, ValInfo \&gt;" alt="" coords="130,109,285,151"/>
+</map>

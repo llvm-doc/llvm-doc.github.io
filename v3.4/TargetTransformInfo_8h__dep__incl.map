@@ -1,0 +1,28 @@
+<map id="TargetTransformInfo.h" name="TargetTransformInfo.h">
+<area shape="rect" id="node2" href="$CodeMetrics_8cpp.html" title="CodeMetrics.cpp" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$CostModel_8cpp.html" title="CostModel.cpp" alt="" coords="149,80,255,107"/>
+<area shape="rect" id="node4" href="$InlineCost_8cpp.html" title="InlineCost.cpp" alt="" coords="280,80,383,107"/>
+<area shape="rect" id="node5" href="$ScalarEvolutionExpander_8cpp.html" title="ScalarEvolutionExpander.cpp" alt="" coords="407,80,595,107"/>
+<area shape="rect" id="node6" href="$TargetTransformInfo_8cpp.html" title="TargetTransformInfo.cpp" alt="" coords="619,80,782,107"/>
+<area shape="rect" id="node7" href="$BasicTargetTransformInfo_8cpp.html" title="BasicTargetTransformInfo.cpp" alt="" coords="806,80,1001,107"/>
+<area shape="rect" id="node8" href="$SelectionDAG_8cpp.html" title="SelectionDAG.cpp" alt="" coords="1025,80,1153,107"/>
+<area shape="rect" id="node9" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="1177,80,1328,107"/>
+<area shape="rect" id="node10" href="$ARMTargetTransformInfo_8cpp.html" title="ARMTargetTransformInfo.cpp" alt="" coords="1353,80,1545,107"/>
+<area shape="rect" id="node11" href="$MipsTargetMachine_8cpp.html" title="MipsTargetMachine.cpp" alt="" coords="1569,80,1728,107"/>
+<area shape="rect" id="node12" href="$PPCTargetTransformInfo_8cpp.html" title="PPCTargetTransformInfo.cpp" alt="" coords="1752,80,1943,107"/>
+<area shape="rect" id="node13" href="$AMDGPUTargetTransformInfo_8cpp.html" title="AMDGPUTargetTransformInfo.cpp" alt="" coords="1967,80,2187,107"/>
+<area shape="rect" id="node14" href="$X86TargetTransformInfo_8cpp.html" title="X86TargetTransformInfo.cpp" alt="" coords="2211,80,2398,107"/>
+<area shape="rect" id="node15" href="$XCoreTargetTransformInfo_8cpp.html" title="XCoreTargetTransformInfo.cpp" alt="" coords="2423,80,2621,107"/>
+<area shape="rect" id="node16" href="$LoopIdiomRecognize_8cpp.html" title="LoopIdiomRecognize.cpp" alt="" coords="2645,80,2812,107"/>
+<area shape="rect" id="node17" href="$LoopRotation_8cpp.html" title="LoopRotation.cpp" alt="" coords="2837,80,2959,107"/>
+<area shape="rect" id="node18" href="$LoopStrengthReduce_8cpp.html" title="LoopStrengthReduce.cpp" alt="" coords="2984,80,3151,107"/>
+<area shape="rect" id="node19" href="$LoopUnrollPass_8cpp.html" title="LoopUnrollPass.cpp" alt="" coords="3175,80,3309,107"/>
+<area shape="rect" id="node20" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="3333,80,3460,107"/>
+<area shape="rect" id="node21" href="$PartiallyInlineLibCalls_8cpp.html" title="PartiallyInlineLibCalls.cpp" alt="" coords="3485,80,3653,107"/>
+<area shape="rect" id="node22" href="$SimplifyCFGPass_8cpp.html" title="SimplifyCFGPass.cpp" alt="" coords="3677,80,3823,107"/>
+<area shape="rect" id="node23" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="3847,80,4034,107"/>
+<area shape="rect" id="node24" href="$SimplifyCFG_8cpp.html" title="SimplifyCFG.cpp" alt="" coords="4059,80,4177,107"/>
+<area shape="rect" id="node25" href="$BBVectorize_8cpp.html" title="BBVectorize.cpp" alt="" coords="4201,80,4318,107"/>
+<area shape="rect" id="node26" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="4343,80,4469,107"/>
+<area shape="rect" id="node27" href="$SLPVectorizer_8cpp.html" title="SLPVectorizer.cpp" alt="" coords="4494,80,4622,107"/>
+</map>

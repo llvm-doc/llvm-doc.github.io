@@ -1,0 +1,33 @@
+<map id="XCoreSubtarget.cpp" name="XCoreSubtarget.cpp">
+<area shape="rect" id="node2" href="$XCoreSubtarget_8h.html" title="XCoreSubtarget.h" alt="" coords="1555,80,1679,107"/>
+<area shape="rect" id="node45" href="$XCore_8h.html" title="XCore.h" alt="" coords="2091,80,2159,107"/>
+<area shape="rect" id="node49" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="2117,319,2307,345"/>
+<area shape="rect" id="node3" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1569,319,1756,345"/>
+<area shape="rect" id="node37" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="1526,155,1709,196"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1886,617,2029,644"/>
+<area shape="rect" id="node14" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1734,393,1821,420"/>
+<area shape="rect" id="node28" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1152,393,1315,420"/>
+<area shape="rect" id="node36" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="556,393,737,420"/>
+<area shape="rect" id="node5" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1970,692,2137,719"/>
+<area shape="rect" id="node15" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1613,617,1771,644"/>
+<area shape="rect" id="node17" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1711,468,1843,495"/>
+<area shape="rect" id="node26" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1899,468,2077,495"/>
+<area shape="rect" id="node18" href="$InitializePasses_8h.html" title="llvm/InitializePasses.h" alt="" coords="1848,543,1995,569"/>
+<area shape="rect" id="node19" href="$PassRegistry_8h.html" title="llvm/PassRegistry.h" alt="" coords="1251,543,1384,569"/>
+<area shape="rect" id="node22" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="2395,692,2544,719"/>
+<area shape="rect" id="node23" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="1669,543,1824,569"/>
+<area shape="rect" id="node20" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1322,617,1537,644"/>
+<area shape="rect" id="node21" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1201,617,1298,644"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2254,543,2413,569"/>
+<area shape="rect" id="node29" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="1135,468,1291,495"/>
+<area shape="rect" id="node35" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1459,543,1645,569"/>
+<area shape="rect" id="node30" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="893,543,1000,569"/>
+<area shape="rect" id="node38" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="1835,244,2016,271"/>
+<area shape="rect" id="node39" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="2861,543,3045,569"/>
+<area shape="rect" id="node41" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="2397,319,2579,345"/>
+<area shape="rect" id="node40" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="2813,617,2971,644"/>
+<area shape="rect" id="node42" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="2378,393,2499,420"/>
+<area shape="rect" id="node43" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="2203,468,2325,495"/>
+<area shape="rect" id="node46" href="$XCoreMCTargetDesc_8h.html" title="MCTargetDesc/XCoreMCTarget\lDesc.h" alt="" coords="2256,155,2461,196"/>
+<area shape="rect" id="node50" href="$include_2llvm-c_2Disassembler_8h.html" title="llvm&#45;c/Disassembler.h" alt="" coords="2640,543,2787,569"/>
+</map>

@@ -1,0 +1,171 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="5,6278,177,6334"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::IdentifyingPassPtr \&gt;" alt="" coords="255,5,442,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::Pass * \&gt;" alt="" coords="263,71,434,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ASTCallback\lVH, AliasSet::PointerRec\l *, ASTCallbackVHDenseMapInfo \&gt;" alt="" coords="237,135,461,191"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Attribute\lSet, unsigned \&gt;" alt="" coords="263,215,435,256"/>
+<area shape="rect" id="node6" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; BasicBlock\l *, Region * \&gt;" alt="" coords="255,280,443,321"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; BlkT\l *, BBInfo * \&gt;" alt="" coords="273,345,424,387"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; BlockT\l *, BranchProbability \&gt;" alt="" coords="267,411,431,452"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; BlockT\l *, LoopT * \&gt;" alt="" coords="267,476,431,517"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; BlockT\l *, unsigned \&gt;" alt="" coords="267,541,431,583"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l BlockT *, llvm::BlockFrequency \&gt;" alt="" coords="241,607,456,648"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Function *, GCFunctionInfo * \&gt;" alt="" coords="249,672,449,713"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Function *, ReturnInst * \&gt;" alt="" coords="265,737,433,779"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Function *, unsigned \&gt;" alt="" coords="271,803,426,844"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Instruction *, unsigned \&gt;" alt="" coords="267,868,430,909"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::AllocaInst *, int \&gt;" alt="" coords="271,933,426,975"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Argument *, int \&gt;" alt="" coords="271,999,426,1040"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::BasicBlock *,\l llvm::BlockFrequency \&gt;" alt="" coords="269,1063,428,1119"/>
+<area shape="rect" id="node19" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::BasicBlock *,\l llvm::MachineBasicBlock * \&gt;" alt="" coords="255,1143,442,1199"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::BasicBlock *,\l unsigned \&gt;" alt="" coords="271,1223,426,1279"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Constant *, unsigned \&gt;" alt="" coords="257,1303,440,1344"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::DIE *, llvm::Compile\lUnit * \&gt;" alt="" coords="265,1367,432,1423"/>
+<area shape="rect" id="node23" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::DIE *, unsigned \&gt;" alt="" coords="271,1447,426,1488"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::GlobalValue *,\l unsigned \&gt;" alt="" coords="271,1511,426,1567"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Instruction *,\l llvm::SmallVector \&gt;" alt="" coords="271,1591,426,1647"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Loop *, BackedgeTaken\lInfo \&gt;" alt="" coords="253,1671,444,1727"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MachineBasicBlock\l *, llvm::BlockFrequency \&gt;" alt="" coords="263,1751,434,1807"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MachineInstr *,\l llvm::MachineTraceMetrics\l::InstrCycles \&gt;" alt="" coords="259,1832,438,1903"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MachineInstr *,\l llvm::MCSymbol * \&gt;" alt="" coords="271,1927,426,1983"/>
+<area shape="rect" id="node30" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSection *, llvm\l::MCLineSection * \&gt;" alt="" coords="271,2007,427,2063"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSection *, llvm\l::MCSectionData * \&gt;" alt="" coords="271,2087,427,2143"/>
+<area shape="rect" id="node32" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSectionData\l *, llvm::MCFragment * \&gt;" alt="" coords="269,2167,429,2223"/>
+<area shape="rect" id="node33" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSectionData\l *, std::vector\&lt; MachO\l::any_relocation_info \&gt; \&gt;" alt="" coords="268,2248,429,2319"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSectionData\l *, unsigned \&gt;" alt="" coords="271,2343,426,2399"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSymbol *, llvm\l::MCSymbolData * \&gt;" alt="" coords="271,2423,426,2479"/>
+<area shape="rect" id="node36" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSymbol *, uint64_t \&gt;" alt="" coords="254,2503,443,2544"/>
+<area shape="rect" id="node37" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MCSymbol *, unsigned \&gt;" alt="" coords="251,2568,446,2609"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::CompileUnit * \&gt;" alt="" coords="271,2633,426,2689"/>
+<area shape="rect" id="node39" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::DbgVariable * \&gt;" alt="" coords="271,2713,426,2769"/>
+<area shape="rect" id="node40" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::DIE * \&gt;" alt="" coords="271,2793,426,2849"/>
+<area shape="rect" id="node41" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::DIEEntry * \&gt;" alt="" coords="271,2873,426,2929"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, llvm\l::LexicalScope * \&gt;" alt="" coords="271,2953,426,3009"/>
+<area shape="rect" id="node43" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::MDNode *, unsigned \&gt;" alt="" coords="258,3032,439,3073"/>
+<area shape="rect" id="node44" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::object::Elf_Sym\l_Impl *, ELF::Elf64_Word \&gt;" alt="" coords="261,3097,436,3153"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::SCEV *, const\l llvm::Loop * \&gt;" alt="" coords="271,3177,426,3233"/>
+<area shape="rect" id="node46" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::SCEV *, llvm::\lConstantRange \&gt;" alt="" coords="271,3257,426,3313"/>
+<area shape="rect" id="node47" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::SCEV *, llvm::\lSmallVector\&lt; std::pair\l\&lt; const llvm::BasicBlock\l *, BlockDisposition \&gt;, 2 \&gt; \&gt;" alt="" coords="259,3337,438,3422"/>
+<area shape="rect" id="node48" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::SCEV *, llvm::\lSmallVector\&lt; std::pair\l\&lt; const llvm::Loop *, const\l llvm::SCEV * \&gt;, 2 \&gt; \&gt;" alt="" coords="263,3446,434,3531"/>
+<area shape="rect" id="node49" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::SCEV *, llvm::\lSmallVector\&lt; std::pair\l\&lt; const llvm::Loop *, LoopDisposition\l \&gt;, 2 \&gt; \&gt;" alt="" coords="234,3555,463,3641"/>
+<area shape="rect" id="node50" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, char,\l DenseMapInfo\&lt; const llvm\l::Value * \&gt; \&gt;" alt="" coords="261,3665,437,3736"/>
+<area shape="rect" id="node51" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, DanglingDebug\lInfo \&gt;" alt="" coords="255,3761,443,3817"/>
+<area shape="rect" id="node52" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, llvm\l::SDValue \&gt;" alt="" coords="271,3841,426,3897"/>
+<area shape="rect" id="node53" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, unsigned \&gt;" alt="" coords="267,3920,430,3961"/>
+<area shape="rect" id="node54" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MachineInstr *, SlotIndex \&gt;" alt="" coords="259,3985,438,4027"/>
+<area shape="rect" id="node55" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MCExpr *, unsigned \&gt;" alt="" coords="271,4051,426,4092"/>
+<area shape="rect" id="node56" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MCSection *, SmallVector\l\&lt; SymbolCU, 8 \&gt; \&gt;" alt="" coords="261,4115,436,4171"/>
+<area shape="rect" id="node57" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MCSectionData *, uint64_t \&gt;" alt="" coords="255,4195,443,4236"/>
+<area shape="rect" id="node58" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MDNode *, SmallVector\l\&lt; const MachineInstr *, 4 \&gt; \&gt;" alt="" coords="256,4259,441,4315"/>
+<area shape="rect" id="node59" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l MDString *, MDNode * \&gt;" alt="" coords="267,4339,430,4380"/>
+<area shape="rect" id="node60" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l SDNode *, SmallVector\l\&lt; SDDbgValue *, 2 \&gt; \&gt;" alt="" coords="269,4403,428,4459"/>
+<area shape="rect" id="node61" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l TargetRegisterClass\l *, VRegMap \&gt;" alt="" coords="271,4483,426,4539"/>
+<area shape="rect" id="node62" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Value *, unsigned \&gt;" alt="" coords="271,4563,426,4604"/>
+<area shape="rect" id="node63" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l Value *, WeakEvalType \&gt;" alt="" coords="265,4628,433,4669"/>
+<area shape="rect" id="node64" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Constant\lArray *, char, MapInfo \&gt;" alt="" coords="261,4693,436,4735"/>
+<area shape="rect" id="node65" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Constant\lClass *, char, MapInfo \&gt;" alt="" coords="261,4759,436,4800"/>
+<area shape="rect" id="node66" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Constant\lStruct *, char, MapInfo \&gt;" alt="" coords="261,4824,436,4865"/>
+<area shape="rect" id="node67" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Constant\lVector *, char, MapInfo \&gt;" alt="" coords="261,4889,436,4931"/>
+<area shape="rect" id="node68" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; DenseMap\lAPFloatKeyInfo::KeyTy,\l ConstantFP *, DenseMapAPFloat\lKeyInfo \&gt;" alt="" coords="241,4955,457,5025"/>
+<area shape="rect" id="node69" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; DenseMap\lAPIntKeyInfo::KeyTy, Constant\lInt *, DenseMapAPIntKeyInfo \&gt;" alt="" coords="248,5050,449,5106"/>
+<area shape="rect" id="node70" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Edge,\l uint32_t \&gt;" alt="" coords="271,5129,427,5171"/>
+<area shape="rect" id="node71" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Function\l *, FunctionAnalysisResultListT \&gt;" alt="" coords="244,5195,453,5236"/>
+<area shape="rect" id="node72" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Function\lType *, bool, FunctionTypeKey\lInfo \&gt;" alt="" coords="251,5259,447,5315"/>
+<area shape="rect" id="node73" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Instruction\l *, MemDepResult \&gt;" alt="" coords="257,5339,440,5380"/>
+<area shape="rect" id="node74" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Instruction\l *, PerInstNLInfo \&gt;" alt="" coords="257,5404,440,5445"/>
+<area shape="rect" id="node75" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Instruction\l *, SmallPtrSet\&lt; Instruction\l *, 4 \&gt; \&gt;" alt="" coords="257,5469,440,5525"/>
+<area shape="rect" id="node76" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Instruction\l *, SmallPtrSet\&lt; ValueIsLoadPair, 4 \&gt; \&gt;" alt="" coords="225,5548,472,5589"/>
+<area shape="rect" id="node77" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; K,\l llvm::ScopedHashTableVal\l *, KInfo \&gt;" alt="" coords="260,5613,437,5669"/>
+<area shape="rect" id="node78" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; LexicalScope\l *, SmallVector\&lt; DbgVariable\l *, 8 \&gt; \&gt;" alt="" coords="249,5693,449,5749"/>
+<area shape="rect" id="node79" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::AssertingVH\&lt; llvm::\lBasicBlock \&gt;, AddrLabelSymEntry \&gt;" alt="" coords="234,5773,463,5829"/>
+<area shape="rect" id="node80" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::AssertingVH\&lt; llvm::\lFunction \&gt;, std::vector\l\&lt; llvm::MCSymbol * \&gt; \&gt;" alt="" coords="271,5853,426,5924"/>
+<area shape="rect" id="node81" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::AssertingVH\&lt; llvm::\lMDNode \&gt;, std::string \&gt;" alt="" coords="271,5949,426,6005"/>
+<area shape="rect" id="node82" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::AttributeSet, unsigned \&gt;" alt="" coords="265,6028,432,6069"/>
+<area shape="rect" id="node83" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, BranchProbability \&gt;" alt="" coords="239,6093,459,6135"/>
+<area shape="rect" id="node84" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, DomTreeNode\lBase\&lt; llvm::BasicBlock \&gt; * \&gt;" alt="" coords="253,6158,444,6214"/>
+<area shape="rect" id="node85" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::BasicBlock * \&gt;" alt="" coords="275,6238,422,6294"/>
+<area shape="rect" id="node86" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::BasicBlock ** \&gt;" alt="" coords="275,6318,422,6374"/>
+<area shape="rect" id="node87" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::DominatorTreeBase::InfoRec \&gt;" alt="" coords="247,6398,451,6454"/>
+<area shape="rect" id="node88" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::Loop * \&gt;" alt="" coords="275,6478,422,6534"/>
+<area shape="rect" id="node89" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, unsigned \&gt;" alt="" coords="263,6557,434,6599"/>
+<area shape="rect" id="node90" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::DebugLoc, llvm::LexicalScope * \&gt;" alt="" coords="239,6623,458,6664"/>
+<area shape="rect" id="node91" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::DIE *, const llvm::\lMDNode * \&gt;" alt="" coords="275,6687,422,6743"/>
+<area shape="rect" id="node92" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Function *, std::vector\l\&lt; BlockAddrRefTy \&gt; \&gt;" alt="" coords="273,6767,424,6823"/>
+<area shape="rect" id="node93" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Function *, uint64_t \&gt;" alt="" coords="273,6847,424,6888"/>
+<area shape="rect" id="node94" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Instruction *, std\l::vector\&lt; MDRef \&gt; \&gt;" alt="" coords="275,6911,422,6967"/>
+<area shape="rect" id="node95" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Instruction *, unsigned \&gt;" alt="" coords="266,6991,431,7032"/>
+<area shape="rect" id="node96" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l BranchProbability \&gt;" alt="" coords="271,7055,426,7111"/>
+<area shape="rect" id="node97" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l DomTreeNodeBase\&lt; llvm\l::MachineBasicBlock \&gt; * \&gt;" alt="" coords="263,7136,435,7207"/>
+<area shape="rect" id="node98" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::DominatorTreeBase\l::InfoRec \&gt;" alt="" coords="265,7231,433,7301"/>
+<area shape="rect" id="node99" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::MachineBasicBlock * \&gt;" alt="" coords="255,7326,442,7382"/>
+<area shape="rect" id="node100" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::MachineLoop * \&gt;" alt="" coords="271,7406,426,7462"/>
+<area shape="rect" id="node101" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::SmallVector\&lt; unsigned,\l 4 \&gt; \&gt;" alt="" coords="253,7487,444,7557"/>
+<area shape="rect" id="node102" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l unsigned \&gt;" alt="" coords="271,7582,426,7638"/>
+<area shape="rect" id="node103" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineConstantPoolValue\l *, char, DenseMapInfo\&lt; llvm\l::MachineConstantPoolValue * \&gt; \&gt;" alt="" coords="241,7663,457,7733"/>
+<area shape="rect" id="node104" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineInstr *, llvm\l::SUnit * \&gt;" alt="" coords="275,7758,422,7814"/>
+<area shape="rect" id="node105" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineInstr *, unsigned \&gt;" alt="" coords="259,7837,438,7879"/>
+<area shape="rect" id="node106" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MCSymbol *, llvm::SmallVector\l\&lt; unsigned, 4 \&gt; \&gt;" alt="" coords="246,7902,451,7958"/>
+<area shape="rect" id="node107" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MCSymbol *, StubValueTy \&gt;" alt="" coords="253,7981,444,8023"/>
+<area shape="rect" id="node108" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MCSymbol *, unsigned \&gt;" alt="" coords="265,8047,433,8088"/>
+<area shape="rect" id="node109" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MCSymbol const *, char,\l DenseMapInfo\&lt; llvm::MCSymbol\l const * \&gt; \&gt;" alt="" coords="243,8112,454,8183"/>
+<area shape="rect" id="node110" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MDNode *, int \&gt;" alt="" coords="275,8207,422,8248"/>
+<area shape="rect" id="node111" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Pass *, llvm::AnalysisUsage * \&gt;" alt="" coords="247,8272,450,8313"/>
+<area shape="rect" id="node112" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Pass *, llvm::Pass * \&gt;" alt="" coords="275,8337,422,8379"/>
+<area shape="rect" id="node113" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Pass *, llvm::SmallPtrSet\l\&lt; llvm::Pass *, 8 \&gt; \&gt;" alt="" coords="263,8402,434,8458"/>
+<area shape="rect" id="node114" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::PHINode *, llvm::Constant * \&gt;" alt="" coords="251,8481,446,8523"/>
+<area shape="rect" id="node115" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::PointerType *, llvm\l::ConstantPointerNull * \&gt;" alt="" coords="268,8546,429,8602"/>
+<area shape="rect" id="node116" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::StructType *, unsigned \&gt;" alt="" coords="265,8625,433,8667"/>
+<area shape="rect" id="node117" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, char, DenseMapInfo\l\&lt; llvm::Type * \&gt; \&gt;" alt="" coords="255,8690,442,8746"/>
+<area shape="rect" id="node118" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::ConstantAggregate\lZero * \&gt;" alt="" coords="243,8770,454,8826"/>
+<area shape="rect" id="node119" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::PointerType * \&gt;" alt="" coords="255,8849,443,8891"/>
+<area shape="rect" id="node120" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Type *, llvm::UndefValue * \&gt;" alt="" coords="256,8915,441,8956"/>
+<area shape="rect" id="node121" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Value *, char, DenseMapInfo\l\&lt; llvm::Value * \&gt; \&gt;" alt="" coords="253,8979,444,9035"/>
+<area shape="rect" id="node122" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::Value *, LatticeVal \&gt;" alt="" coords="275,9059,422,9100"/>
+<area shape="rect" id="node123" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Module\l *, ObjectImage * \&gt;" alt="" coords="266,9124,431,9165"/>
+<area shape="rect" id="node124" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, DomTreeNodeBase\&lt;\l NodeT \&gt; * \&gt;" alt="" coords="268,9189,429,9245"/>
+<area shape="rect" id="node125" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, llvm::DominatorTreeBase\l::InfoRec \&gt;" alt="" coords="259,9269,439,9325"/>
+<area shape="rect" id="node126" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, NodeT * \&gt;" alt="" coords="268,9348,429,9389"/>
+<area shape="rect" id="node127" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeType\l *, unsigned \&gt;" alt="" coords="258,9413,439,9455"/>
+<area shape="rect" id="node128" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; SCEVCallback\lVH, const SCEV *, DenseMapInfo\l\&lt; Value * \&gt; \&gt;" alt="" coords="243,9478,455,9534"/>
+<area shape="rect" id="node129" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Function\l *, llvm::BasicBlock *\l \&gt;, llvm::BlockAddress * \&gt;" alt="" coords="265,9559,432,9629"/>
+<area shape="rect" id="node130" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::MDNode\l *, llvm::MDNode * \&gt;,\l int \&gt;" alt="" coords="279,9653,419,9724"/>
+<area shape="rect" id="node131" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Type *,\l uint64_t \&gt;, llvm::ArrayType * \&gt;" alt="" coords="251,9749,446,9805"/>
+<area shape="rect" id="node132" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Type *,\l unsigned \&gt;, llvm::PointerType * \&gt;" alt="" coords="243,9829,454,9885"/>
+<area shape="rect" id="node133" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; llvm::Type *,\l unsigned \&gt;, llvm::VectorType * \&gt;" alt="" coords="245,9909,452,9965"/>
+<area shape="rect" id="node134" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; unsigned, unsigned\l \&gt;, ValueForcePair \&gt;" alt="" coords="264,9989,433,10045"/>
+<area shape="rect" id="node135" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; std\l::pair\&lt; void *, Function\l * \&gt;, FunctionAnalysisResultList\lT::iterator \&gt;" alt="" coords="248,10069,449,10140"/>
+<area shape="rect" id="node136" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; StructType\l *, bool, AnonStructTypeKeyInfo \&gt;" alt="" coords="241,10164,457,10205"/>
+<area shape="rect" id="node137" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Type\l *, unsigned \&gt;" alt="" coords="273,10229,424,10271"/>
+<area shape="rect" id="node138" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; uint32\l_t, char, DenseMapInfo\l\&lt; uint32_t \&gt; \&gt;" alt="" coords="269,10294,428,10350"/>
+<area shape="rect" id="node139" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; uint64\l_t, object::RelocationRef \&gt;" alt="" coords="262,10373,435,10415"/>
+<area shape="rect" id="node140" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; uint64\l_t, std::pair\&lt; uint8_t,\l int64_t \&gt; \&gt;" alt="" coords="269,10438,428,10494"/>
+<area shape="rect" id="node141" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned\l int, unsigned int \&gt;" alt="" coords="261,10517,436,10559"/>
+<area shape="rect" id="node142" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l AllowedSet \&gt;" alt="" coords="259,10583,438,10624"/>
+<area shape="rect" id="node143" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l float \&gt;" alt="" coords="259,10648,438,10689"/>
+<area shape="rect" id="node144" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l int \&gt;" alt="" coords="259,10713,438,10755"/>
+<area shape="rect" id="node145" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l intptr_t \&gt;" alt="" coords="259,10779,438,10820"/>
+<area shape="rect" id="node146" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::IntegerType * \&gt;" alt="" coords="259,10844,438,10885"/>
+<area shape="rect" id="node147" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::MCLabel * \&gt;" alt="" coords="259,10909,438,10951"/>
+<area shape="rect" id="node148" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::MCSymbol * \&gt;" alt="" coords="259,10975,438,11016"/>
+<area shape="rect" id="node149" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::PointerAlignElem \&gt;" alt="" coords="259,11040,438,11081"/>
+<area shape="rect" id="node150" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l llvm::SmallVector \&gt;" alt="" coords="259,11105,438,11147"/>
+<area shape="rect" id="node151" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l PBQP::Graph::NodeId \&gt;" alt="" coords="259,11171,438,11212"/>
+<area shape="rect" id="node152" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l std::pair\&lt; unsigned, unsigned \&gt; \&gt;" alt="" coords="243,11236,454,11277"/>
+<area shape="rect" id="node153" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l std::string \&gt;" alt="" coords="259,11301,438,11343"/>
+<area shape="rect" id="node154" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l TreeTy * \&gt;" alt="" coords="259,11367,438,11408"/>
+<area shape="rect" id="node155" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l unsigned \&gt;" alt="" coords="259,11432,438,11473"/>
+<area shape="rect" id="node156" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; UnsignPair,\l unsigned \&gt;" alt="" coords="254,11497,443,11539"/>
+<area shape="rect" id="node157" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Value\l *, char, DenseMapInfo\l\&lt; Value * \&gt; \&gt;" alt="" coords="271,11562,426,11618"/>
+<area shape="rect" id="node158" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Value\l *, ValueHandleBase * \&gt;" alt="" coords="270,11641,427,11683"/>
+<area shape="rect" id="node159" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueIsLoad\lPair, NonLocalPointerInfo \&gt;" alt="" coords="252,11707,445,11748"/>
+<area shape="rect" id="node160" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueMap\lCVH, const llvm::MipsCallEntry\l *, DenseMapInfo\&lt; ValueMapCVH \&gt; \&gt;" alt="" coords="231,11771,467,11827"/>
+<area shape="rect" id="node161" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueMap\lCVH, SSPLayoutKind, DenseMap\lInfo\&lt; ValueMapCVH \&gt; \&gt;" alt="" coords="241,11851,456,11907"/>
+<area shape="rect" id="node162" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueMap\lCVH, ValueT, DenseMapInfo\l\&lt; ValueMapCVH \&gt; \&gt;" alt="" coords="256,11931,441,11987"/>
+<area shape="rect" id="node163" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueMap\lCVH, void *, DenseMapInfo\l\&lt; ValueMapCVH \&gt; \&gt;" alt="" coords="259,12011,439,12067"/>
+<area shape="rect" id="node164" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValuePair\lTy, bool \&gt;" alt="" coords="259,12091,438,12132"/>
+<area shape="rect" id="node165" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; ValueT,\l char, ValueInfoT \&gt;" alt="" coords="265,12156,432,12197"/>
+<area shape="rect" id="node166" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; void\l *, intptr_t \&gt;" alt="" coords="275,12221,422,12263"/>
+<area shape="rect" id="node167" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; void\l *, polymorphic_ptr\&lt;\l AnalysisPassConcept\&lt;\l Function \&gt; \&gt; \&gt;" alt="" coords="271,12287,427,12357"/>
+<area shape="rect" id="node168" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; void\l *, polymorphic_ptr\&lt;\l AnalysisPassConcept\&lt;\l Module \&gt; \&gt; \&gt;" alt="" coords="271,12381,427,12452"/>
+<area shape="rect" id="node169" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; void\l *, polymorphic_ptr\&lt;\l AnalysisResultConcept\l\&lt; Module \&gt; \&gt; \&gt;" alt="" coords="271,12476,427,12547"/>
+</map>

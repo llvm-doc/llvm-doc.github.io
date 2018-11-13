@@ -1,0 +1,9 @@
+<map id="llvm::DefaultFoldingSetTrait&lt; T &gt;" name="llvm::DefaultFoldingSetTrait&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1FoldingSetTrait.html" title="llvm::FoldingSetTrait\&lt; T \&gt;" alt="" coords="379,5,548,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; MDNode \&gt;" alt="" coords="373,57,553,98"/>
+<area shape="rect" id="node5" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; SCEV \&gt;" alt="" coords="373,122,553,163"/>
+<area shape="rect" id="node7" href="$structllvm_1_1DefaultFoldingSetTrait.html" title="llvm::DefaultFoldingSetTrait\l\&lt; SDVTListNode \&gt;" alt="" coords="373,187,553,229"/>
+<area shape="rect" id="node4" href="$structllvm_1_1FoldingSetTrait_3_01MDNode_01_4.html" title="llvm::FoldingSetTrait\l\&lt; MDNode \&gt;" alt="" coords="603,57,741,98"/>
+<area shape="rect" id="node6" href="$structllvm_1_1FoldingSetTrait_3_01SCEV_01_4.html" title="llvm::FoldingSetTrait\l\&lt; SCEV \&gt;" alt="" coords="603,122,741,163"/>
+<area shape="rect" id="node8" href="$structllvm_1_1FoldingSetTrait_3_01SDVTListNode_01_4.html" title="llvm::FoldingSetTrait\l\&lt; SDVTListNode \&gt;" alt="" coords="603,187,741,229"/>
+</map>

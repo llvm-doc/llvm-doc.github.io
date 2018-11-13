@@ -1,0 +1,38 @@
+<map id="MipsMCCodeEmitter.cpp" name="MipsMCCodeEmitter.cpp">
+<area shape="rect" id="node2" href="$MipsBaseInfo_8h.html" title="MCTargetDesc/MipsBaseInfo.h" alt="" coords="784,155,984,181"/>
+<area shape="rect" id="node3" href="$MipsFixupKinds_8h.html" title="MipsFixupKinds.h" alt="" coords="1199,229,1321,256"/>
+<area shape="rect" id="node14" href="$MipsMCTargetDesc_8h.html" title="MipsMCTargetDesc.h" alt="" coords="563,229,709,256"/>
+<area shape="rect" id="node18" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="915,379,1043,405"/>
+<area shape="rect" id="node24" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="2789,80,2925,107"/>
+<area shape="rect" id="node29" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="5,304,141,331"/>
+<area shape="rect" id="node33" href="$MCCodeEmitter_8h.html" title="llvm/MC/MCCodeEmitter.h" alt="" coords="2950,80,3125,107"/>
+<area shape="rect" id="node34" href="$MCContext_8h.html" title="llvm/MC/MCContext.h" alt="" coords="2619,80,2765,107"/>
+<area shape="rect" id="node39" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2172,229,2353,256"/>
+<area shape="rect" id="node43" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1579,379,1703,405"/>
+<area shape="rect" id="node44" href="$MCInstrInfo_8h.html" title="llvm/MC/MCInstrInfo.h" alt="" coords="1334,155,1485,181"/>
+<area shape="rect" id="node46" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="2103,304,2275,331"/>
+<area shape="rect" id="node47" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="1715,304,1896,331"/>
+<area shape="rect" id="node6" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2271,379,2457,405"/>
+<area shape="rect" id="node4" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="1193,304,1327,331"/>
+<area shape="rect" id="node13" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="1567,453,1716,480"/>
+<area shape="rect" id="node7" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2533,453,2675,480"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2759,603,2918,629"/>
+<area shape="rect" id="node19" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="3381,453,3531,480"/>
+<area shape="rect" id="node23" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="903,453,1054,480"/>
+<area shape="rect" id="node20" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="3277,528,3449,555"/>
+<area shape="rect" id="node21" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="2978,528,3150,555"/>
+<area shape="rect" id="node25" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="3411,304,3533,331"/>
+<area shape="rect" id="node26" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="3017,379,3156,405"/>
+<area shape="rect" id="node27" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2885,453,3043,480"/>
+<area shape="rect" id="node30" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="432,379,581,405"/>
+<area shape="rect" id="node31" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="623,528,777,555"/>
+<area shape="rect" id="node35" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="2786,379,2942,405"/>
+<area shape="rect" id="node36" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="2735,304,2883,331"/>
+<area shape="rect" id="node37" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1986,379,2145,405"/>
+<area shape="rect" id="node38" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="2451,155,2587,181"/>
+<area shape="rect" id="node42" href="$SectionKind_8h.html" title="llvm/MC/SectionKind.h" alt="" coords="2615,155,2769,181"/>
+<area shape="rect" id="node40" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2378,304,2550,331"/>
+<area shape="rect" id="node45" href="$MCInstrDesc_8h.html" title="llvm/MC/MCInstrDesc.h" alt="" coords="1611,229,1768,256"/>
+<area shape="rect" id="node48" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="1320,379,1504,405"/>
+<area shape="rect" id="node49" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="1727,379,1910,405"/>
+</map>

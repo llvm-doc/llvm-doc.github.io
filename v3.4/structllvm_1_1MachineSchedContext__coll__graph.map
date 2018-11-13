@@ -1,0 +1,39 @@
+<map id="llvm::MachineSchedContext" name="llvm::MachineSchedContext">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetPassConfig.html" title="llvm::TargetPassConfig" alt="" coords="1586,484,1738,511"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="873,73,1013,100"/>
+<area shape="rect" id="node49" href="$classllvm_1_1DataLayout.html" title="llvm::DataLayout" alt="" coords="1289,109,1405,136"/>
+<area shape="rect" id="node50" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="1273,8,1421,35"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="365,136,486,163"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="5,255,84,281"/>
+<area shape="rect" id="node30" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="361,372,490,399"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1278,1760,1415,1787"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="877,2055,1009,2081"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="883,1760,1002,1787"/>
+<area shape="rect" id="node34" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="1253,738,1440,779"/>
+<area shape="rect" id="node45" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; NodeT \&gt;" alt="" coords="860,515,1025,557"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="899,2105,987,2132"/>
+<area shape="rect" id="node13" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="869,1379,1016,1405"/>
+<area shape="rect" id="node28" href="$classllvm_1_1MachineLoopInfo.html" title="llvm::MachineLoopInfo" alt="" coords="1271,312,1422,339"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MachineDominatorTree.html" title="llvm::MachineDominatorTree" alt="" coords="1569,429,1755,456"/>
+<area shape="rect" id="node46" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="1285,261,1408,288"/>
+<area shape="rect" id="node47" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="1599,109,1725,136"/>
+<area shape="rect" id="node35" href="$classllvm_1_1DominatorBase.html" title="llvm::DominatorBase\l\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="849,581,1036,622"/>
+<area shape="rect" id="node37" href="$classllvm_1_1DominatorBase.html" title="llvm::DominatorBase\l\&lt; NodeT \&gt;" alt="" coords="356,490,495,531"/>
+<area shape="rect" id="node21" href="$classllvm_1_1PassConfigImpl.html" title="llvm::PassConfigImpl" alt="" coords="1277,1256,1417,1283"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::IdentifyingPassPtr \&gt;" alt="" coords="849,1130,1036,1171"/>
+<area shape="rect" id="node23" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; AnalysisID,\l llvm::IdentifyingPassPtr,\l DenseMapInfo\&lt; AnalysisID\l \&gt; \&gt;, AnalysisID, llvm::Identifying\lPassPtr, DenseMapInfo\&lt; AnalysisID \&gt; \&gt;" alt="" coords="300,1159,551,1259"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT \&gt;" alt="" coords="347,875,504,917"/>
+<area shape="rect" id="node38" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l DomTreeNodeBase\&lt; llvm\l::MachineBasicBlock \&gt; * \&gt;" alt="" coords="857,939,1029,1010"/>
+<area shape="rect" id="node40" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::DominatorTreeBase\l::InfoRec \&gt;" alt="" coords="859,763,1027,834"/>
+<area shape="rect" id="node44" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::MachineBasicBlock * \&gt;" alt="" coords="849,859,1036,915"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l std::pair\&lt; AnalysisID,\l llvm::IdentifyingPassPtr\l \&gt;, 4 \&gt;" alt="" coords="863,1283,1022,1354"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; std::pair\&lt; AnalysisID,\l llvm::IdentifyingPassPtr \&gt; \&gt;" alt="" coords="335,1416,515,1472"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="361,1283,490,1325"/>
+<area shape="rect" id="node29" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="853,363,1032,389"/>
+<area shape="rect" id="node31" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1587,535,1737,561"/>
+<area shape="rect" id="node32" href="$classllvm_1_1RegisterClassInfo.html" title="llvm::RegisterClassInfo" alt="" coords="1587,585,1737,612"/>
+<area shape="rect" id="node39" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::MachineBasic\lBlock *, DomTreeNodeBase\&lt;\l llvm::MachineBasicBlock \&gt;\l *, DenseMapInfo\&lt; llvm::MachineBasic\lBlock * \&gt; \&gt;, llvm::MachineBasicBlock\l *, DomTreeNodeBase\&lt; llvm::MachineBasicBlock\l \&gt; *, DenseMapInfo\&lt; llvm::MachineBasicBlock * \&gt; \&gt;" alt="" coords="268,941,583,1070"/>
+<area shape="rect" id="node41" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::MachineBasic\lBlock *, llvm::DominatorTreeBase\l::InfoRec, DenseMapInfo\&lt; llvm\l::MachineBasicBlock * \&gt; \&gt;, llvm\l::MachineBasicBlock *, llvm::DominatorTree\lBase::InfoRec, DenseMapInfo\&lt; llvm::MachineBasicBlock * \&gt; \&gt;" alt="" coords="237,736,613,851"/>
+<area shape="rect" id="node42" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="849,1034,1036,1075"/>
+<area shape="rect" id="node43" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; NodeT \&gt;" alt="" coords="344,1094,507,1135"/>
+</map>

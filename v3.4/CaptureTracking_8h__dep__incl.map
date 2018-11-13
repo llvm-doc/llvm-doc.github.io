@@ -1,0 +1,8 @@
+<map id="CaptureTracking.h" name="CaptureTracking.h">
+<area shape="rect" id="node2" href="$AliasAnalysis_8cpp.html" title="AliasAnalysis.cpp" alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="151,80,304,107"/>
+<area shape="rect" id="node4" href="$CaptureTracking_8cpp.html" title="CaptureTracking.cpp" alt="" coords="329,80,470,107"/>
+<area shape="rect" id="node5" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="494,80,617,107"/>
+<area shape="rect" id="node6" href="$DeadStoreElimination_8cpp.html" title="DeadStoreElimination.cpp" alt="" coords="641,80,811,107"/>
+<area shape="rect" id="node7" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="835,80,1022,107"/>
+</map>

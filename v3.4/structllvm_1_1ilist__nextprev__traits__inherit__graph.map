@@ -1,0 +1,50 @@
+<map id="llvm::ilist_nextprev_traits&lt; NodeTy &gt;" name="llvm::ilist_nextprev_traits&lt; NodeTy &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; NodeTy \&gt;" alt="" coords="376,760,499,801"/>
+<area shape="rect" id="node41" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; SDNode \&gt;" alt="" coords="374,292,501,333"/>
+<area shape="rect" id="node42" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; MachineInstr \&gt;" alt="" coords="361,373,514,415"/>
+<area shape="rect" id="node43" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; MachineBasicBlock \&gt;" alt="" coords="341,469,534,511"/>
+<area shape="rect" id="node44" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; RecyclerStruct \&gt;" alt="" coords="355,597,519,639"/>
+<area shape="rect" id="node45" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; NamedMDNode \&gt;" alt="" coords="352,871,523,912"/>
+<area shape="rect" id="node46" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; IndexListEntry \&gt;" alt="" coords="358,940,517,981"/>
+<area shape="rect" id="node47" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; ValueSubClass \&gt;" alt="" coords="355,1012,520,1053"/>
+<area shape="rect" id="node48" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; SparseBitVectorElement\l\&lt; ElementSize \&gt; \&gt;" alt="" coords="333,1099,541,1155"/>
+<area shape="rect" id="node49" href="$structllvm_1_1ilist__nextprev__traits.html" title="llvm::ilist_nextprev\l_traits\&lt; IVStrideUse \&gt;" alt="" coords="364,1224,511,1265"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ilist__traits.html" title="ilist_traits\&lt; Ty \&gt;" alt="" coords="976,149,1088,175"/>
+<area shape="rect" id="node5" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; NodeTy \&gt;" alt="" coords="795,565,901,607"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; Argument, Function \&gt;" alt="" coords="769,631,927,672"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; BasicBlock, Function \&gt;" alt="" coords="765,696,931,737"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; Function, Module \&gt;" alt="" coords="773,761,923,803"/>
+<area shape="rect" id="node22" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; GlobalAlias, Module \&gt;" alt="" coords="769,827,927,868"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; GlobalVariable, Module \&gt;" alt="" coords="760,1023,936,1064"/>
+<area shape="rect" id="node26" href="$classllvm_1_1SymbolTableListTraits.html" title="SymbolTableListTraits\l\&lt; Instruction, BasicBlock \&gt;" alt="" coords="760,1153,936,1195"/>
+<area shape="rect" id="node28" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; SDNode \&gt;" alt="" coords="785,252,911,293"/>
+<area shape="rect" id="node30" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; MachineInstr \&gt;" alt="" coords="771,317,925,359"/>
+<area shape="rect" id="node32" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; MachineBasicBlock \&gt;" alt="" coords="751,435,945,476"/>
+<area shape="rect" id="node34" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; RecyclerStruct \&gt;" alt="" coords="766,500,930,541"/>
+<area shape="rect" id="node36" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; NamedMDNode \&gt;" alt="" coords="763,892,933,933"/>
+<area shape="rect" id="node37" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; IndexListEntry \&gt;" alt="" coords="769,957,927,999"/>
+<area shape="rect" id="node38" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; ValueSubClass \&gt;" alt="" coords="765,1088,931,1129"/>
+<area shape="rect" id="node39" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; SparseBitVectorElement\l\&lt; ElementSize \&gt; \&gt;" alt="" coords="744,1218,952,1274"/>
+<area shape="rect" id="node40" href="$structllvm_1_1ilist__default__traits.html" title="llvm::ilist_default\l_traits\&lt; IVStrideUse \&gt;" alt="" coords="775,1297,921,1339"/>
+<area shape="rect" id="node4" href="$structllvm_1_1ilist__traits_3_01const_01Ty_01_4.html" title="llvm::ilist_traits\l\&lt; const Ty \&gt;" alt="" coords="1352,300,1457,341"/>
+<area shape="rect" id="node6" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::AliasSet \&gt;" alt="" coords="1134,319,1281,346"/>
+<area shape="rect" id="node7" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::IVStrideUse \&gt;" alt="" coords="1124,370,1291,397"/>
+<area shape="rect" id="node8" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::MCSectionData \&gt;" alt="" coords="1112,421,1303,447"/>
+<area shape="rect" id="node9" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::MCSymbolData \&gt;" alt="" coords="1113,471,1302,498"/>
+<area shape="rect" id="node10" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::RecyclerStruct \&gt;" alt="" coords="1115,522,1299,549"/>
+<area shape="rect" id="node11" href="$classllvm_1_1iplist.html" title="iplist\&lt; llvm::SDNode \&gt;" alt="" coords="1134,573,1281,599"/>
+<area shape="rect" id="node12" href="$classllvm_1_1iplist.html" title="iplist\&lt; MCFragment \&gt;" alt="" coords="1135,623,1280,650"/>
+<area shape="rect" id="node13" href="$classllvm_1_1iplist.html" title="iplist\&lt; NodeTy \&gt;" alt="" coords="1150,674,1265,701"/>
+<area shape="rect" id="node14" href="$classllvm_1_1iplist.html" title="iplist\&lt; Token \&gt;" alt="" coords="1154,725,1261,751"/>
+<area shape="rect" id="node15" href="$structllvm_1_1ilist__traits.html" title="llvm::ilist_traits\l\&lt; Ty \&gt;" alt="" coords="1155,776,1260,817"/>
+<area shape="rect" id="node17" href="$structllvm_1_1ilist__traits_3_01Argument_01_4.html" title="llvm::ilist_traits\l\&lt; Argument \&gt;" alt="" coords="1155,841,1260,883"/>
+<area shape="rect" id="node19" href="$structllvm_1_1ilist__traits_3_01BasicBlock_01_4.html" title="llvm::ilist_traits\l\&lt; BasicBlock \&gt;" alt="" coords="1153,907,1262,948"/>
+<area shape="rect" id="node21" href="$structllvm_1_1ilist__traits_3_01Function_01_4.html" title="llvm::ilist_traits\l\&lt; Function \&gt;" alt="" coords="1155,972,1260,1013"/>
+<area shape="rect" id="node23" href="$structllvm_1_1ilist__traits_3_01GlobalAlias_01_4.html" title="llvm::ilist_traits\l\&lt; GlobalAlias \&gt;" alt="" coords="1153,1037,1262,1079"/>
+<area shape="rect" id="node25" href="$structllvm_1_1ilist__traits_3_01GlobalVariable_01_4.html" title="llvm::ilist_traits\l\&lt; GlobalVariable \&gt;" alt="" coords="1144,1103,1271,1144"/>
+<area shape="rect" id="node27" href="$structllvm_1_1ilist__traits_3_01Instruction_01_4.html" title="llvm::ilist_traits\l\&lt; Instruction \&gt;" alt="" coords="1155,1168,1260,1209"/>
+<area shape="rect" id="node29" href="$structllvm_1_1ilist__traits_3_01SDNode_01_4.html" title="llvm::ilist_traits\l\&lt; SDNode \&gt;" alt="" coords="1155,5,1260,47"/>
+<area shape="rect" id="node31" href="$structllvm_1_1ilist__traits_3_01MachineInstr_01_4.html" title="llvm::ilist_traits\l\&lt; MachineInstr \&gt;" alt="" coords="1148,71,1267,112"/>
+<area shape="rect" id="node33" href="$structllvm_1_1ilist__traits_3_01MachineBasicBlock_01_4.html" title="llvm::ilist_traits\l\&lt; MachineBasicBlock \&gt;" alt="" coords="1128,188,1287,229"/>
+<area shape="rect" id="node35" href="$structllvm_1_1ilist__traits_3_01RecyclerStruct_01_4.html" title="llvm::ilist_traits\l\&lt; RecyclerStruct \&gt;" alt="" coords="1143,253,1272,295"/>
+</map>

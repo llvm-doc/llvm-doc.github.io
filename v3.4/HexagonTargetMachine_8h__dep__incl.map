@@ -1,0 +1,26 @@
+<map id="HexagonTargetMachine.h" name="HexagonTargetMachine.h">
+<area shape="rect" id="node2" href="$HexagonAsmPrinter_8h.html" title="HexagonAsmPrinter.h" alt="" coords="181,80,328,107"/>
+<area shape="rect" id="node3" href="$HexagonAsmPrinter_8cpp.html" title="HexagonAsmPrinter.cpp" alt="" coords="5,155,165,181"/>
+<area shape="rect" id="node6" href="$HexagonMCInst_8h.html" title="HexagonMCInst.h" alt="" coords="352,80,475,107"/>
+<area shape="rect" id="node8" href="$HexagonCFGOptimizer_8cpp.html" title="HexagonCFGOptimizer.cpp" alt="" coords="499,80,677,107"/>
+<area shape="rect" id="node9" href="$HexagonCopyToCombine_8cpp.html" title="HexagonCopyToCombine.cpp" alt="" coords="702,80,893,107"/>
+<area shape="rect" id="node10" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="917,80,1137,107"/>
+<area shape="rect" id="node11" href="$HexagonFixupHwLoops_8cpp.html" title="HexagonFixupHwLoops.cpp" alt="" coords="1161,80,1340,107"/>
+<area shape="rect" id="node12" href="$HexagonFrameLowering_8cpp.html" title="HexagonFrameLowering.cpp" alt="" coords="1364,80,1548,107"/>
+<area shape="rect" id="node13" href="$HexagonHardwareLoops_8cpp.html" title="HexagonHardwareLoops.cpp" alt="" coords="1572,80,1756,107"/>
+<area shape="rect" id="node14" href="$HexagonISelDAGToDAG_8cpp.html" title="HexagonISelDAGToDAG.cpp" alt="" coords="1781,80,1971,107"/>
+<area shape="rect" id="node15" href="$HexagonISelLowering_8cpp.html" title="HexagonISelLowering.cpp" alt="" coords="1996,80,2167,107"/>
+<area shape="rect" id="node16" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="2191,80,2377,107"/>
+<area shape="rect" id="node17" href="$HexagonPeephole_8cpp.html" title="HexagonPeephole.cpp" alt="" coords="2401,80,2551,107"/>
+<area shape="rect" id="node18" href="$HexagonRegisterInfo_8cpp.html" title="HexagonRegisterInfo.cpp" alt="" coords="2576,80,2741,107"/>
+<area shape="rect" id="node19" href="$HexagonRemoveSZExtArgs_8cpp.html" title="HexagonRemoveSZExtArgs.cpp" alt="" coords="2766,80,2970,107"/>
+<area shape="rect" id="node20" href="$HexagonSelectionDAGInfo_8cpp.html" title="HexagonSelectionDAGInfo.cpp" alt="" coords="2995,80,3195,107"/>
+<area shape="rect" id="node21" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="3219,80,3458,107"/>
+<area shape="rect" id="node22" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="3483,80,3685,107"/>
+<area shape="rect" id="node23" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="3710,80,3893,107"/>
+<area shape="rect" id="node24" href="$HexagonTargetObjectFile_8cpp.html" title="HexagonTargetObjectFile.cpp" alt="" coords="3917,80,4109,107"/>
+<area shape="rect" id="node25" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="4134,80,4322,107"/>
+<area shape="rect" id="node4" href="$HexagonMCInstLower_8cpp.html" title="HexagonMCInstLower.cpp" alt="" coords="189,155,360,181"/>
+<area shape="rect" id="node5" href="$HexagonInstPrinter_8cpp.html" title="HexagonInstPrinter.cpp" alt="" coords="384,155,539,181"/>
+<area shape="rect" id="node7" href="$HexagonMCInst_8cpp.html" title="HexagonMCInst.cpp" alt="" coords="563,155,701,181"/>
+</map>

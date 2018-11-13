@@ -1,0 +1,6 @@
+<map id="llvm::SubMultiClassReference" name="llvm::SubMultiClassReference">
+<area shape="rect" id="node3" href="$structllvm_1_1MultiClass.html" title="llvm::MultiClass" alt="" coords="164,109,275,136"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Record.html" title="llvm::Record" alt="" coords="183,5,275,32"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SMRange.html" title="llvm::SMRange" alt="" coords="299,109,407,136"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SMLoc.html" title="Represents a location in source code. " alt="" coords="307,5,399,32"/>
+</map>

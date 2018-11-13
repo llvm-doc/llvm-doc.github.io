@@ -1,0 +1,18 @@
+<map id="DerivedTypes.h" name="DerivedTypes.h">
+<area shape="rect" id="node2" href="$Type_8h.html" title="llvm/IR/Type.h" alt="" coords="1311,80,1415,107"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="94,528,253,555"/>
+<area shape="rect" id="node3" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="869,155,1005,181"/>
+<area shape="rect" id="node27" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1199,229,1350,256"/>
+<area shape="rect" id="node28" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1183,155,1398,181"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1258,304,1443,331"/>
+<area shape="rect" id="node31" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1490,229,1587,256"/>
+<area shape="rect" id="node4" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="827,229,949,256"/>
+<area shape="rect" id="node5" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="635,304,773,331"/>
+<area shape="rect" id="node12" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="827,453,999,480"/>
+<area shape="rect" id="node6" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="706,379,825,405"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="442,379,601,405"/>
+<area shape="rect" id="node8" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="499,453,650,480"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1222,528,1389,555"/>
+<area shape="rect" id="node13" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="922,528,1121,555"/>
+<area shape="rect" id="node30" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1255,379,1398,405"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="ScheduleDAGInstrs.h" name="ScheduleDAGInstrs.h">
+<area shape="rect" id="node2" href="$MachineScheduler_8h.html" title="MachineScheduler.h" alt="" coords="285,80,424,107"/>
+<area shape="rect" id="node4" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="64,155,253,181"/>
+<area shape="rect" id="node11" href="$DFAPacketizer_8cpp.html" title="DFAPacketizer.cpp" alt="" coords="448,80,581,107"/>
+<area shape="rect" id="node12" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="605,80,773,107"/>
+<area shape="rect" id="node13" href="$ScheduleDAGInstrs_8cpp.html" title="ScheduleDAGInstrs.cpp" alt="" coords="798,80,957,107"/>
+<area shape="rect" id="node14" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="981,80,1166,107"/>
+<area shape="rect" id="node15" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="1190,80,1429,107"/>
+<area shape="rect" id="node16" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1453,80,1641,107"/>
+<area shape="rect" id="node3" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="278,155,431,181"/>
+<area shape="rect" id="node7" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="455,155,585,181"/>
+<area shape="rect" id="node8" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="609,155,778,181"/>
+<area shape="rect" id="node5" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="5,229,208,256"/>
+<area shape="rect" id="node6" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="233,229,415,256"/>
+<area shape="rect" id="node9" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="519,229,708,256"/>
+<area shape="rect" id="node10" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="733,229,915,256"/>
+</map>

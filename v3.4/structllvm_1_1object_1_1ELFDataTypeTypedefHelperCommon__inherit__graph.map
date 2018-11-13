@@ -1,0 +1,5 @@
+<map id="llvm::object::ELFDataTypeTypedefHelperCommon&lt; target_endianness, max_alignment &gt;" name="llvm::object::ELFDataTypeTypedefHelperCommon&lt; target_endianness, max_alignment &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelperCommon.html" title="llvm::object::ELFDataType\lTypedefHelperCommon\&lt; TargetEndianness,\l MaxAlign \&gt;" alt="" coords="376,61,651,117"/>
+<area shape="rect" id="node3" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01false_01_4_01_4.html" title="ELF 32bit types. " alt="" coords="700,5,899,76"/>
+<area shape="rect" id="node4" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelper_3_01ELFType_3_01TargetEndianness_00_01MaxAlign_00_01true_01_4_01_4.html" title="ELF 64bit types. " alt="" coords="700,100,899,171"/>
+</map>

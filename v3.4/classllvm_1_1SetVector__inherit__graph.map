@@ -1,0 +1,6 @@
+<map id="llvm::SetVector&lt; T, Vector, Set &gt;" name="llvm::SetVector&lt; T, Vector, Set &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; llvm\l::Type * \&gt;" alt="" coords="325,5,468,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; T,\l SmallVector\&lt; T, N \&gt;\l, SmallSet\&lt; T, N \&gt; \&gt;" alt="" coords="326,70,467,126"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SetVector.html" title="llvm::SetVector\&lt; llvm\l::BasicBlock * \&gt;" alt="" coords="325,149,468,191"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallSetVector.html" title="A SetVector that performs no allocations if smaller than a certain size. " alt="" coords="517,77,659,119"/>
+</map>

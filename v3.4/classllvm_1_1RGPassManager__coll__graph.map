@@ -1,0 +1,25 @@
+<map id="llvm::RGPassManager" name="llvm::RGPassManager">
+<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="3148,45,3277,71"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="2863,38,2942,65"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PMDataManager.html" title="llvm::PMDataManager" alt="" coords="3139,131,3287,158"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PMTopLevelManager.html" title="llvm::PMTopLevelManager" alt="" coords="2816,89,2989,115"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PMStack.html" title="llvm::PMStack" alt="" coords="2517,13,2622,39"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::PMDataManager\l *, 8 \&gt;" alt="" coords="2494,63,2645,119"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::PMDataManager * \&gt;" alt="" coords="2104,35,2283,76"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::PMDataManager\l *, isPodLike\&lt; llvm::PMDataManager\l * \&gt;::value \&gt;" alt="" coords="1040,5,1271,76"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="617,100,792,141"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="1295,97,1469,153"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike \&gt;" alt="" coords="841,135,1016,176"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::Pass *, isPodLike\l\&lt; llvm::Pass * \&gt;::value \&gt;" alt="" coords="1493,186,1684,242"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorBase.html" title="llvm::SmallVectorBase" alt="" coords="161,113,312,139"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T, typename \&gt;" alt="" coords="361,141,536,183"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="1708,111,1884,138"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="2129,104,2258,145"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::Pass * \&gt;" alt="" coords="2120,173,2267,215"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Pass *, 16 \&gt;" alt="" coords="2505,143,2634,184"/>
+<area shape="rect" id="node21" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; Analysis\lID, llvm::Pass * \&gt;" alt="" coords="2817,237,2988,279"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; AnalysisID,\l llvm::Pass *, DenseMapInfo\l\&lt; AnalysisID \&gt; \&gt;, AnalysisID,\l llvm::Pass *, DenseMapInfo\l\&lt; AnalysisID \&gt; \&gt;" alt="" coords="2476,208,2663,308"/>
+<area shape="rect" id="node23" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT \&gt;" alt="" coords="2491,332,2648,373"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT \&gt;, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="2100,317,2287,388"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="1710,325,1882,381"/>
+</map>

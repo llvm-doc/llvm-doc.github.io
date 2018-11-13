@@ -1,0 +1,11 @@
+<map id="llvm::NVPTXTargetLowering" name="llvm::NVPTXTargetLowering">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="llvm::TargetLowering" alt="" coords="915,792,1053,819"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="llvm::TargetLoweringBase" alt="" coords="457,776,625,803"/>
+<area shape="rect" id="node15" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="482,375,601,401"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="753,952,891,979"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="475,1179,607,1205"/>
+<area shape="rect" id="node6" href="$classllvm_1_1NVPTXTargetMachine.html" title="llvm::NVPTXTargetMachine" alt="" coords="1297,873,1477,900"/>
+<area shape="rect" id="node7" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="1077,879,1248,905"/>
+<area shape="rect" id="node13" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="497,1375,585,1401"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="468,827,615,853"/>
+</map>

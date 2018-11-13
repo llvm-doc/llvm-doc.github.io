@@ -1,0 +1,12 @@
+<map id="SchedulerRegistry.h" name="SchedulerRegistry.h">
+<area shape="rect" id="node2" href="$LinkAllCodegenComponents_8h.html" title="LinkAllCodegenComponents.h" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="224,80,392,107"/>
+<area shape="rect" id="node4" href="$ScheduleDAGFast_8cpp.html" title="ScheduleDAGFast.cpp" alt="" coords="417,80,570,107"/>
+<area shape="rect" id="node5" href="$ScheduleDAGRRList_8cpp.html" title="ScheduleDAGRRList.cpp" alt="" coords="594,80,761,107"/>
+<area shape="rect" id="node6" href="$ScheduleDAGVLIW_8cpp.html" title="ScheduleDAGVLIW.cpp" alt="" coords="785,80,943,107"/>
+<area shape="rect" id="node7" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="967,80,1118,107"/>
+<area shape="rect" id="node8" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="1142,80,1362,107"/>
+<area shape="rect" id="node9" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="1386,80,1625,107"/>
+<area shape="rect" id="node10" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="1649,80,1852,107"/>
+<area shape="rect" id="node11" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1877,80,2065,107"/>
+</map>

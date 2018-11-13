@@ -1,0 +1,20 @@
+<map id="COFF.h" name="COFF.h">
+<area shape="rect" id="node2" href="$MCSectionCOFF_8h.html" title="MCSectionCOFF.h" alt="" coords="859,80,989,107"/>
+<area shape="rect" id="node7" href="$COFFAsmParser_8cpp.html" title="COFFAsmParser.cpp" alt="" coords="5,162,149,189"/>
+<area shape="rect" id="node10" href="$WinCOFFObjectWriter_8cpp.html" title="WinCOFFObjectWriter.cpp" alt="" coords="1327,162,1502,189"/>
+<area shape="rect" id="node11" href="$WinCOFFStreamer_8cpp.html" title="WinCOFFStreamer.cpp" alt="" coords="1526,162,1682,189"/>
+<area shape="rect" id="node13" href="$Object_2COFF_8h.html" title="COFF.h" alt="" coords="1641,80,1708,107"/>
+<area shape="rect" id="node16" href="$COFFYAML_8h.html" title="COFFYAML.h" alt="" coords="1733,80,1835,107"/>
+<area shape="rect" id="node18" href="$X86WinCOFFObjectWriter_8cpp.html" title="X86WinCOFFObjectWriter.cpp" alt="" coords="1859,80,2058,107"/>
+<area shape="rect" id="node19" href="$X86AsmPrinter_8cpp.html" title="X86AsmPrinter.cpp" alt="" coords="2083,80,2216,107"/>
+<area shape="rect" id="node3" href="$TargetLoweringObjectFileImpl_8cpp.html" title="TargetLoweringObjectFile\lImpl.cpp" alt="" coords="658,155,827,196"/>
+<area shape="rect" id="node4" href="$MCAsmStreamer_8cpp.html" title="MCAsmStreamer.cpp" alt="" coords="851,162,997,189"/>
+<area shape="rect" id="node5" href="$MCContext_8cpp.html" title="MCContext.cpp" alt="" coords="1021,162,1131,189"/>
+<area shape="rect" id="node6" href="$MCObjectFileInfo_8cpp.html" title="MCObjectFileInfo.cpp" alt="" coords="1156,162,1303,189"/>
+<area shape="rect" id="node8" href="$MCSectionCOFF_8cpp.html" title="MCSectionCOFF.cpp" alt="" coords="174,162,319,189"/>
+<area shape="rect" id="node9" href="$MCWin64EH_8cpp.html" title="MCWin64EH.cpp" alt="" coords="343,162,462,189"/>
+<area shape="rect" id="node12" href="$X86AsmBackend_8cpp.html" title="X86AsmBackend.cpp" alt="" coords="487,162,633,189"/>
+<area shape="rect" id="node14" href="$Binary_8cpp.html" title="Binary.cpp" alt="" coords="1871,162,1953,189"/>
+<area shape="rect" id="node15" href="$COFFObjectFile_8cpp.html" title="COFFObjectFile.cpp" alt="" coords="1706,162,1846,189"/>
+<area shape="rect" id="node17" href="$COFFYAML_8cpp.html" title="COFFYAML.cpp" alt="" coords="1977,162,2095,189"/>
+</map>

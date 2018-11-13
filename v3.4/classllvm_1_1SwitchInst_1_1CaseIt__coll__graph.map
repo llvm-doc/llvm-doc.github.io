@@ -1,0 +1,14 @@
+<map id="llvm::SwitchInst::CaseIt" name="llvm::SwitchInst::CaseIt">
+<area shape="rect" id="node2" href="$classllvm_1_1SwitchInst_1_1CaseIteratorT.html" title="llvm::SwitchInst::CaseIterator\lT\&lt; SwitchInst, ConstantInt,\l BasicBlock \&gt;" alt="" coords="1679,324,1865,380"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SwitchInst.html" title="llvm::SwitchInst" alt="" coords="1503,287,1613,313"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TerminatorInst.html" title="llvm::TerminatorInst" alt="" coords="1319,220,1453,247"/>
+<area shape="rect" id="node5" href="$classllvm_1_1Instruction.html" title="llvm::Instruction" alt="" coords="1008,173,1119,200"/>
+<area shape="rect" id="node6" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="709,173,787,200"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="377,173,459,200"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SwitchInst_1_1CaseIteratorT.html" title="llvm::SwitchInst::CaseIterator\lT\&lt; SwitchInstTy, ConstantIntTy,\l BasicBlockTy \&gt;" alt="" coords="315,389,521,445"/>
+<area shape="rect" id="node9" href="$classllvm_1_1Use.html" title="llvm::Use" alt="" coords="381,123,455,149"/>
+<area shape="rect" id="node10" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="655,64,841,91"/>
+<area shape="rect" id="node11" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="351,57,485,98"/>
+<area shape="rect" id="node12" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,29,139,70"/>
+<area shape="rect" id="node13" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="333,5,503,32"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="AMDGPUMCCodeEmitter.h" name="AMDGPUMCCodeEmitter.h">
+<area shape="rect" id="node2" href="$MCCodeEmitter_8h.html" title="llvm/MC/MCCodeEmitter.h" alt="" coords="2310,155,2485,181"/>
+<area shape="rect" id="node5" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="964,80,1145,107"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1985,483,2143,509"/>
+<area shape="rect" id="node6" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="491,401,634,427"/>
+<area shape="rect" id="node16" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="682,155,854,181"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1093,483,1259,509"/>
+<area shape="rect" id="node17" href="$IntrusiveRefCntPtr_8h.html" title="llvm/ADT/IntrusiveRefCnt\lPtr.h" alt="" coords="1666,304,1833,345"/>
+<area shape="rect" id="node20" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="1933,401,2083,427"/>
+<area shape="rect" id="node21" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="861,229,1017,256"/>
+<area shape="rect" id="node28" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="408,229,531,256"/>
+<area shape="rect" id="node29" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="491,311,677,338"/>
+<area shape="rect" id="node30" href="$TimeValue_8h.html" title="llvm/Support/TimeValue.h" alt="" coords="94,401,263,427"/>
+<area shape="rect" id="node31" href="$system__error_8h.html" title="llvm/Support/system\l_error.h" alt="" coords="1417,393,1556,435"/>
+<area shape="rect" id="node18" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="1058,401,1209,427"/>
+<area shape="rect" id="node22" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1193,311,1351,338"/>
+<area shape="rect" id="node23" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1581,401,1731,427"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="862,401,1034,427"/>
+<area shape="rect" id="node25" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="870,483,1069,509"/>
+</map>

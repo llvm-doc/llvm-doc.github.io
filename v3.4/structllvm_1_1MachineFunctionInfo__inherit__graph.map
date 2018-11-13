@@ -1,0 +1,15 @@
+<map id="llvm::MachineFunctionInfo" name="llvm::MachineFunctionInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64MachineFunctionInfo.html" title="llvm::AArch64MachineFunctionInfo" alt="" coords="225,5,448,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1AMDGPUMachineFunction.html" title="llvm::AMDGPUMachineFunction" alt="" coords="233,56,440,83"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ARMFunctionInfo.html" title="llvm::ARMFunctionInfo" alt="" coords="261,107,413,133"/>
+<area shape="rect" id="node7" href="$classllvm_1_1HexagonMachineFunctionInfo.html" title="Hexagon target&#45;specific information for each MachineFunction. " alt="" coords="225,157,448,184"/>
+<area shape="rect" id="node8" href="$classllvm_1_1MipsFunctionInfo.html" title="llvm::MipsFunctionInfo" alt="" coords="261,208,412,235"/>
+<area shape="rect" id="node9" href="$classllvm_1_1MSP430MachineFunctionInfo.html" title="llvm::MSP430MachineFunctionInfo" alt="" coords="225,259,448,285"/>
+<area shape="rect" id="node10" href="$classllvm_1_1PPCFunctionInfo.html" title="llvm::PPCFunctionInfo" alt="" coords="261,309,412,336"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SparcMachineFunctionInfo.html" title="llvm::SparcMachineFunctionInfo" alt="" coords="233,360,440,387"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SystemZMachineFunctionInfo.html" title="llvm::SystemZMachineFunctionInfo" alt="" coords="225,411,448,437"/>
+<area shape="rect" id="node13" href="$classllvm_1_1X86MachineFunctionInfo.html" title="llvm::X86MachineFunctionInfo" alt="" coords="239,461,434,488"/>
+<area shape="rect" id="node14" href="$classllvm_1_1XCoreFunctionInfo.html" title="llvm::XCoreFunctionInfo" alt="" coords="257,512,416,539"/>
+<area shape="rect" id="node4" href="$classllvm_1_1R600MachineFunctionInfo.html" title="llvm::R600MachineFunctionInfo" alt="" coords="496,31,699,57"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SIMachineFunctionInfo.html" title="llvm::SIMachineFunctionInfo" alt="" coords="505,81,690,108"/>
+</map>

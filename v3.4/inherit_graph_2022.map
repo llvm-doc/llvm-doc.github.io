@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TargetSelectionDAGInfo.html" title="llvm::TargetSelectionDAGInfo" alt="" coords="5,233,197,260"/>
+<area shape="rect" id="node2" href="$classllvm_1_1AArch64SelectionDAGInfo.html" title="llvm::AArch64SelectionDAGInfo" alt="" coords="246,5,451,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ARMSelectionDAGInfo.html" title="llvm::ARMSelectionDAGInfo" alt="" coords="257,56,441,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1HexagonSelectionDAGInfo.html" title="llvm::HexagonSelectionDAGInfo" alt="" coords="246,107,451,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MipsSelectionDAGInfo.html" title="llvm::MipsSelectionDAGInfo" alt="" coords="257,157,440,184"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MSP430SelectionDAGInfo.html" title="llvm::MSP430SelectionDAGInfo" alt="" coords="246,208,451,235"/>
+<area shape="rect" id="node7" href="$classllvm_1_1PPCSelectionDAGInfo.html" title="llvm::PPCSelectionDAGInfo" alt="" coords="257,259,440,285"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SparcSelectionDAGInfo.html" title="llvm::SparcSelectionDAGInfo" alt="" coords="254,309,443,336"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SystemZSelectionDAGInfo.html" title="llvm::SystemZSelectionDAGInfo" alt="" coords="245,360,452,387"/>
+<area shape="rect" id="node10" href="$classllvm_1_1X86SelectionDAGInfo.html" title="llvm::X86SelectionDAGInfo" alt="" coords="259,411,438,437"/>
+<area shape="rect" id="node11" href="$classllvm_1_1XCoreSelectionDAGInfo.html" title="llvm::XCoreSelectionDAGInfo" alt="" coords="253,461,444,488"/>
+</map>

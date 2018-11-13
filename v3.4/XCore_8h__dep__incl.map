@@ -1,0 +1,17 @@
+<map id="XCore.h" name="XCore.h">
+<area shape="rect" id="node2" href="$XCoreDisassembler_8cpp.html" title="This file is part of the XCore Disassembler. " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$XCoreTargetInfo_8cpp.html" title="XCoreTargetInfo.cpp" alt="" coords="189,80,330,107"/>
+<area shape="rect" id="node4" href="$XCoreAsmPrinter_8cpp.html" title="XCoreAsmPrinter.cpp" alt="" coords="54,229,201,256"/>
+<area shape="rect" id="node5" href="$XCoreISelLowering_8h.html" title="XCoreISelLowering.h" alt="" coords="517,80,660,107"/>
+<area shape="rect" id="node7" href="$XCoreISelDAGToDAG_8cpp.html" title="XCoreISelDAGToDAG.cpp" alt="" coords="225,229,401,256"/>
+<area shape="rect" id="node8" href="$XCoreISelLowering_8cpp.html" title="XCoreISelLowering.cpp" alt="" coords="636,229,792,256"/>
+<area shape="rect" id="node10" href="$XCoreTargetMachine_8cpp.html" title="XCoreTargetMachine.cpp" alt="" coords="817,229,985,256"/>
+<area shape="rect" id="node11" href="$XCoreFrameLowering_8cpp.html" title="XCoreFrameLowering.cpp" alt="" coords="786,80,957,107"/>
+<area shape="rect" id="node12" href="$XCoreInstrInfo_8cpp.html" title="XCoreInstrInfo.cpp" alt="" coords="981,80,1111,107"/>
+<area shape="rect" id="node13" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="1135,80,1322,107"/>
+<area shape="rect" id="node14" href="$XCoreRegisterInfo_8cpp.html" title="XCoreRegisterInfo.cpp" alt="" coords="1347,80,1497,107"/>
+<area shape="rect" id="node15" href="$XCoreSubtarget_8cpp.html" title="XCoreSubtarget.cpp" alt="" coords="1522,80,1661,107"/>
+<area shape="rect" id="node16" href="$XCoreTargetTransformInfo_8cpp.html" title="XCoreTargetTransformInfo.cpp" alt="" coords="1685,80,1884,107"/>
+<area shape="rect" id="node6" href="$XCoreTargetMachine_8h.html" title="XCoreTargetMachine.h" alt="" coords="455,155,610,181"/>
+<area shape="rect" id="node9" href="$XCoreSelectionDAGInfo_8cpp.html" title="XCoreSelectionDAGInfo.cpp" alt="" coords="425,229,611,256"/>
+</map>

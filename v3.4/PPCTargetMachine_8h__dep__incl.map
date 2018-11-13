@@ -1,0 +1,13 @@
+<map id="PPCTargetMachine.h" name="PPCTargetMachine.h">
+<area shape="rect" id="node2" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node3" href="$PPCCodeEmitter_8cpp.html" title="PPCCodeEmitter.cpp" alt="" coords="167,80,311,107"/>
+<area shape="rect" id="node4" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="335,80,469,107"/>
+<area shape="rect" id="node5" href="$PPCFastISel_8cpp.html" title="PPCFastISel.cpp" alt="" coords="493,80,615,107"/>
+<area shape="rect" id="node6" href="$PPCInstrInfo_8cpp.html" title="PPCInstrInfo.cpp" alt="" coords="639,80,759,107"/>
+<area shape="rect" id="node7" href="$PPCISelDAGToDAG_8cpp.html" title="PPCISelDAGToDAG.cpp" alt="" coords="784,80,951,107"/>
+<area shape="rect" id="node8" href="$PPCISelLowering_8cpp.html" title="PPCISelLowering.cpp" alt="" coords="975,80,1122,107"/>
+<area shape="rect" id="node9" href="$PPCJITInfo_8cpp.html" title="PPCJITInfo.cpp" alt="" coords="1146,80,1261,107"/>
+<area shape="rect" id="node10" href="$PPCSelectionDAGInfo_8cpp.html" title="PPCSelectionDAGInfo.cpp" alt="" coords="1285,80,1463,107"/>
+<area shape="rect" id="node11" href="$PPCTargetMachine_8cpp.html" title="PPCTargetMachine.cpp" alt="" coords="1487,80,1645,107"/>
+<area shape="rect" id="node12" href="$PPCTargetTransformInfo_8cpp.html" title="PPCTargetTransformInfo.cpp" alt="" coords="1669,80,1860,107"/>
+</map>

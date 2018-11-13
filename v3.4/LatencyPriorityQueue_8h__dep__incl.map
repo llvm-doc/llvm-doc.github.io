@@ -1,0 +1,9 @@
+<map id="LatencyPriorityQueue.h" name="LatencyPriorityQueue.h">
+<area shape="rect" id="node2" href="$LatencyPriorityQueue_8cpp.html" title="LatencyPriorityQueue.cpp" alt="" coords="5,80,175,107"/>
+<area shape="rect" id="node3" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="199,80,367,107"/>
+<area shape="rect" id="node4" href="$ScheduleDAGVLIW_8cpp.html" title="ScheduleDAGVLIW.cpp" alt="" coords="392,80,551,107"/>
+<area shape="rect" id="node5" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="575,80,795,107"/>
+<area shape="rect" id="node6" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="819,80,1057,107"/>
+<area shape="rect" id="node7" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="1082,80,1285,107"/>
+<area shape="rect" id="node8" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1309,80,1497,107"/>
+</map>

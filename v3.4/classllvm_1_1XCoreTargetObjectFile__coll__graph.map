@@ -1,0 +1,7 @@
+<map id="llvm::XCoreTargetObjectFile" name="llvm::XCoreTargetObjectFile">
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLoweringObjectFileELF.html" title="llvm::TargetLoweringObject\lFileELF" alt="" coords="168,483,345,524"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringObjectFile.html" title="llvm::TargetLoweringObjectFile" alt="" coords="157,407,356,433"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCObjectFileInfo.html" title="llvm::MCObjectFileInfo" alt="" coords="181,331,333,357"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCSection.html" title="llvm::MCSection" alt="" coords="199,95,314,121"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SectionKind.html" title="llvm::SectionKind" alt="" coords="127,5,248,32"/>
+</map>

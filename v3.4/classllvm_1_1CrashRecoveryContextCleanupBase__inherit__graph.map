@@ -1,0 +1,9 @@
+<map id="llvm::CrashRecoveryContextCleanupBase&lt; DERIVED, T &gt;" name="llvm::CrashRecoveryContextCleanupBase&lt; DERIVED, T &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="679,5,917,61"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="679,85,917,141"/>
+<area shape="rect" id="node7" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lDestructorCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="679,165,917,221"/>
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="llvm::CrashRecoveryContext\lCleanup" alt="" coords="5,93,187,134"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextReleaseRefCleanup.html" title="llvm::CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;" alt="" coords="967,13,1148,54"/>
+<area shape="rect" id="node6" href="$classllvm_1_1CrashRecoveryContextDeleteCleanup.html" title="llvm::CrashRecoveryContext\lDeleteCleanup\&lt; T \&gt;" alt="" coords="967,93,1148,134"/>
+<area shape="rect" id="node8" href="$classllvm_1_1CrashRecoveryContextDestructorCleanup.html" title="llvm::CrashRecoveryContext\lDestructorCleanup\&lt; T \&gt;" alt="" coords="967,173,1148,214"/>
+</map>

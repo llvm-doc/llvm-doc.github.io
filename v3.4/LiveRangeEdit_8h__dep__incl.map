@@ -1,0 +1,11 @@
+<map id="LiveRangeEdit.h" name="LiveRangeEdit.h">
+<area shape="rect" id="node2" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="5,80,119,107"/>
+<area shape="rect" id="node3" href="$LiveRangeEdit_8cpp.html" title="LiveRangeEdit.cpp" alt="" coords="143,80,271,107"/>
+<area shape="rect" id="node4" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="296,80,423,107"/>
+<area shape="rect" id="node5" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="447,80,578,107"/>
+<area shape="rect" id="node6" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="602,80,741,107"/>
+<area shape="rect" id="node7" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="765,80,900,107"/>
+<area shape="rect" id="node8" href="$RegisterCoalescer_8cpp.html" title="RegisterCoalescer.cpp" alt="" coords="924,80,1075,107"/>
+<area shape="rect" id="node9" href="$Spiller_8cpp.html" title="Spiller.cpp" alt="" coords="1099,80,1182,107"/>
+<area shape="rect" id="node10" href="$SplitKit_8cpp.html" title="SplitKit.cpp" alt="" coords="1206,80,1294,107"/>
+</map>

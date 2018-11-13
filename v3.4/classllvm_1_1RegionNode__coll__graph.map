@@ -1,0 +1,5 @@
+<map id="llvm::RegionNode" name="llvm::RegionNode">
+<area shape="rect" id="node4" href="$classllvm_1_1Region.html" title="A single entry single exit Region. " alt="" coords="29,347,120,373"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; llvm::BasicBlock *,\l 1, bool \&gt;" alt="" coords="5,139,144,195"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; PointerTy, IntBits,\l IntType, PtrTraits \&gt;" alt="" coords="7,5,143,61"/>
+</map>

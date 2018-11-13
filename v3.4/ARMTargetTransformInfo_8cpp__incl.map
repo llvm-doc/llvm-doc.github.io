@@ -1,0 +1,42 @@
+<map id="ARMTargetTransformInfo.cpp" name="ARMTargetTransformInfo.cpp">
+<area shape="rect" id="node2" href="$ARM_8h.html" title="ARM.h" alt="" coords="1936,304,1997,331"/>
+<area shape="rect" id="node17" href="$ARMTargetMachine_8h.html" title="ARMTargetMachine.h" alt="" coords="1800,80,1947,107"/>
+<area shape="rect" id="node29" href="$TargetLowering_8h.html" title="llvm/Target/TargetLowering.h" alt="" coords="501,304,689,331"/>
+<area shape="rect" id="node46" href="$TargetTransformInfo_8h.html" title="llvm/Analysis/TargetTransform\lInfo.h" alt="" coords="2476,379,2671,420"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2411,80,2557,107"/>
+<area shape="rect" id="node50" href="$CostTable_8h.html" title="Cost tables and simple lookup functions. " alt="" coords="2707,80,2866,107"/>
+<area shape="rect" id="node3" href="$ARMBaseInfo_8h.html" title="MCTargetDesc/ARMBaseInfo.h" alt="" coords="1865,386,2068,413"/>
+<area shape="rect" id="node4" href="$ARMMCTargetDesc_8h.html" title="ARMMCTargetDesc.h" alt="" coords="1713,475,1860,502"/>
+<area shape="rect" id="node13" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2092,386,2279,413"/>
+<area shape="rect" id="node10" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1962,557,2147,584"/>
+<area shape="rect" id="node11" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2055,632,2198,659"/>
+<area shape="rect" id="node14" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2426,475,2513,502"/>
+<area shape="rect" id="node15" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1985,475,2148,502"/>
+<area shape="rect" id="node16" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2273,632,2455,659"/>
+<area shape="rect" id="node18" href="$ARMFrameLowering_8h.html" title="ARMFrameLowering.h" alt="" coords="1609,229,1759,256"/>
+<area shape="rect" id="node19" href="$ARMSubtarget_8h.html" title="ARMSubtarget.h" alt="" coords="1543,304,1660,331"/>
+<area shape="rect" id="node22" href="$ARMISelLowering_8h.html" title="ARMISelLowering.h" alt="" coords="1349,229,1483,256"/>
+<area shape="rect" id="node37" href="$ARMInstrInfo_8h.html" title="ARMInstrInfo.h" alt="" coords="1885,229,1993,256"/>
+<area shape="rect" id="node38" href="$ARMJITInfo_8h.html" title="ARMJITInfo.h" alt="" coords="1081,229,1183,256"/>
+<area shape="rect" id="node39" href="$ARMSelectionDAGInfo_8h.html" title="ARMSelectionDAGInfo.h" alt="" coords="1268,155,1433,181"/>
+<area shape="rect" id="node40" href="$Thumb1FrameLowering_8h.html" title="Thumb1FrameLowering.h" alt="" coords="1726,155,1893,181"/>
+<area shape="rect" id="node41" href="$Thumb1InstrInfo_8h.html" title="Thumb1InstrInfo.h" alt="" coords="2017,229,2143,256"/>
+<area shape="rect" id="node42" href="$Thumb2InstrInfo_8h.html" title="Thumb2InstrInfo.h" alt="" coords="2075,155,2202,181"/>
+<area shape="rect" id="node43" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="53,632,203,659"/>
+<area shape="rect" id="node44" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="2320,304,2461,331"/>
+<area shape="rect" id="node45" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2794,475,2950,502"/>
+<area shape="rect" id="node20" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="1683,304,1909,331"/>
+<area shape="rect" id="node23" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="1413,379,1587,420"/>
+<area shape="rect" id="node26" href="$FastISel_8h.html" title="llvm/CodeGen/FastISel.h" alt="" coords="1248,304,1413,331"/>
+<area shape="rect" id="node24" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="264,475,408,502"/>
+<area shape="rect" id="node25" href="$TargetCallingConv_8h.html" title="llvm/Target/TargetCalling\lConv.h" alt="" coords="1354,468,1521,509"/>
+<area shape="rect" id="node27" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1238,386,1389,413"/>
+<area shape="rect" id="node30" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="633,386,829,413"/>
+<area shape="rect" id="node31" href="$RuntimeLibcalls_8h.html" title="llvm/CodeGen/RuntimeLibcalls.h" alt="" coords="853,386,1061,413"/>
+<area shape="rect" id="node32" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="899,475,1133,502"/>
+<area shape="rect" id="node33" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="51,475,181,502"/>
+<area shape="rect" id="node35" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="373,386,507,413"/>
+<area shape="rect" id="node36" href="$CallSite_8h.html" title="llvm/Support/CallSite.h" alt="" coords="145,386,298,413"/>
+<area shape="rect" id="node47" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="2870,632,2997,659"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2588,475,2769,502"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="SIISelLowering.cpp" name="SIISelLowering.cpp">
+<area shape="rect" id="node2" href="$SIISelLowering_8h.html" title="SI DAG Lowering interface definition. " alt="" coords="2355,80,2473,107"/>
+<area shape="rect" id="node20" href="$SIInstrInfo_8h.html" title="Interface definition for SIInstrInfo. " alt="" coords="2477,155,2569,181"/>
+<area shape="rect" id="node25" href="$SIRegisterInfo_8h.html" title="Interface definition for SIRegisterInfo. " alt="" coords="2791,229,2906,256"/>
+<area shape="rect" id="node26" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="1167,311,1256,338"/>
+<area shape="rect" id="node29" href="$AMDILIntrinsicInfo_8h.html" title="Interface for the AMDGPU Implementation of the Intrinsic Info class. " alt="" coords="193,483,331,509"/>
+<area shape="rect" id="node33" href="$SIMachineFunctionInfo_8h.html" title="SIMachineFunctionInfo.h" alt="" coords="2549,80,2716,107"/>
+<area shape="rect" id="node37" href="$CallingConvLower_8h.html" title="llvm/CodeGen/CallingConv\lLower.h" alt="" coords="2949,304,3124,345"/>
+<area shape="rect" id="node39" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="3818,304,3999,345"/>
+<area shape="rect" id="node41" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2290,304,2493,345"/>
+<area shape="rect" id="node43" href="$SelectionDAG_8h.html" title="llvm/CodeGen/SelectionDAG.h" alt="" coords="1280,311,1479,338"/>
+<area shape="rect" id="node47" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="3459,229,3585,256"/>
+<area shape="rect" id="node3" href="$AMDGPUISelLowering_8h.html" title="Interface definition of the TargetLowering class that is common to all AMD GPUs. " alt="" coords="2290,155,2453,181"/>
+<area shape="rect" id="node4" href="$TargetLowering_8h.html" title="llvm/Target/TargetLowering.h" alt="" coords="2077,311,2265,338"/>
+<area shape="rect" id="node5" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="1548,401,1744,427"/>
+<area shape="rect" id="node6" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="2206,401,2441,427"/>
+<area shape="rect" id="node13" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2465,401,2595,427"/>
+<area shape="rect" id="node15" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="3139,483,3283,509"/>
+<area shape="rect" id="node16" href="$TargetCallingConv_8h.html" title="llvm/Target/TargetCalling\lConv.h" alt="" coords="2940,393,3107,435"/>
+<area shape="rect" id="node17" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="1286,401,1473,427"/>
+<area shape="rect" id="node7" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="2647,483,2805,509"/>
+<area shape="rect" id="node10" href="$ValueTypes_8h.html" title="llvm/CodeGen/ValueTypes.h" alt="" coords="2932,483,3115,509"/>
+<area shape="rect" id="node8" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="3300,647,3459,673"/>
+<area shape="rect" id="node11" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="3089,565,3275,591"/>
+<area shape="rect" id="node18" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="1417,483,1579,509"/>
+<area shape="rect" id="node21" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="2435,229,2571,256"/>
+<area shape="rect" id="node22" href="$AMDGPURegisterInfo_8h.html" title="TargetRegisterInfo interface that is implemented by all hw codegen targets. " alt="" coords="3176,311,3335,338"/>
+<area shape="rect" id="node23" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="3308,483,3451,509"/>
+<area shape="rect" id="node24" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="3183,393,3357,435"/>
+<area shape="rect" id="node27" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="337,401,528,427"/>
+<area shape="rect" id="node28" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="407,483,528,509"/>
+<area shape="rect" id="node30" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="204,565,331,591"/>
+<area shape="rect" id="node31" href="$TargetIntrinsicInfo_8h.html" title="llvm/Target/TargetIntrinsic\lInfo.h" alt="" coords="2392,557,2564,599"/>
+<area shape="rect" id="node34" href="$AMDGPUMachineFunction_8h.html" title="AMDGPUMachineFunction.h" alt="" coords="2529,311,2717,338"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="3841,401,4057,427"/>
+<area shape="rect" id="node36" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="3527,483,3635,509"/>
+<area shape="rect" id="node38" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2620,393,2813,435"/>
+<area shape="rect" id="node40" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="3534,393,3715,435"/>
+<area shape="rect" id="node42" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="2023,401,2181,427"/>
+<area shape="rect" id="node44" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="705,401,851,427"/>
+<area shape="rect" id="node45" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="875,401,1023,427"/>
+<area shape="rect" id="node46" href="$RecyclingAllocator_8h.html" title="llvm/Support/RecyclingAllocator.h" alt="" coords="1047,401,1261,427"/>
+<area shape="rect" id="node48" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="2793,311,2925,338"/>
+<area shape="rect" id="node49" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="4023,311,4165,338"/>
+<area shape="rect" id="node50" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="3449,311,3595,338"/>
+</map>

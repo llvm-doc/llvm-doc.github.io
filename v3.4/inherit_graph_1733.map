@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1ScheduleHazardRecognizer.html" title="llvm::ScheduleHazardRecognizer" alt="" coords="5,31,215,57"/>
+<area shape="rect" id="node2" href="$classllvm_1_1PPCHazardRecognizer970.html" title="llvm::PPCHazardRecognizer970" alt="" coords="272,5,475,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ScoreboardHazardRecognizer.html" title="llvm::ScoreboardHazardRecognizer" alt="" coords="263,56,484,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ARMHazardRecognizer.html" title="llvm::ARMHazardRecognizer" alt="" coords="532,27,716,53"/>
+<area shape="rect" id="node5" href="$classllvm_1_1PPCScoreboardHazardRecognizer.html" title="llvm::PPCScoreboardHazard\lRecognizer" alt="" coords="532,78,716,119"/>
+</map>

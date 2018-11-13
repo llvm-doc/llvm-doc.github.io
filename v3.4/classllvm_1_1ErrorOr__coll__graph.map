@@ -1,0 +1,5 @@
+<map id="llvm::ErrorOr&lt; T &gt;" name="llvm::ErrorOr&lt; T &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; llvm::error_code \&gt;" alt="" coords="691,97,875,139"/>
+<area shape="rect" id="node4" href="$structllvm_1_1AlignedCharArrayUnion.html" title="This union template exposes a suitably aligned and sized character array member which can hold elemen..." alt="" coords="295,129,486,171"/>
+<area shape="rect" id="node6" href="$structllvm_1_1AlignedCharArrayUnion.html" title="llvm::AlignedCharArrayUnion\l\&lt; storage_type \&gt;" alt="" coords="691,163,875,204"/>
+</map>

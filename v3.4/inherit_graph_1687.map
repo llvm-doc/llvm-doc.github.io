@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1RegisterPressure.html" title="Base class for register pressure results. " alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node2" href="$structllvm_1_1IntervalPressure.html" title="llvm::IntervalPressure" alt="" coords="201,5,344,32"/>
+<area shape="rect" id="node3" href="$structllvm_1_1RegionPressure.html" title="llvm::RegionPressure" alt="" coords="202,56,343,83"/>
+</map>

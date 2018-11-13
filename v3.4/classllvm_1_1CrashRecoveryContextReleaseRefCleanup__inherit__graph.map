@@ -1,0 +1,5 @@
+<map id="llvm::CrashRecoveryContextReleaseRefCleanup&lt; T &gt;" name="llvm::CrashRecoveryContextReleaseRefCleanup&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; CrashRecoveryContext\lReleaseRefCleanup\&lt; T \&gt;, T \&gt;" alt="" coords="665,5,904,61"/>
+<area shape="rect" id="node3" href="$classllvm_1_1CrashRecoveryContextCleanup.html" title="llvm::CrashRecoveryContext\lCleanup" alt="" coords="5,7,187,49"/>
+<area shape="rect" id="node4" href="$classllvm_1_1CrashRecoveryContextCleanupBase.html" title="llvm::CrashRecoveryContext\lCleanupBase\&lt; DERIVED, T \&gt;" alt="" coords="236,43,427,85"/>
+</map>

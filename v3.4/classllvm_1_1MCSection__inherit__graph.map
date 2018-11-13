@@ -1,0 +1,6 @@
+<map id="llvm::MCSection" name="llvm::MCSection">
+<area shape="rect" id="node2" href="$classllvm_1_1MCSectionCOFF.html" title="MCSectionCOFF &#45; This represents a section on Windows. " alt="" coords="5,80,156,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCSectionELF.html" title="llvm::MCSectionELF" alt="" coords="181,80,319,107"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSectionMachO.html" title="llvm::MCSectionMachO" alt="" coords="343,80,501,107"/>
+<area shape="rect" id="node5" href="$classllvm_1_1NVPTXSection.html" title="llvm::NVPTXSection" alt="" coords="525,80,663,107"/>
+</map>

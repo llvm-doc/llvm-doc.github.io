@@ -1,0 +1,4 @@
+<map id="llvm::hashing::detail::is_hashable_data&lt; std::pair&lt; T, U &gt; &gt;" name="llvm::hashing::detail::is_hashable_data&lt; std::pair&lt; T, U &gt; &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; bool,(is_hashable_data\l\&lt; T \&gt;::value &amp;&amp;is_hashable\l_data\&lt; U \&gt;::value &amp;&amp;(sizeof\l(T)+sizeof(U))==sizeof(std::\lpair\&lt; T, U \&gt;))\&gt;" alt="" coords="595,7,773,107"/>
+<area shape="rect" id="node4" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; T, v \&gt;" alt="" coords="237,71,387,113"/>
+</map>

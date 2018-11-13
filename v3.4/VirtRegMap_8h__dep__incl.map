@@ -1,0 +1,18 @@
+<map id="VirtRegMap.h" name="VirtRegMap.h">
+<area shape="rect" id="node2" href="$AllocationOrder_8cpp.html" title="AllocationOrder.cpp" alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="164,80,277,107"/>
+<area shape="rect" id="node4" href="$LiveDebugVariables_8cpp.html" title="LiveDebugVariables.cpp" alt="" coords="301,80,460,107"/>
+<area shape="rect" id="node5" href="$LiveIntervalAnalysis_8cpp.html" title="LiveIntervalAnalysis.cpp" alt="" coords="484,80,643,107"/>
+<area shape="rect" id="node6" href="$LiveRangeEdit_8cpp.html" title="LiveRangeEdit.cpp" alt="" coords="667,80,795,107"/>
+<area shape="rect" id="node7" href="$LiveRegMatrix_8cpp.html" title="LiveRegMatrix.cpp" alt="" coords="820,80,947,107"/>
+<area shape="rect" id="node8" href="$RegAllocBase_8cpp.html" title="RegAllocBase.cpp" alt="" coords="971,80,1097,107"/>
+<area shape="rect" id="node9" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="1122,80,1253,107"/>
+<area shape="rect" id="node10" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="1277,80,1415,107"/>
+<area shape="rect" id="node11" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="1440,80,1575,107"/>
+<area shape="rect" id="node12" href="$RegisterCoalescer_8cpp.html" title="RegisterCoalescer.cpp" alt="" coords="1599,80,1749,107"/>
+<area shape="rect" id="node13" href="$Spiller_8cpp.html" title="Spiller.cpp" alt="" coords="1774,80,1857,107"/>
+<area shape="rect" id="node14" href="$SplitKit_8cpp.html" title="SplitKit.cpp" alt="" coords="1881,80,1969,107"/>
+<area shape="rect" id="node15" href="$TargetRegisterInfo_8cpp.html" title="TargetRegisterInfo.cpp" alt="" coords="1993,80,2145,107"/>
+<area shape="rect" id="node16" href="$VirtRegMap_8cpp.html" title="VirtRegMap.cpp" alt="" coords="2169,80,2283,107"/>
+<area shape="rect" id="node17" href="$ARMBaseRegisterInfo_8cpp.html" title="ARMBaseRegisterInfo.cpp" alt="" coords="2307,80,2481,107"/>
+</map>

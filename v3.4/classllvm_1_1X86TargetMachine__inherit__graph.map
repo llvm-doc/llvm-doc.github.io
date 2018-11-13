@@ -1,0 +1,6 @@
+<map id="llvm::X86TargetMachine" name="llvm::X86TargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1X86__32TargetMachine.html" title="llvm::X86_32TargetMachine" alt="" coords="5,229,187,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1X86__64TargetMachine.html" title="llvm::X86_64TargetMachine" alt="" coords="211,229,392,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="113,80,284,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="130,5,267,32"/>
+</map>

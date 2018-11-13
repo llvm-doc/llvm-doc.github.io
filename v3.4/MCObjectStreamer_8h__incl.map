@@ -1,0 +1,35 @@
+<map id="MCObjectStreamer.h" name="MCObjectStreamer.h">
+<area shape="rect" id="node2" href="$MCAssembler_8h.html" title="llvm/MC/MCAssembler.h" alt="" coords="1666,304,1829,331"/>
+<area shape="rect" id="node37" href="$MCStreamer_8h.html" title="llvm/MC/MCStreamer.h" alt="" coords="2428,80,2584,107"/>
+<area shape="rect" id="node3" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="689,461,840,487"/>
+<area shape="rect" id="node22" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="987,543,1145,569"/>
+<area shape="rect" id="node23" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="1936,379,2092,405"/>
+<area shape="rect" id="node29" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="803,543,911,569"/>
+<area shape="rect" id="node30" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="1301,379,1444,405"/>
+<area shape="rect" id="node31" href="$MCFixup_8h.html" title="llvm/MC/MCFixup.h" alt="" coords="2116,379,2251,405"/>
+<area shape="rect" id="node34" href="$MCInst_8h.html" title="llvm/MC/MCInst.h" alt="" coords="1685,379,1809,405"/>
+<area shape="rect" id="node35" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="2327,543,2477,569"/>
+<area shape="rect" id="node4" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="403,543,575,569"/>
+<area shape="rect" id="node5" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="410,617,573,659"/>
+<area shape="rect" id="node7" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1480,625,1647,651"/>
+<area shape="rect" id="node10" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1805,543,1956,569"/>
+<area shape="rect" id="node11" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2608,625,2767,651"/>
+<area shape="rect" id="node13" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1323,543,1495,569"/>
+<area shape="rect" id="node14" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1945,625,2144,651"/>
+<area shape="rect" id="node24" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1672,461,1831,487"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2655,543,2797,569"/>
+<area shape="rect" id="node32" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2940,461,3125,487"/>
+<area shape="rect" id="node33" href="$SMLoc_8h.html" title="llvm/Support/SMLoc.h" alt="" coords="2045,461,2194,487"/>
+<area shape="rect" id="node38" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="2319,304,2458,331"/>
+<area shape="rect" id="node40" href="$MCDirectives_8h.html" title="llvm/MC/MCDirectives.h" alt="" coords="2427,155,2585,181"/>
+<area shape="rect" id="node41" href="$MCDwarf_8h.html" title="llvm/MC/MCDwarf.h" alt="" coords="2845,155,2981,181"/>
+<area shape="rect" id="node48" href="$MCWin64EH_8h.html" title="llvm/MC/MCWin64EH.h" alt="" coords="2548,304,2704,331"/>
+<area shape="rect" id="node39" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="2327,379,2445,405"/>
+<area shape="rect" id="node42" href="$Dwarf_8h.html" title="llvm/Support/Dwarf.h" alt="" coords="3553,543,3694,569"/>
+<area shape="rect" id="node43" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2961,229,3142,256"/>
+<area shape="rect" id="node44" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="2947,304,3119,331"/>
+<area shape="rect" id="node45" href="$IntrusiveRefCntPtr_8h.html" title="llvm/ADT/IntrusiveRefCnt\lPtr.h" alt="" coords="2393,453,2560,495"/>
+<area shape="rect" id="node46" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="2923,543,3073,569"/>
+<area shape="rect" id="node49" href="$Win64EH_8h.html" title="llvm/Support/Win64EH.h" alt="" coords="2551,379,2712,405"/>
+<area shape="rect" id="node50" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="1874,461,2021,487"/>
+</map>

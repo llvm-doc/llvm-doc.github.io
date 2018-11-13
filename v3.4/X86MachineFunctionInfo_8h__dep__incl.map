@@ -1,0 +1,21 @@
+<map id="X86MachineFunctionInfo.h" name="X86MachineFunctionInfo.h">
+<area shape="rect" id="node2" href="$X86AsmPrinter_8h.html" title="X86AsmPrinter.h" alt="" coords="1269,229,1388,256"/>
+<area shape="rect" id="node3" href="$X86AsmPrinter_8cpp.html" title="X86AsmPrinter.cpp" alt="" coords="770,304,903,331"/>
+<area shape="rect" id="node5" href="$X86ISelLowering_8h.html" title="X86ISelLowering.h" alt="" coords="553,80,682,107"/>
+<area shape="rect" id="node9" href="$X86FrameLowering_8cpp.html" title="X86FrameLowering.cpp" alt="" coords="1412,229,1570,256"/>
+<area shape="rect" id="node10" href="$X86InstrInfo_8cpp.html" title="X86InstrInfo.cpp" alt="" coords="1594,229,1710,256"/>
+<area shape="rect" id="node11" href="$X86ISelDAGToDAG_8cpp.html" title="X86ISelDAGToDAG.cpp" alt="" coords="1735,229,1898,256"/>
+<area shape="rect" id="node14" href="$X86RegisterInfo_8cpp.html" title="X86RegisterInfo.cpp" alt="" coords="1922,229,2060,256"/>
+<area shape="rect" id="node18" href="$X86COFFMachineModuleInfo_8h.html" title="X86COFFMachineModuleInfo.h" alt="" coords="2084,229,2287,256"/>
+<area shape="rect" id="node20" href="$X86MachineFunctionInfo_8cpp.html" title="X86MachineFunctionInfo.cpp" alt="" coords="1814,80,2005,107"/>
+<area shape="rect" id="node4" href="$X86MCInstLower_8cpp.html" title="X86MCInstLower.cpp" alt="" coords="1582,304,1726,331"/>
+<area shape="rect" id="node6" href="$X86TargetMachine_8h.html" title="X86TargetMachine.h" alt="" coords="819,155,960,181"/>
+<area shape="rect" id="node8" href="$X86FastISel_8cpp.html" title="X86FastISel.cpp" alt="" coords="190,229,307,256"/>
+<area shape="rect" id="node12" href="$X86ISelLowering_8cpp.html" title="X86ISelLowering.cpp" alt="" coords="24,229,166,256"/>
+<area shape="rect" id="node7" href="$X86CodeEmitter_8cpp.html" title="X86CodeEmitter.cpp" alt="" coords="1105,229,1245,256"/>
+<area shape="rect" id="node13" href="$X86JITInfo_8cpp.html" title="X86JITInfo.cpp" alt="" coords="382,229,493,256"/>
+<area shape="rect" id="node15" href="$X86SelectionDAGInfo_8cpp.html" title="X86SelectionDAGInfo.cpp" alt="" coords="518,229,691,256"/>
+<area shape="rect" id="node16" href="$X86TargetMachine_8cpp.html" title="X86TargetMachine.cpp" alt="" coords="715,229,870,256"/>
+<area shape="rect" id="node17" href="$X86TargetTransformInfo_8cpp.html" title="X86TargetTransformInfo.cpp" alt="" coords="894,229,1080,256"/>
+<area shape="rect" id="node19" href="$X86COFFMachineModuleInfo_8cpp.html" title="X86COFFMachineModuleInfo.cpp" alt="" coords="2077,304,2294,331"/>
+</map>

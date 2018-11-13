@@ -1,0 +1,18 @@
+<map id="BlockFrequency.h" name="BlockFrequency.h">
+<area shape="rect" id="node2" href="$BlockFrequencyImpl_8h.html" title="BlockFrequencyImpl.h" alt="" coords="220,80,371,107"/>
+<area shape="rect" id="node5" href="$BlockFrequencyInfo_8h.html" title="BlockFrequencyInfo.h" alt="" coords="31,80,178,107"/>
+<area shape="rect" id="node6" href="$MachineBlockFrequencyInfo_8h.html" title="MachineBlockFrequencyInfo.h" alt="" coords="911,80,1107,107"/>
+<area shape="rect" id="node15" href="$LiveIntervalAnalysis_8cpp.html" title="LiveIntervalAnalysis.cpp" alt="" coords="1273,80,1432,107"/>
+<area shape="rect" id="node16" href="$SpillPlacement_8h.html" title="SpillPlacement.h" alt="" coords="1131,80,1249,107"/>
+<area shape="rect" id="node17" href="$BlockFrequency_8cpp.html" title="BlockFrequency.cpp" alt="" coords="1457,80,1595,107"/>
+<area shape="rect" id="node3" href="$BlockFrequencyInfo_8cpp.html" title="BlockFrequencyInfo.cpp" alt="" coords="5,155,167,181"/>
+<area shape="rect" id="node4" href="$MachineBlockFrequencyInfo_8cpp.html" title="MachineBlockFrequencyInfo.cpp" alt="" coords="190,155,401,181"/>
+<area shape="rect" id="node7" href="$CalcSpillWeights_8cpp.html" title="CalcSpillWeights.cpp" alt="" coords="424,155,567,181"/>
+<area shape="rect" id="node8" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="591,155,704,181"/>
+<area shape="rect" id="node9" href="$MachineBlockPlacement_8cpp.html" title="MachineBlockPlacement.cpp" alt="" coords="728,155,919,181"/>
+<area shape="rect" id="node10" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="943,155,1074,181"/>
+<area shape="rect" id="node11" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="1433,155,1571,181"/>
+<area shape="rect" id="node12" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="1099,155,1233,181"/>
+<area shape="rect" id="node13" href="$SpillPlacement_8cpp.html" title="SpillPlacement.cpp" alt="" coords="1595,155,1729,181"/>
+<area shape="rect" id="node14" href="$StackSlotColoring_8cpp.html" title="StackSlotColoring.cpp" alt="" coords="1257,155,1408,181"/>
+</map>

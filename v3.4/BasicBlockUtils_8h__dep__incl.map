@@ -1,0 +1,37 @@
+<map id="BasicBlockUtils.h" name="BasicBlockUtils.h">
+<area shape="rect" id="node2" href="$DwarfEHPrepare_8cpp.html" title="DwarfEHPrepare.cpp" alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="171,80,322,107"/>
+<area shape="rect" id="node4" href="$SjLjEHPrepare_8cpp.html" title="SjLjEHPrepare.cpp" alt="" coords="347,80,477,107"/>
+<area shape="rect" id="node5" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="501,80,635,107"/>
+<area shape="rect" id="node6" href="$SIAnnotateControlFlow_8cpp.html" title="SIAnnotateControlFlow.cpp" alt="" coords="659,80,837,107"/>
+<area shape="rect" id="node7" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="861,80,1048,107"/>
+<area shape="rect" id="node8" href="$InstCombineLoadStoreAlloca_8cpp.html" title="InstCombineLoadStoreAlloca.cpp" alt="" coords="1072,80,1285,107"/>
+<area shape="rect" id="node9" href="$AddressSanitizer_8cpp.html" title="AddressSanitizer.cpp" alt="" coords="1310,80,1453,107"/>
+<area shape="rect" id="node10" href="$DataFlowSanitizer_8cpp.html" title="DataFlowSanitizer.cpp" alt="" coords="1477,80,1627,107"/>
+<area shape="rect" id="node11" href="$MemorySanitizer_8cpp.html" title="MemorySanitizer.cpp" alt="" coords="1651,80,1794,107"/>
+<area shape="rect" id="node12" href="$ThreadSanitizer_8cpp.html" title="ThreadSanitizer.cpp" alt="" coords="1817,80,1953,107"/>
+<area shape="rect" id="node13" href="$LoopExtractor_8cpp.html" title="LoopExtractor.cpp" alt="" coords="1977,80,2103,107"/>
+<area shape="rect" id="node14" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="2127,80,2273,107"/>
+<area shape="rect" id="node15" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="2297,80,2370,107"/>
+<area shape="rect" id="node16" href="$IndVarSimplify_8cpp.html" title="IndVarSimplify.cpp" alt="" coords="2394,80,2523,107"/>
+<area shape="rect" id="node17" href="$JumpThreading_8cpp.html" title="JumpThreading.cpp" alt="" coords="2547,80,2682,107"/>
+<area shape="rect" id="node18" href="$LoopRerollPass_8cpp.html" title="LoopRerollPass.cpp" alt="" coords="2706,80,2841,107"/>
+<area shape="rect" id="node19" href="$LoopRotation_8cpp.html" title="LoopRotation.cpp" alt="" coords="2865,80,2988,107"/>
+<area shape="rect" id="node20" href="$LoopStrengthReduce_8cpp.html" title="LoopStrengthReduce.cpp" alt="" coords="3013,80,3179,107"/>
+<area shape="rect" id="node21" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="3203,80,3330,107"/>
+<area shape="rect" id="node22" href="$PartiallyInlineLibCalls_8cpp.html" title="PartiallyInlineLibCalls.cpp" alt="" coords="3355,80,3523,107"/>
+<area shape="rect" id="node23" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="3547,80,3733,107"/>
+<area shape="rect" id="node24" href="$BasicBlockUtils_8cpp.html" title="BasicBlockUtils.cpp" alt="" coords="3757,80,3893,107"/>
+<area shape="rect" id="node25" href="$BreakCriticalEdges_8cpp.html" title="BreakCriticalEdges.cpp" alt="" coords="3917,80,4072,107"/>
+<area shape="rect" id="node26" href="$CloneFunction_8cpp.html" title="CloneFunction.cpp" alt="" coords="4095,80,4225,107"/>
+<area shape="rect" id="node27" href="$CodeExtractor_8cpp.html" title="CodeExtractor.cpp" alt="" coords="4249,80,4375,107"/>
+<area shape="rect" id="node28" href="$DemoteRegToStack_8cpp.html" title="DemoteRegToStack.cpp" alt="" coords="4400,80,4563,107"/>
+<area shape="rect" id="node29" href="$FlattenCFG_8cpp.html" title="FlattenCFG.cpp" alt="" coords="4587,80,4701,107"/>
+<area shape="rect" id="node30" href="$LoopSimplify_8cpp.html" title="LoopSimplify.cpp" alt="" coords="4725,80,4845,107"/>
+<area shape="rect" id="node31" href="$LoopUnroll_8cpp.html" title="LoopUnroll.cpp" alt="" coords="4869,80,4976,107"/>
+<area shape="rect" id="node32" href="$LoopUnrollRuntime_8cpp.html" title="LoopUnrollRuntime.cpp" alt="" coords="5000,80,5155,107"/>
+<area shape="rect" id="node33" href="$LowerInvoke_8cpp.html" title="LowerInvoke.cpp" alt="" coords="5178,80,5297,107"/>
+<area shape="rect" id="node34" href="$SimplifyCFG_8cpp.html" title="SimplifyCFG.cpp" alt="" coords="5321,80,5439,107"/>
+<area shape="rect" id="node35" href="$SSAUpdater_8cpp.html" title="SSAUpdater.cpp" alt="" coords="5463,80,5582,107"/>
+<area shape="rect" id="node36" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="5606,80,5733,107"/>
+</map>

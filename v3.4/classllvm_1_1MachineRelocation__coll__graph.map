@@ -1,0 +1,13 @@
+<map id="llvm::MachineRelocation" name="llvm::MachineRelocation">
+<area shape="rect" id="node4" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1197,107,1363,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock \&gt;" alt="" coords="935,90,1100,131"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; MachineBasicBlock \&gt;" alt="" coords="582,37,741,78"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="255,67,388,109"/>
+<area shape="rect" id="node8" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="576,103,747,129"/>
+<area shape="rect" id="node9" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="1220,319,1340,345"/>
+<area shape="rect" id="node10" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation. " alt="" coords="966,289,1069,316"/>
+<area shape="rect" id="node11" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="623,328,700,355"/>
+<area shape="rect" id="node12" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="280,352,363,379"/>
+<area shape="rect" id="node14" href="$classllvm_1_1Use.html" title="llvm::Use" alt="" coords="285,403,358,429"/>
+<area shape="rect" id="node17" href="$classllvm_1_1Module.html" title="The main container class for the LLVM Intermediate Representation. " alt="" coords="971,441,1064,468"/>
+</map>

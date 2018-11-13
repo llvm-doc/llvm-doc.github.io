@@ -1,0 +1,46 @@
+<map id="llvm::OwningPtr&lt; T &gt;" name="llvm::OwningPtr&lt; T &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; DWOHolder \&gt;" alt="" coords="399,29,600,56"/>
+<area shape="rect" id="node3" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MCMachObjectTargetWriter \&gt;" alt="" coords="399,81,599,122"/>
+<area shape="rect" id="node4" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::GVMaterializer \&gt;" alt="" coords="427,146,572,187"/>
+<area shape="rect" id="node5" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCInstrInfo \&gt;" alt="" coords="419,211,580,253"/>
+<area shape="rect" id="node6" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::yaml::llvm::yaml::Stream \&gt;" alt="" coords="411,277,587,318"/>
+<area shape="rect" id="node7" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DataStreamer \&gt;" alt="" coords="427,342,572,383"/>
+<area shape="rect" id="node8" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::MipsFrameLowering \&gt;" alt="" coords="409,407,589,449"/>
+<area shape="rect" id="node9" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::ARMFrameLowering \&gt;" alt="" coords="421,473,577,514"/>
+<area shape="rect" id="node10" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MCTargetStreamer \&gt;" alt="" coords="425,538,574,579"/>
+<area shape="rect" id="node11" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::TargetMachine \&gt;" alt="" coords="427,603,572,645"/>
+<area shape="rect" id="node12" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; HNode \&gt;" alt="" coords="413,669,585,696"/>
+<area shape="rect" id="node13" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MCRelocationInfo \&gt;" alt="" coords="427,721,572,762"/>
+<area shape="rect" id="node14" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCContext \&gt;" alt="" coords="420,786,579,827"/>
+<area shape="rect" id="node15" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::ARMBaseInstrInfo \&gt;" alt="" coords="427,851,572,893"/>
+<area shape="rect" id="node16" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::PredIteratorCache \&gt;" alt="" coords="427,917,572,958"/>
+<area shape="rect" id="node17" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::RTDyldMemoryManager \&gt;" alt="" coords="411,982,588,1023"/>
+<area shape="rect" id="node18" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::StreamableMemoryObject \&gt;" alt="" coords="405,1047,594,1089"/>
+<area shape="rect" id="node19" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::AMDGPUInstrInfo \&gt;" alt="" coords="427,1113,572,1154"/>
+<area shape="rect" id="node20" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MemoryObject \&gt;" alt="" coords="427,1178,572,1219"/>
+<area shape="rect" id="node21" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFDebugFrame \&gt;" alt="" coords="419,1243,579,1285"/>
+<area shape="rect" id="node22" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFDebugAranges \&gt;" alt="" coords="414,1309,585,1350"/>
+<area shape="rect" id="node23" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFDebugLoc \&gt;" alt="" coords="427,1374,572,1415"/>
+<area shape="rect" id="node24" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFDebugAbbrev \&gt;" alt="" coords="418,1439,581,1481"/>
+<area shape="rect" id="node25" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::llvm::MCInstPrinter \&gt;" alt="" coords="426,1505,573,1546"/>
+<area shape="rect" id="node26" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::yaml::Scanner \&gt;" alt="" coords="427,1570,572,1611"/>
+<area shape="rect" id="node27" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MemoryBuffer \&gt;" alt="" coords="427,1635,572,1677"/>
+<area shape="rect" id="node28" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::SlotTracker \&gt;" alt="" coords="427,1701,572,1742"/>
+<area shape="rect" id="node29" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::AMDGPUTargetLowering \&gt;" alt="" coords="407,1766,591,1807"/>
+<area shape="rect" id="node30" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCSubtargetInfo \&gt;" alt="" coords="403,1831,595,1873"/>
+<area shape="rect" id="node31" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::sys::fs::mapped_file\l_region \&gt;" alt="" coords="427,1896,572,1952"/>
+<area shape="rect" id="node32" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCRegisterInfo \&gt;" alt="" coords="408,1975,591,2017"/>
+<area shape="rect" id="node33" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCAsmInfo \&gt;" alt="" coords="418,2041,581,2082"/>
+<area shape="rect" id="node34" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFDebugLine \&gt;" alt="" coords="426,2106,573,2147"/>
+<area shape="rect" id="node35" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::MCSymbolizer \&gt;" alt="" coords="427,2171,572,2213"/>
+<area shape="rect" id="node36" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DWARFContext \&gt;" alt="" coords="427,2237,572,2278"/>
+<area shape="rect" id="node37" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::BitstreamReader \&gt;" alt="" coords="427,2302,572,2343"/>
+<area shape="rect" id="node38" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::ObjectBuffer \&gt;" alt="" coords="427,2367,572,2409"/>
+<area shape="rect" id="node39" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::yaml::Document \&gt;" alt="" coords="427,2433,572,2474"/>
+<area shape="rect" id="node40" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; object\l::llvm::object::ObjectFile \&gt;" alt="" coords="415,2498,583,2539"/>
+<area shape="rect" id="node41" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::MipsInstrInfo \&gt;" alt="" coords="423,2563,576,2605"/>
+<area shape="rect" id="node42" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::DIE \&gt;" alt="" coords="427,2629,572,2670"/>
+<area shape="rect" id="node43" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::MipsTargetLowering \&gt;" alt="" coords="409,2694,589,2735"/>
+<area shape="rect" id="node44" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; llvm\l::Module \&gt;" alt="" coords="427,2759,572,2801"/>
+<area shape="rect" id="node45" href="$classllvm_1_1OwningPtr.html" title="llvm::OwningPtr\&lt; const\l llvm::llvm::MCDisassembler \&gt;" alt="" coords="404,2825,595,2866"/>
+</map>

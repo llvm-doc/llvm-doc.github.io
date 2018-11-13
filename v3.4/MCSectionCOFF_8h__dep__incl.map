@@ -1,0 +1,12 @@
+<map id="MCSectionCOFF.h" name="MCSectionCOFF.h">
+<area shape="rect" id="node2" href="$TargetLoweringObjectFileImpl_8cpp.html" title="TargetLoweringObjectFile\lImpl.cpp" alt="" coords="5,80,175,121"/>
+<area shape="rect" id="node3" href="$MCAsmStreamer_8cpp.html" title="MCAsmStreamer.cpp" alt="" coords="199,87,344,114"/>
+<area shape="rect" id="node4" href="$MCContext_8cpp.html" title="MCContext.cpp" alt="" coords="368,87,479,114"/>
+<area shape="rect" id="node5" href="$MCObjectFileInfo_8cpp.html" title="MCObjectFileInfo.cpp" alt="" coords="503,87,650,114"/>
+<area shape="rect" id="node6" href="$COFFAsmParser_8cpp.html" title="COFFAsmParser.cpp" alt="" coords="674,87,818,114"/>
+<area shape="rect" id="node7" href="$MCSectionCOFF_8cpp.html" title="MCSectionCOFF.cpp" alt="" coords="843,87,988,114"/>
+<area shape="rect" id="node8" href="$MCWin64EH_8cpp.html" title="MCWin64EH.cpp" alt="" coords="1012,87,1131,114"/>
+<area shape="rect" id="node9" href="$WinCOFFObjectWriter_8cpp.html" title="WinCOFFObjectWriter.cpp" alt="" coords="1155,87,1329,114"/>
+<area shape="rect" id="node10" href="$WinCOFFStreamer_8cpp.html" title="WinCOFFStreamer.cpp" alt="" coords="1353,87,1509,114"/>
+<area shape="rect" id="node11" href="$X86AsmBackend_8cpp.html" title="X86AsmBackend.cpp" alt="" coords="1534,87,1681,114"/>
+</map>

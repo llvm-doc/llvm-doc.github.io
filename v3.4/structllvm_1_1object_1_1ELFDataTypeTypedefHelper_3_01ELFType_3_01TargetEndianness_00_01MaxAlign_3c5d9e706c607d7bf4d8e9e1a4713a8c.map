@@ -1,0 +1,4 @@
+<map id="llvm::object::ELFDataTypeTypedefHelper&lt; ELFType&lt; TargetEndianness, MaxAlign, false &gt; &gt;" name="llvm::object::ELFDataTypeTypedefHelper&lt; ELFType&lt; TargetEndianness, MaxAlign, false &gt; &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelperCommon.html" title="llvm::object::ELFDataType\lTypedefHelperCommon\&lt; TargetEndianness,\l MaxAlign \&gt;" alt="" coords="5,139,280,195"/>
+<area shape="rect" id="node3" href="$structllvm_1_1object_1_1ELFDataTypeTypedefHelperCommon.html" title="llvm::object::ELFDataType\lTypedefHelperCommon\&lt; target\l_endianness, max_alignment \&gt;" alt="" coords="42,5,243,61"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="llvm::PPCSubtarget" name="llvm::PPCSubtarget">
+<area shape="rect" id="node2" href="$classPPCGenSubtargetInfo.html" title="PPCGenSubtargetInfo" alt="" coords="5,495,156,521"/>
+<area shape="rect" id="node3" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="539,495,689,521"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="232,243,375,269"/>
+<area shape="rect" id="node7" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="730,243,853,269"/>
+<area shape="rect" id="node9" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="907,243,1017,269"/>
+<area shape="rect" id="node11" href="$classllvm_1_1Triple.html" title="llvm::Triple" alt="" coords="713,495,795,521"/>
+</map>

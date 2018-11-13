@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1PassInfo.html" title="llvm::PassInfo" alt="" coords="5,42,107,69"/>
+<area shape="rect" id="node2" href="$classllvm_1_1RegisterAGBase.html" title="llvm::RegisterAGBase" alt="" coords="155,13,301,39"/>
+<area shape="rect" id="node4" href="$structllvm_1_1RegisterPass.html" title="llvm::RegisterPass\l\&lt; passName \&gt;" alt="" coords="165,64,291,105"/>
+<area shape="rect" id="node3" href="$structllvm_1_1RegisterAnalysisGroup.html" title="llvm::RegisterAnalysisGroup\l\&lt; Interface, Default \&gt;" alt="" coords="349,5,529,47"/>
+</map>

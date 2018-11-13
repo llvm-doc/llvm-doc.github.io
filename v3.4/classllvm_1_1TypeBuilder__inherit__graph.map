@@ -1,0 +1,11 @@
+<map id="llvm::TypeBuilder&lt; T, cross_compilable &gt;" name="llvm::TypeBuilder&lt; T, cross_compilable &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1TypeBuilder.html" title="llvm::TypeBuilder\&lt;\l types::i\&lt; 8 \&gt; *, false \&gt;" alt="" coords="299,149,445,191"/>
+<area shape="rect" id="node7" href="$classllvm_1_1TypeBuilder.html" title="llvm::TypeBuilder\&lt;\l T, cross \&gt;" alt="" coords="309,327,435,368"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypeBuilder_3_01const_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l const void *, false \&gt;" alt="" coords="507,5,641,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TypeBuilder_3_01const_01volatile_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l const volatile void\l *, false \&gt;" alt="" coords="511,70,637,126"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TypeBuilder_3_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l void *, false \&gt;" alt="" coords="511,149,637,191"/>
+<area shape="rect" id="node6" href="$classllvm_1_1TypeBuilder_3_01volatile_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l volatile void *, false \&gt;" alt="" coords="502,215,646,256"/>
+<area shape="rect" id="node8" href="$classllvm_1_1TypeBuilder_3_01const_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l const T, cross \&gt;" alt="" coords="511,280,637,321"/>
+<area shape="rect" id="node9" href="$classllvm_1_1TypeBuilder_3_01const_01volatile_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l const volatile T, cross \&gt;" alt="" coords="495,345,653,387"/>
+<area shape="rect" id="node10" href="$classllvm_1_1TypeBuilder_3_01volatile_01T_00_01cross_01_4.html" title="llvm::TypeBuilder\&lt;\l volatile T, cross \&gt;" alt="" coords="511,411,637,452"/>
+</map>

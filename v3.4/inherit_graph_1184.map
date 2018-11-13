@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MachineModuleInfoImpl.html" title="llvm::MachineModuleInfoImpl" alt="" coords="5,56,195,83"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MachineModuleInfoELF.html" title="llvm::MachineModuleInfoELF" alt="" coords="261,5,447,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineModuleInfoMachO.html" title="llvm::MachineModuleInfoMachO" alt="" coords="251,56,457,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1X86COFFMachineModuleInfo.html" title="llvm::X86COFFMachineModuleInfo" alt="" coords="243,107,465,133"/>
+</map>

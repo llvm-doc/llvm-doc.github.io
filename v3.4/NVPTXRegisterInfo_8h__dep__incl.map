@@ -1,0 +1,13 @@
+<map id="NVPTXRegisterInfo.h" name="NVPTXRegisterInfo.h">
+<area shape="rect" id="node2" href="$NVPTXInstrInfo_8h.html" title="NVPTXInstrInfo.h" alt="" coords="318,80,441,107"/>
+<area shape="rect" id="node3" href="$NVPTXTargetMachine_8h.html" title="NVPTXTargetMachine.h" alt="" coords="453,155,615,181"/>
+<area shape="rect" id="node5" href="$NVPTXAsmPrinter_8cpp.html" title="NVPTXAsmPrinter.cpp" alt="" coords="221,304,375,331"/>
+<area shape="rect" id="node6" href="$NVPTXFrameLowering_8cpp.html" title="NVPTXFrameLowering.cpp" alt="" coords="797,229,975,256"/>
+<area shape="rect" id="node8" href="$NVPTXISelDAGToDAG_8h.html" title="NVPTXISelDAGToDAG.h" alt="" coords="999,229,1168,256"/>
+<area shape="rect" id="node12" href="$NVPTXRegisterInfo_8cpp.html" title="NVPTXRegisterInfo.cpp" alt="" coords="741,80,900,107"/>
+<area shape="rect" id="node7" href="$NVPTXInstrInfo_8cpp.html" title="NVPTXInstrInfo.cpp" alt="" coords="37,229,173,256"/>
+<area shape="rect" id="node4" href="$NVPTXAsmPrinter_8h.html" title="NVPTXAsmPrinter.h" alt="" coords="634,229,773,256"/>
+<area shape="rect" id="node10" href="$NVPTXISelLowering_8cpp.html" title="NVPTXISelLowering.cpp" alt="" coords="197,229,359,256"/>
+<area shape="rect" id="node11" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="384,229,559,256"/>
+<area shape="rect" id="node9" href="$NVPTXISelDAGToDAG_8cpp.html" title="NVPTXISelDAGToDAG.cpp" alt="" coords="992,304,1175,331"/>
+</map>

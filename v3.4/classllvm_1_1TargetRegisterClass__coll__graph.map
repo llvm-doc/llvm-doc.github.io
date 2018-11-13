@@ -1,0 +1,5 @@
+<map id="llvm::TargetRegisterClass" name="llvm::TargetRegisterClass">
+<area shape="rect" id="node2" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; MCPhysReg \&gt;" alt="" coords="281,7,476,33"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,7,136,33"/>
+<area shape="rect" id="node6" href="$classllvm_1_1MCRegisterClass.html" title="MCRegisterClass &#45; Base class of TargetRegisterClass. " alt="" coords="304,240,453,267"/>
+</map>

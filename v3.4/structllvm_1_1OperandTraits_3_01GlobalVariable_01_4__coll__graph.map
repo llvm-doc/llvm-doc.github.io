@@ -1,0 +1,6 @@
+<map id="llvm::OperandTraits&lt; GlobalVariable &gt;" name="llvm::OperandTraits&lt; GlobalVariable &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1OptionalOperandTraits.html" title="llvm::OptionalOperandTraits\l\&lt; GlobalVariable \&gt;" alt="" coords="715,39,895,80"/>
+<area shape="rect" id="node3" href="$structllvm_1_1FixedNumOperandTraits.html" title="llvm::FixedNumOperandTraits\l\&lt; GlobalVariable, 1 \&gt;" alt="" coords="367,5,557,47"/>
+<area shape="rect" id="node4" href="$structllvm_1_1FixedNumOperandTraits.html" title="llvm::FixedNumOperandTraits\l\&lt; SubClass, ARITY \&gt;" alt="" coords="5,36,196,77"/>
+<area shape="rect" id="node5" href="$structllvm_1_1OptionalOperandTraits.html" title="llvm::OptionalOperandTraits\l\&lt; SubClass, ARITY \&gt;" alt="" coords="372,71,552,112"/>
+</map>

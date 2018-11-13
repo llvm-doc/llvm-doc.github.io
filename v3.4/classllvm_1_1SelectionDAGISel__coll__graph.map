@@ -1,0 +1,38 @@
+<map id="llvm::SelectionDAGISel" name="llvm::SelectionDAGISel">
+<area shape="rect" id="node2" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="1200,1609,1379,1636"/>
+<area shape="rect" id="node3" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="609,1588,738,1615"/>
+<area shape="rect" id="node21" href="$classllvm_1_1BranchProbabilityInfo.html" title="Analysis pass providing branch probability information. " alt="" coords="995,1553,1170,1580"/>
+<area shape="rect" id="node4" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="258,1588,337,1615"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1007,2669,1158,2696"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FunctionLoweringInfo.html" title="llvm::FunctionLoweringInfo" alt="" coords="1411,2073,1585,2100"/>
+<area shape="rect" id="node42" href="$classllvm_1_1SelectionDAGBuilder.html" title="llvm::SelectionDAGBuilder" alt="" coords="1809,1117,1983,1144"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::Instruction\l *, 8 \&gt;" alt="" coords="1009,2399,1157,2455"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl" alt="" coords="224,2096,371,2123"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l PtrType, SmallSize \&gt;" alt="" coords="600,2125,747,2166"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::BasicBlock\l *, 4 \&gt;" alt="" coords="1006,2059,1159,2115"/>
+<area shape="rect" id="node29" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="1429,415,1567,441"/>
+<area shape="rect" id="node30" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="1017,221,1149,248"/>
+<area shape="rect" id="node34" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="1023,533,1142,560"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, unsigned \&gt;" alt="" coords="1001,2190,1164,2231"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l unsigned \&gt;" alt="" coords="993,2334,1172,2375"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Argument *, int \&gt;" alt="" coords="1005,2478,1160,2519"/>
+<area shape="rect" id="node16" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::MachineInstr\l *, 8 \&gt;" alt="" coords="1018,1720,1147,1776"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::AllocaInst *, int \&gt;" alt="" coords="1005,1863,1160,1905"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::BasicBlock *,\l llvm::MachineBasicBlock * \&gt;" alt="" coords="989,1928,1176,1984"/>
+<area shape="rect" id="node27" href="$classllvm_1_1SelectionDAG.html" title="llvm::SelectionDAG" alt="" coords="1431,1537,1565,1564"/>
+<area shape="rect" id="node36" href="$classllvm_1_1TargetLibraryInfo.html" title="llvm::TargetLibraryInfo" alt="" coords="1009,601,1157,628"/>
+<area shape="rect" id="node38" href="$classllvm_1_1TargetTransformInfo.html" title="llvm::TargetTransformInfo" alt="" coords="1617,647,1785,673"/>
+<area shape="rect" id="node39" href="$classllvm_1_1AliasAnalysis.html" title="llvm::AliasAnalysis" alt="" coords="1435,776,1561,803"/>
+<area shape="rect" id="node41" href="$classllvm_1_1DataLayout.html" title="llvm::DataLayout" alt="" coords="1025,772,1141,799"/>
+<area shape="rect" id="node23" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="998,2601,1167,2628"/>
+<area shape="rect" id="node24" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1000,2008,1165,2035"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="1032,2139,1133,2165"/>
+<area shape="rect" id="node26" href="$classllvm_1_1GCFunctionInfo.html" title="llvm::GCFunctionInfo" alt="" coords="1427,827,1569,853"/>
+<area shape="rect" id="node32" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="1039,415,1127,441"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="1009,465,1156,492"/>
+<area shape="rect" id="node37" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="603,545,743,572"/>
+<area shape="rect" id="node43" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDValue, 8 \&gt;" alt="" coords="1433,943,1563,985"/>
+<area shape="rect" id="node45" href="$classllvm_1_1LLVMContext.html" title="llvm::LLVMContext" alt="" coords="1434,1075,1562,1101"/>
+<area shape="rect" id="node49" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::MachineBasicBlock *,\l llvm::SmallVector\&lt; unsigned,\l 4 \&gt; \&gt;" alt="" coords="1403,1278,1593,1349"/>
+<area shape="rect" id="node50" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Constant *, unsigned \&gt;" alt="" coords="1407,878,1589,919"/>
+</map>

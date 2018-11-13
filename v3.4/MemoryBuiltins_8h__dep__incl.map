@@ -1,0 +1,16 @@
+<map id="MemoryBuiltins.h" name="MemoryBuiltins.h">
+<area shape="rect" id="node2" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="5,80,159,107"/>
+<area shape="rect" id="node3" href="$InstructionSimplify_8cpp.html" title="InstructionSimplify.cpp" alt="" coords="183,80,335,107"/>
+<area shape="rect" id="node4" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="360,80,495,107"/>
+<area shape="rect" id="node5" href="$MemoryBuiltins_8cpp.html" title="MemoryBuiltins.cpp" alt="" coords="519,80,653,107"/>
+<area shape="rect" id="node6" href="$MemoryDependenceAnalysis_8cpp.html" title="MemoryDependenceAnalysis.cpp" alt="" coords="678,80,889,107"/>
+<area shape="rect" id="node7" href="$ValueTracking_8cpp.html" title="ValueTracking.cpp" alt="" coords="913,80,1041,107"/>
+<area shape="rect" id="node8" href="$InstCombineCalls_8cpp.html" title="InstCombineCalls.cpp" alt="" coords="1065,80,1211,107"/>
+<area shape="rect" id="node9" href="$InstCombineCompares_8cpp.html" title="InstCombineCompares.cpp" alt="" coords="1235,80,1411,107"/>
+<area shape="rect" id="node10" href="$InstructionCombining_8cpp.html" title="InstructionCombining.cpp" alt="" coords="1436,80,1603,107"/>
+<area shape="rect" id="node11" href="$BoundsChecking_8cpp.html" title="BoundsChecking.cpp" alt="" coords="1627,80,1769,107"/>
+<area shape="rect" id="node12" href="$GlobalOpt_8cpp.html" title="GlobalOpt.cpp" alt="" coords="1794,80,1898,107"/>
+<area shape="rect" id="node13" href="$DeadStoreElimination_8cpp.html" title="DeadStoreElimination.cpp" alt="" coords="1922,80,2093,107"/>
+<area shape="rect" id="node14" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="2117,80,2191,107"/>
+<area shape="rect" id="node15" href="$Local_8cpp.html" title="Local.cpp" alt="" coords="2215,80,2293,107"/>
+</map>

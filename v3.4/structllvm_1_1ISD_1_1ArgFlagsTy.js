@@ -1,0 +1,27 @@
+var structllvm_1_1ISD_1_1ArgFlagsTy =
+[
+    [ "ArgFlagsTy", "structllvm_1_1ISD_1_1ArgFlagsTy.html#af36e8390a60a67b58813b43e3cbb765d", null ],
+    [ "getByValAlign", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a24db357868a02447db2862c8b5cef52f", null ],
+    [ "getByValSize", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a20485215f1c6f05a5c5209725c93de2f", null ],
+    [ "getOrigAlign", "structllvm_1_1ISD_1_1ArgFlagsTy.html#af979ac19f9e18ef976bd3fd464e926e5", null ],
+    [ "getRawBits", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a145cad25c2f638319919d2f80346608d", null ],
+    [ "isByVal", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a34ee642bf0fb623f775e04e0e60d9b26", null ],
+    [ "isInReg", "structllvm_1_1ISD_1_1ArgFlagsTy.html#ad2cddc6957364f5288dc571b4faea092", null ],
+    [ "isNest", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a4465748537fd291acccf018f3913a496", null ],
+    [ "isReturned", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a6e5e685a0f7dcf989108217e27ae956c", null ],
+    [ "isSExt", "structllvm_1_1ISD_1_1ArgFlagsTy.html#ae3d1eab6cbe1d4d2bd95ac0844bdee8f", null ],
+    [ "isSplit", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a5b803a576a17be4e9066aac78716aaa4", null ],
+    [ "isSRet", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a6fd584f50138d20e806b8370ea8b025a", null ],
+    [ "isZExt", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a0414ddd7827c97349dd4d7ffe34d0798", null ],
+    [ "setByVal", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a2014ce03ca56d15be72ef050d1098660", null ],
+    [ "setByValAlign", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a95a9edd07ea2beefe91f5751d4850acd", null ],
+    [ "setByValSize", "structllvm_1_1ISD_1_1ArgFlagsTy.html#ad66657226225059fd5e7f49f4f1173cc", null ],
+    [ "setInReg", "structllvm_1_1ISD_1_1ArgFlagsTy.html#ac8683d314a90a316cb67a685d42a8c28", null ],
+    [ "setNest", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a996f0e431c0f5c7c14ab38bb225fc945", null ],
+    [ "setOrigAlign", "structllvm_1_1ISD_1_1ArgFlagsTy.html#ab578211fc94e49ec6628ec6023f4be09", null ],
+    [ "setReturned", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a7c2325e33583cfd763e84f59a5d247b9", null ],
+    [ "setSExt", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a1134ea0aa4c8b2d3e344d48dca3c4d44", null ],
+    [ "setSplit", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a25c5036ad8186057b206a6be57ce383d", null ],
+    [ "setSRet", "structllvm_1_1ISD_1_1ArgFlagsTy.html#aba7598e759d8fb948b4a25186a4d8aec", null ],
+    [ "setZExt", "structllvm_1_1ISD_1_1ArgFlagsTy.html#a9d5e89b5f086590d776028ee2f095453", null ]
+];

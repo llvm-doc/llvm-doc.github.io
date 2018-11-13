@@ -1,0 +1,18 @@
+<map id="ARMSubtarget.h" name="ARMSubtarget.h">
+<area shape="rect" id="node2" href="$ARMMCTargetDesc_8h.html" title="MCTargetDesc/ARMMCTarget\lDesc.h" alt="" coords="1819,80,2018,121"/>
+<area shape="rect" id="node8" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="549,319,670,345"/>
+<area shape="rect" id="node21" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="273,244,457,271"/>
+<area shape="rect" id="node23" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="861,80,1043,121"/>
+<area shape="rect" id="node9" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="548,393,671,420"/>
+<area shape="rect" id="node10" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="429,543,571,569"/>
+<area shape="rect" id="node18" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="749,468,934,495"/>
+<area shape="rect" id="node11" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="243,617,410,644"/>
+<area shape="rect" id="node19" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1170,543,1329,569"/>
+<area shape="rect" id="node22" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="196,543,353,569"/>
+<area shape="rect" id="node24" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="681,169,863,196"/>
+<area shape="rect" id="node27" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="881,393,1044,420"/>
+<area shape="rect" id="node25" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="623,244,806,271"/>
+<area shape="rect" id="node28" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="1289,468,1445,495"/>
+<area shape="rect" id="node29" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1042,617,1139,644"/>
+<area shape="rect" id="node30" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="1404,543,1511,569"/>
+</map>

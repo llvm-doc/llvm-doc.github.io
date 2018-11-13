@@ -1,0 +1,25 @@
+var classllvm_1_1ResourcePriorityQueue =
+[
+    [ "ResourcePriorityQueue", "classllvm_1_1ResourcePriorityQueue.html#a16fbd46e51c3d60b6bb29c18ea546aa7", null ],
+    [ "~ResourcePriorityQueue", "classllvm_1_1ResourcePriorityQueue.html#a609aabee35559868870f0d1c74f86fef", null ],
+    [ "addNode", "classllvm_1_1ResourcePriorityQueue.html#ac9ebd9cd83cdd8d2d129bac594724046", null ],
+    [ "dump", "classllvm_1_1ResourcePriorityQueue.html#af6ca9309baa48feeb414f60e55e4b0cd", null ],
+    [ "empty", "classllvm_1_1ResourcePriorityQueue.html#af0b27b9e5f1ca2c8eb7b84bb06292be4", null ],
+    [ "getLatency", "classllvm_1_1ResourcePriorityQueue.html#ad226085af3a18e6dd143523ae8723f68", null ],
+    [ "getNumSolelyBlockNodes", "classllvm_1_1ResourcePriorityQueue.html#a03789e46b495364dd65a9370cc4e2d8c", null ],
+    [ "initNodes", "classllvm_1_1ResourcePriorityQueue.html#ae2eb834d5fb14fbba45c8c5b84a5e4b0", null ],
+    [ "initNumRegDefsLeft", "classllvm_1_1ResourcePriorityQueue.html#ae40b5614303ad840c02bf2923d5f4305", null ],
+    [ "isBottomUp", "classllvm_1_1ResourcePriorityQueue.html#aa55fa92c18441dcbe7691d5c7f20193b", null ],
+    [ "isResourceAvailable", "classllvm_1_1ResourcePriorityQueue.html#afba9f58251019a23a1d7f60d6c958071", null ],
+    [ "pop", "classllvm_1_1ResourcePriorityQueue.html#a3a832b4d517f9aacba26993073bc4364", null ],
+    [ "push", "classllvm_1_1ResourcePriorityQueue.html#a9984066289e99d5ff1438639deb7d588", null ],
+    [ "rawRegPressureDelta", "classllvm_1_1ResourcePriorityQueue.html#a3987fa052cd3676d199b27d4acb8ef7a", null ],
+    [ "regPressureDelta", "classllvm_1_1ResourcePriorityQueue.html#adb49e6855ca6d9cec4d55ac85ac94ef2", null ],
+    [ "releaseState", "classllvm_1_1ResourcePriorityQueue.html#a0e31d173f9fdec007067775e88552e10", null ],
+    [ "remove", "classllvm_1_1ResourcePriorityQueue.html#aca77542a3be77603725c838a513936e5", null ],
+    [ "reserveResources", "classllvm_1_1ResourcePriorityQueue.html#ae30e9e0cfb98797266d9fc1226cf467d", null ],
+    [ "scheduledNode", "classllvm_1_1ResourcePriorityQueue.html#af77e221f4f41e76ea5bf58524d3e4e43", null ],
+    [ "SUSchedulingCost", "classllvm_1_1ResourcePriorityQueue.html#a57ec34b4727103e020011f01b6978765", null ],
+    [ "updateNode", "classllvm_1_1ResourcePriorityQueue.html#a3e228b99e17801d447dc1c26db8c76ef", null ],
+    [ "updateNumRegDefsLeft", "classllvm_1_1ResourcePriorityQueue.html#a74cdb1e1c40ff7b55d6fd186082a8a83", null ]
+];

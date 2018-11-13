@@ -1,0 +1,43 @@
+<map id="llvm::FunctionLoweringInfo" name="llvm::FunctionLoweringInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::Instruction\l *, 8 \&gt;" alt="" coords="1637,109,1785,165"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallPtrSetImpl.html" title="llvm::SmallPtrSetImpl" alt="" coords="763,73,909,100"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l PtrType, SmallSize \&gt;" alt="" coords="1185,59,1331,100"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallPtrSet.html" title="llvm::SmallPtrSet\&lt;\l const llvm::BasicBlock\l *, 4 \&gt;" alt="" coords="1634,6,1787,62"/>
+<area shape="rect" id="node43" href="$classllvm_1_1GlobalValue.html" title="llvm::GlobalValue" alt="" coords="1198,420,1318,446"/>
+<area shape="rect" id="node45" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="362,598,439,625"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Value *, unsigned \&gt;" alt="" coords="1629,627,1792,668"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::Value *, unsigned, DenseMap\lInfo\&lt; const llvm::Value *\l \&gt; \&gt;, const llvm::Value *,\l unsigned, DenseMapInfo\&lt; const\l llvm::Value * \&gt; \&gt;" alt="" coords="1154,470,1362,585"/>
+<area shape="rect" id="node9" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT \&gt;" alt="" coords="1179,748,1337,790"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; unsigned,\l unsigned \&gt;" alt="" coords="1621,758,1800,799"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::Argument *, int \&gt;" alt="" coords="1633,902,1788,943"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::AllocaInst *, int \&gt;" alt="" coords="1633,692,1788,734"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; const\l llvm::BasicBlock *,\l llvm::MachineBasicBlock * \&gt;" alt="" coords="1617,822,1804,878"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT \&gt;, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="743,734,929,804"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="315,741,487,797"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1635,968,1786,994"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; unsigned,\l unsigned, DenseMapInfo\l\&lt; unsigned \&gt; \&gt;, unsigned,\l unsigned, DenseMapInfo\&lt;\l unsigned \&gt; \&gt;" alt="" coords="1171,814,1345,914"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::Argument *, int, DenseMapInfo\l\&lt; const llvm::Argument * \&gt; \&gt;\l, const llvm::Argument *, int,\l DenseMapInfo\&lt; const llvm::Argument * \&gt; \&gt;" alt="" coords="1124,1091,1392,1191"/>
+<area shape="rect" id="node19" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::MachineInstr\l *, 8 \&gt;" alt="" coords="1646,1185,1775,1241"/>
+<area shape="rect" id="node20" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::MachineInstr * \&gt;" alt="" coords="1181,1215,1335,1256"/>
+<area shape="rect" id="node21" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::MachineInstr\l *, isPodLike\&lt; llvm::MachineInstr\l * \&gt;::value \&gt;" alt="" coords="512,1187,719,1258"/>
+<area shape="rect" id="node22" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="5,1226,180,1267"/>
+<area shape="rect" id="node24" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="313,1260,488,1316"/>
+<area shape="rect" id="node23" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="748,1274,924,1301"/>
+<area shape="rect" id="node25" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="1193,1280,1323,1322"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::AllocaInst *, int, DenseMap\lInfo\&lt; const llvm::AllocaInst\l * \&gt; \&gt;, const llvm::AllocaInst\l *, int, DenseMapInfo\&lt; const llvm\l::AllocaInst * \&gt; \&gt;" alt="" coords="1153,609,1363,724"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; const llvm\l::BasicBlock *, llvm::\lMachineBasicBlock *, DenseMapInfo\l\&lt; const llvm::BasicBlock * \&gt;\l \&gt;, const llvm::BasicBlock *,\l llvm::MachineBasicBlock *, DenseMapInfo\l\&lt; const llvm::BasicBlock * \&gt; \&gt;" alt="" coords="1125,938,1391,1067"/>
+<area shape="rect" id="node32" href="$classllvm_1_1BranchProbabilityInfo.html" title="Analysis pass providing branch probability information. " alt="" coords="1623,1324,1798,1350"/>
+<area shape="rect" id="node33" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="1193,1346,1323,1373"/>
+<area shape="rect" id="node34" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="797,1346,875,1373"/>
+<area shape="rect" id="node36" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="1626,1374,1795,1401"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1628,340,1793,366"/>
+<area shape="rect" id="node38" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock \&gt;" alt="" coords="1175,272,1341,314"/>
+<area shape="rect" id="node39" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; MachineBasicBlock \&gt;" alt="" coords="757,238,915,279"/>
+<area shape="rect" id="node40" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="334,296,467,338"/>
+<area shape="rect" id="node41" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="751,304,921,330"/>
+<area shape="rect" id="node50" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Function \&gt;" alt="" coords="769,355,903,396"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Function \&gt;" alt="" coords="1169,369,1347,396"/>
+<area shape="rect" id="node42" href="$classllvm_1_1Function.html" title="llvm::Function" alt="" coords="1660,420,1761,446"/>
+<area shape="rect" id="node44" href="$classllvm_1_1Constant.html" title="LLVM Constant Representation. " alt="" coords="785,624,887,650"/>
+<area shape="rect" id="node48" href="$classllvm_1_1Module.html" title="The main container class for the LLVM Intermediate Representation. " alt="" coords="789,472,883,498"/>
+</map>

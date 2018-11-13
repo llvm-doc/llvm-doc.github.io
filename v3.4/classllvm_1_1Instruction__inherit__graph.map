@@ -1,0 +1,50 @@
+<map id="llvm::Instruction" name="llvm::Instruction">
+<area shape="rect" id="node8" href="$classllvm_1_1AtomicCmpXchgInst.html" title="llvm::AtomicCmpXchgInst" alt="" coords="972,5,1143,32"/>
+<area shape="rect" id="node9" href="$classllvm_1_1AtomicRMWInst.html" title="llvm::AtomicRMWInst" alt="" coords="985,56,1130,83"/>
+<area shape="rect" id="node10" href="$classllvm_1_1BinaryOperator.html" title="llvm::BinaryOperator" alt="" coords="989,107,1126,133"/>
+<area shape="rect" id="node11" href="$classllvm_1_1CallInst.html" title="llvm::CallInst" alt="" coords="1010,157,1105,184"/>
+<area shape="rect" id="node18" href="$classllvm_1_1CmpInst.html" title="Abstract base class of comparison instructions. " alt="" coords="1008,208,1107,235"/>
+<area shape="rect" id="node21" href="$classllvm_1_1ExtractElementInst.html" title="llvm::ExtractElementInst" alt="" coords="978,259,1137,285"/>
+<area shape="rect" id="node22" href="$classllvm_1_1FenceInst.html" title="llvm::FenceInst" alt="" coords="1003,309,1111,336"/>
+<area shape="rect" id="node23" href="$classllvm_1_1GetElementPtrInst.html" title="llvm::GetElementPtrInst" alt="" coords="979,360,1136,387"/>
+<area shape="rect" id="node24" href="$classllvm_1_1InsertElementInst.html" title="llvm::InsertElementInst" alt="" coords="982,411,1133,437"/>
+<area shape="rect" id="node25" href="$classllvm_1_1InsertValueInst.html" title="llvm::InsertValueInst" alt="" coords="989,461,1125,488"/>
+<area shape="rect" id="node26" href="$classllvm_1_1LandingPadInst.html" title="llvm::LandingPadInst" alt="" coords="987,512,1127,539"/>
+<area shape="rect" id="node27" href="$classllvm_1_1PHINode.html" title="llvm::PHINode" alt="" coords="1006,563,1109,589"/>
+<area shape="rect" id="node28" href="$classllvm_1_1SelectInst.html" title="llvm::SelectInst" alt="" coords="1003,613,1112,640"/>
+<area shape="rect" id="node29" href="$classllvm_1_1ShuffleVectorInst.html" title="llvm::ShuffleVectorInst" alt="" coords="984,664,1131,691"/>
+<area shape="rect" id="node30" href="$classllvm_1_1StoreInst.html" title="llvm::StoreInst" alt="" coords="1006,715,1109,741"/>
+<area shape="rect" id="node31" href="$classllvm_1_1TerminatorInst.html" title="llvm::TerminatorInst" alt="" coords="990,765,1125,792"/>
+<area shape="rect" id="node39" href="$classllvm_1_1UnaryInstruction.html" title="llvm::UnaryInstruction" alt="" coords="985,1019,1129,1045"/>
+<area shape="rect" id="node2" href="$classllvm_1_1User.html" title="llvm::User" alt="" coords="631,385,708,412"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Value.html" title="LLVM Value Representation. " alt="" coords="316,381,399,408"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Instruction \&gt;" alt="" coords="576,440,763,467"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; Instruction \&gt;" alt="" coords="291,433,424,474"/>
+<area shape="rect" id="node6" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; NodeTy \&gt;" alt="" coords="5,461,139,502"/>
+<area shape="rect" id="node7" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="272,499,443,525"/>
+<area shape="rect" id="node12" href="$classllvm_1_1IntrinsicInst.html" title="llvm::IntrinsicInst" alt="" coords="1205,157,1323,184"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DbgInfoIntrinsic.html" title="llvm::DbgInfoIntrinsic" alt="" coords="1396,56,1537,83"/>
+<area shape="rect" id="node14" href="$classllvm_1_1MemIntrinsic.html" title="llvm::MemIntrinsic" alt="" coords="1404,107,1529,133"/>
+<area shape="rect" id="node15" href="$classllvm_1_1VACopyInst.html" title="llvm::VACopyInst" alt="" coords="1407,157,1526,184"/>
+<area shape="rect" id="node16" href="$classllvm_1_1VAEndInst.html" title="llvm::VAEndInst" alt="" coords="1411,208,1522,235"/>
+<area shape="rect" id="node17" href="$classllvm_1_1VAStartInst.html" title="llvm::VAStartInst" alt="" coords="1408,259,1525,285"/>
+<area shape="rect" id="node19" href="$classllvm_1_1FCmpInst.html" title="Represents a floating point comparison operator. " alt="" coords="1211,208,1317,235"/>
+<area shape="rect" id="node20" href="$classllvm_1_1ICmpInst.html" title="Represent an integer comparison operator. " alt="" coords="1213,259,1315,285"/>
+<area shape="rect" id="node32" href="$classllvm_1_1BranchInst.html" title="llvm::BranchInst" alt="" coords="1207,588,1321,615"/>
+<area shape="rect" id="node33" href="$classllvm_1_1IndirectBrInst.html" title="llvm::IndirectBrInst" alt="" coords="1200,639,1328,665"/>
+<area shape="rect" id="node34" href="$classllvm_1_1InvokeInst.html" title="llvm::InvokeInst" alt="" coords="1209,689,1319,716"/>
+<area shape="rect" id="node35" href="$classllvm_1_1ResumeInst.html" title="llvm::ResumeInst" alt="" coords="1205,740,1323,767"/>
+<area shape="rect" id="node36" href="$classllvm_1_1ReturnInst.html" title="llvm::ReturnInst" alt="" coords="1209,791,1319,817"/>
+<area shape="rect" id="node37" href="$classllvm_1_1SwitchInst.html" title="llvm::SwitchInst" alt="" coords="1209,841,1319,868"/>
+<area shape="rect" id="node38" href="$classllvm_1_1UnreachableInst.html" title="llvm::UnreachableInst" alt="" coords="1192,892,1336,919"/>
+<area shape="rect" id="node40" href="$classllvm_1_1AllocaInst.html" title="llvm::AllocaInst" alt="" coords="1210,943,1318,969"/>
+<area shape="rect" id="node41" href="$classllvm_1_1CastInst.html" title="Base class of casting instructions. " alt="" coords="1215,993,1313,1020"/>
+<area shape="rect" id="node47" href="$classllvm_1_1ExtractValueInst.html" title="llvm::ExtractValueInst" alt="" coords="1192,1044,1336,1071"/>
+<area shape="rect" id="node48" href="$classllvm_1_1LoadInst.html" title="llvm::LoadInst" alt="" coords="1214,1095,1314,1121"/>
+<area shape="rect" id="node49" href="$classllvm_1_1VAArgInst.html" title="llvm::VAArgInst" alt="" coords="1209,1145,1319,1172"/>
+<area shape="rect" id="node42" href="$classllvm_1_1AddrSpaceCastInst.html" title="This class represents a conversion between pointers from one address space to another. " alt="" coords="1385,892,1548,919"/>
+<area shape="rect" id="node43" href="$classllvm_1_1BitCastInst.html" title="This class represents a no&#45;op cast from one type to another. " alt="" coords="1409,943,1524,969"/>
+<area shape="rect" id="node44" href="$classllvm_1_1FPExtInst.html" title="This class represents an extension of floating point types. " alt="" coords="1413,993,1520,1020"/>
+<area shape="rect" id="node45" href="$classllvm_1_1FPToSIInst.html" title="This class represents a cast from floating point to signed integer. " alt="" coords="1408,1044,1525,1071"/>
+<area shape="rect" id="node46" href="$classllvm_1_1FPToUIInst.html" title="This class represents a cast from floating point to unsigned integer. " alt="" coords="1408,1095,1525,1121"/>
+</map>

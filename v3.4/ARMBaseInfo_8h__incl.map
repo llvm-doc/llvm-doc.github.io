@@ -1,0 +1,7 @@
+<map id="ARMBaseInfo.h" name="ARMBaseInfo.h">
+<area shape="rect" id="node2" href="$ARMMCTargetDesc_8h.html" title="ARMMCTargetDesc.h" alt="" coords="325,155,472,181"/>
+<area shape="rect" id="node8" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="649,80,834,107"/>
+<area shape="rect" id="node9" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="793,155,935,181"/>
+<area shape="rect" id="node17" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1151,155,1310,181"/>
+<area shape="rect" id="node10" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="847,229,1014,256"/>
+</map>

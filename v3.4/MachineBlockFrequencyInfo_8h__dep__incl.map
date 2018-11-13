@@ -1,0 +1,11 @@
+<map id="MachineBlockFrequencyInfo.h" name="MachineBlockFrequencyInfo.h">
+<area shape="rect" id="node2" href="$CalcSpillWeights_8cpp.html" title="CalcSpillWeights.cpp" alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$InlineSpiller_8cpp.html" title="InlineSpiller.cpp" alt="" coords="172,80,285,107"/>
+<area shape="rect" id="node4" href="$MachineBlockFrequencyInfo_8cpp.html" title="MachineBlockFrequencyInfo.cpp" alt="" coords="310,80,521,107"/>
+<area shape="rect" id="node5" href="$MachineBlockPlacement_8cpp.html" title="MachineBlockPlacement.cpp" alt="" coords="545,80,736,107"/>
+<area shape="rect" id="node6" href="$RegAllocBasic_8cpp.html" title="RegAllocBasic.cpp" alt="" coords="761,80,891,107"/>
+<area shape="rect" id="node7" href="$RegAllocGreedy_8cpp.html" title="RegAllocGreedy.cpp" alt="" coords="915,80,1054,107"/>
+<area shape="rect" id="node8" href="$RegAllocPBQP_8cpp.html" title="RegAllocPBQP.cpp" alt="" coords="1079,80,1213,107"/>
+<area shape="rect" id="node9" href="$SpillPlacement_8cpp.html" title="SpillPlacement.cpp" alt="" coords="1238,80,1371,107"/>
+<area shape="rect" id="node10" href="$StackSlotColoring_8cpp.html" title="StackSlotColoring.cpp" alt="" coords="1396,80,1547,107"/>
+</map>

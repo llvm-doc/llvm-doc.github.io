@@ -1,0 +1,5 @@
+<map id="llvm::error_category" name="llvm::error_category">
+<area shape="rect" id="node2" href="$classllvm_1_1__do__message.html" title="llvm::_do_message" alt="" coords="84,80,215,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1__generic__error__category.html" title="llvm::_generic_error\l_category" alt="" coords="5,155,139,196"/>
+<area shape="rect" id="node4" href="$classllvm_1_1__system__error__category.html" title="llvm::_system_error\l_category" alt="" coords="163,155,293,196"/>
+</map>

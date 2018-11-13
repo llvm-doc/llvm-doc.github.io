@@ -1,0 +1,12 @@
+<map id="llvm::RegAllocBase" name="llvm::RegAllocBase">
+<area shape="rect" id="node2" href="$classllvm_1_1RegisterClassInfo.html" title="llvm::RegisterClassInfo" alt="" coords="565,5,716,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1LiveRegMatrix.html" title="llvm::LiveRegMatrix" alt="" coords="575,119,707,145"/>
+<area shape="rect" id="node8" href="$classllvm_1_1LiveIntervals.html" title="llvm::LiveIntervals" alt="" coords="579,169,702,196"/>
+<area shape="rect" id="node13" href="$classllvm_1_1VirtRegMap.html" title="llvm::VirtRegMap" alt="" coords="581,321,700,348"/>
+<area shape="rect" id="node5" href="$classllvm_1_1MachineFunctionPass.html" title="llvm::MachineFunctionPass" alt="" coords="312,287,491,313"/>
+<area shape="rect" id="node6" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="133,287,263,313"/>
+<area shape="rect" id="node7" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="5,287,84,313"/>
+<area shape="rect" id="node10" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="556,271,725,297"/>
+<area shape="rect" id="node11" href="$classllvm_1_1TargetRegisterInfo.html" title="llvm::TargetRegisterInfo" alt="" coords="562,372,719,399"/>
+<area shape="rect" id="node12" href="$classllvm_1_1MCRegisterInfo.html" title="llvm::MCRegisterInfo" alt="" coords="331,372,471,399"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="MCAsmLayout.h" name="MCAsmLayout.h">
+<area shape="rect" id="node2" href="$ELFObjectWriter_8cpp.html" title="ELFObjectWriter.cpp" alt="" coords="5,80,147,107"/>
+<area shape="rect" id="node3" href="$MachObjectWriter_8cpp.html" title="MachObjectWriter.cpp" alt="" coords="171,80,322,107"/>
+<area shape="rect" id="node4" href="$MCAssembler_8cpp.html" title="MCAssembler.cpp" alt="" coords="346,80,473,107"/>
+<area shape="rect" id="node5" href="$MCExpr_8cpp.html" title="MCExpr.cpp" alt="" coords="497,80,588,107"/>
+<area shape="rect" id="node6" href="$WinCOFFObjectWriter_8cpp.html" title="WinCOFFObjectWriter.cpp" alt="" coords="613,80,787,107"/>
+<area shape="rect" id="node7" href="$WinCOFFStreamer_8cpp.html" title="WinCOFFStreamer.cpp" alt="" coords="811,80,967,107"/>
+<area shape="rect" id="node8" href="$ARMMachObjectWriter_8cpp.html" title="ARMMachObjectWriter.cpp" alt="" coords="992,80,1171,107"/>
+<area shape="rect" id="node9" href="$PPCMachObjectWriter_8cpp.html" title="PPCMachObjectWriter.cpp" alt="" coords="1195,80,1373,107"/>
+<area shape="rect" id="node10" href="$PPCMCExpr_8h.html" title="PPCMCExpr.h" alt="" coords="1397,80,1501,107"/>
+<area shape="rect" id="node15" href="$X86MachObjectWriter_8cpp.html" title="X86MachObjectWriter.cpp" alt="" coords="1525,80,1699,107"/>
+<area shape="rect" id="node11" href="$PPCAsmParser_8cpp.html" title="PPCAsmParser.cpp" alt="" coords="1155,155,1291,181"/>
+<area shape="rect" id="node12" href="$PPCMCExpr_8cpp.html" title="PPCMCExpr.cpp" alt="" coords="1314,155,1433,181"/>
+<area shape="rect" id="node13" href="$PPCAsmPrinter_8cpp.html" title="PPCAsmPrinter.cpp" alt="" coords="1457,155,1594,181"/>
+<area shape="rect" id="node14" href="$PPCMCInstLower_8cpp.html" title="PPCMCInstLower.cpp" alt="" coords="1618,155,1766,181"/>
+</map>

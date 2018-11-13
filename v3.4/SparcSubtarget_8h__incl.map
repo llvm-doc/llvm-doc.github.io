@@ -1,0 +1,17 @@
+<map id="SparcSubtarget.h" name="SparcSubtarget.h">
+<area shape="rect" id="node2" href="$TargetSubtargetInfo_8h.html" title="llvm/Target/TargetSubtarget\lInfo.h" alt="" coords="773,80,955,121"/>
+<area shape="rect" id="node3" href="$MCSubtargetInfo_8h.html" title="llvm/MC/MCSubtargetInfo.h" alt="" coords="529,169,711,196"/>
+<area shape="rect" id="node23" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="783,393,945,420"/>
+<area shape="rect" id="node4" href="$MCInstrItineraries_8h.html" title="llvm/MC/MCInstrItineraries.h" alt="" coords="5,468,189,495"/>
+<area shape="rect" id="node9" href="$SubtargetFeature_8h.html" title="llvm/MC/SubtargetFeature.h" alt="" coords="393,244,575,271"/>
+<area shape="rect" id="node5" href="$MCSchedule_8h.html" title="llvm/MC/MCSchedule.h" alt="" coords="25,543,183,569"/>
+<area shape="rect" id="node10" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="479,319,601,345"/>
+<area shape="rect" id="node11" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="479,393,601,420"/>
+<area shape="rect" id="node12" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="469,543,611,569"/>
+<area shape="rect" id="node19" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="738,468,923,495"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="590,617,757,644"/>
+<area shape="rect" id="node20" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="809,543,967,569"/>
+<area shape="rect" id="node24" href="$c_2TargetMachine_8h.html" title="llvm&#45;c/TargetMachine.h" alt="" coords="1065,468,1221,495"/>
+<area shape="rect" id="node25" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="1094,617,1191,644"/>
+<area shape="rect" id="node26" href="$Target_8h.html" title="llvm&#45;c/Target.h" alt="" coords="1252,543,1359,569"/>
+</map>

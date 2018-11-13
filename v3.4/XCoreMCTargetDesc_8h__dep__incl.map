@@ -1,0 +1,19 @@
+<map id="XCoreMCTargetDesc.h" name="XCoreMCTargetDesc.h">
+<area shape="rect" id="node2" href="$XCoreMCTargetDesc_8cpp.html" title="XCoreMCTargetDesc.cpp" alt="" coords="522,80,690,107"/>
+<area shape="rect" id="node3" href="$XCore_8h.html" title="XCore.h" alt="" coords="715,80,783,107"/>
+<area shape="rect" id="node4" href="$XCoreDisassembler_8cpp.html" title="This file is part of the XCore Disassembler. " alt="" coords="5,155,164,181"/>
+<area shape="rect" id="node5" href="$XCoreTargetInfo_8cpp.html" title="XCoreTargetInfo.cpp" alt="" coords="189,155,330,181"/>
+<area shape="rect" id="node6" href="$XCoreAsmPrinter_8cpp.html" title="XCoreAsmPrinter.cpp" alt="" coords="54,304,201,331"/>
+<area shape="rect" id="node7" href="$XCoreISelLowering_8h.html" title="XCoreISelLowering.h" alt="" coords="517,155,660,181"/>
+<area shape="rect" id="node9" href="$XCoreISelDAGToDAG_8cpp.html" title="XCoreISelDAGToDAG.cpp" alt="" coords="225,304,401,331"/>
+<area shape="rect" id="node10" href="$XCoreISelLowering_8cpp.html" title="XCoreISelLowering.cpp" alt="" coords="636,304,792,331"/>
+<area shape="rect" id="node12" href="$XCoreTargetMachine_8cpp.html" title="XCoreTargetMachine.cpp" alt="" coords="817,304,985,331"/>
+<area shape="rect" id="node13" href="$XCoreFrameLowering_8cpp.html" title="XCoreFrameLowering.cpp" alt="" coords="786,155,957,181"/>
+<area shape="rect" id="node14" href="$XCoreInstrInfo_8cpp.html" title="XCoreInstrInfo.cpp" alt="" coords="981,155,1111,181"/>
+<area shape="rect" id="node15" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="1135,155,1322,181"/>
+<area shape="rect" id="node16" href="$XCoreRegisterInfo_8cpp.html" title="XCoreRegisterInfo.cpp" alt="" coords="1347,155,1497,181"/>
+<area shape="rect" id="node17" href="$XCoreSubtarget_8cpp.html" title="XCoreSubtarget.cpp" alt="" coords="1522,155,1661,181"/>
+<area shape="rect" id="node18" href="$XCoreTargetTransformInfo_8cpp.html" title="XCoreTargetTransformInfo.cpp" alt="" coords="1685,155,1884,181"/>
+<area shape="rect" id="node8" href="$XCoreTargetMachine_8h.html" title="XCoreTargetMachine.h" alt="" coords="455,229,610,256"/>
+<area shape="rect" id="node11" href="$XCoreSelectionDAGInfo_8cpp.html" title="XCoreSelectionDAGInfo.cpp" alt="" coords="425,304,611,331"/>
+</map>

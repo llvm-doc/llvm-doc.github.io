@@ -1,0 +1,37 @@
+<map id="TargetFolder.h" name="TargetFolder.h">
+<area shape="rect" id="node2" href="$MemoryBuiltins_8h.html" title="MemoryBuiltins.h" alt="" coords="1048,80,1168,107"/>
+<area shape="rect" id="node12" href="$BoundsChecking_8cpp.html" title="BoundsChecking.cpp" alt="" coords="1587,155,1730,181"/>
+<area shape="rect" id="node17" href="$ScalarEvolutionExpander_8h.html" title="ScalarEvolutionExpander.h" alt="" coords="4819,80,4994,107"/>
+<area shape="rect" id="node26" href="$InstCombine_8h.html" title="InstCombine.h" alt="" coords="2804,80,2908,107"/>
+<area shape="rect" id="node3" href="$BasicAliasAnalysis_8cpp.html" title="BasicAliasAnalysis.cpp" alt="" coords="527,155,681,181"/>
+<area shape="rect" id="node4" href="$InstructionSimplify_8cpp.html" title="InstructionSimplify.cpp" alt="" coords="705,155,857,181"/>
+<area shape="rect" id="node5" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="882,155,1017,181"/>
+<area shape="rect" id="node6" href="$MemoryBuiltins_8cpp.html" title="MemoryBuiltins.cpp" alt="" coords="1041,155,1175,181"/>
+<area shape="rect" id="node7" href="$MemoryDependenceAnalysis_8cpp.html" title="MemoryDependenceAnalysis.cpp" alt="" coords="1200,155,1411,181"/>
+<area shape="rect" id="node8" href="$ValueTracking_8cpp.html" title="ValueTracking.cpp" alt="" coords="1435,155,1563,181"/>
+<area shape="rect" id="node9" href="$InstCombineCalls_8cpp.html" title="InstCombineCalls.cpp" alt="" coords="1755,155,1901,181"/>
+<area shape="rect" id="node10" href="$InstCombineCompares_8cpp.html" title="InstCombineCompares.cpp" alt="" coords="1925,155,2101,181"/>
+<area shape="rect" id="node11" href="$InstructionCombining_8cpp.html" title="InstructionCombining.cpp" alt="" coords="2126,155,2293,181"/>
+<area shape="rect" id="node13" href="$GlobalOpt_8cpp.html" title="GlobalOpt.cpp" alt="" coords="5,155,109,181"/>
+<area shape="rect" id="node14" href="$DeadStoreElimination_8cpp.html" title="DeadStoreElimination.cpp" alt="" coords="133,155,304,181"/>
+<area shape="rect" id="node15" href="$GVN_8cpp.html" title="GVN.cpp" alt="" coords="329,155,402,181"/>
+<area shape="rect" id="node16" href="$Local_8cpp.html" title="Local.cpp" alt="" coords="427,155,504,181"/>
+<area shape="rect" id="node18" href="$ScalarEvolutionExpander_8cpp.html" title="ScalarEvolutionExpander.cpp" alt="" coords="4299,155,4487,181"/>
+<area shape="rect" id="node19" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="4512,155,4645,181"/>
+<area shape="rect" id="node20" href="$IndVarSimplify_8cpp.html" title="IndVarSimplify.cpp" alt="" coords="4670,155,4799,181"/>
+<area shape="rect" id="node21" href="$LoopIdiomRecognize_8cpp.html" title="LoopIdiomRecognize.cpp" alt="" coords="4823,155,4990,181"/>
+<area shape="rect" id="node22" href="$LoopRerollPass_8cpp.html" title="LoopRerollPass.cpp" alt="" coords="5014,155,5149,181"/>
+<area shape="rect" id="node23" href="$LoopStrengthReduce_8cpp.html" title="LoopStrengthReduce.cpp" alt="" coords="5173,155,5339,181"/>
+<area shape="rect" id="node24" href="$LoopUnrollRuntime_8cpp.html" title="LoopUnrollRuntime.cpp" alt="" coords="5364,155,5519,181"/>
+<area shape="rect" id="node25" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="5543,155,5670,181"/>
+<area shape="rect" id="node27" href="$InstCombineAddSub_8cpp.html" title="InstCombineAddSub.cpp" alt="" coords="3499,155,3663,181"/>
+<area shape="rect" id="node28" href="$InstCombineAndOrXor_8cpp.html" title="InstCombineAndOrXor.cpp" alt="" coords="3687,155,3862,181"/>
+<area shape="rect" id="node29" href="$InstCombineCasts_8cpp.html" title="InstCombineCasts.cpp" alt="" coords="3886,155,4037,181"/>
+<area shape="rect" id="node30" href="$InstCombineLoadStoreAlloca_8cpp.html" title="InstCombineLoadStoreAlloca.cpp" alt="" coords="4061,155,4275,181"/>
+<area shape="rect" id="node31" href="$InstCombineMulDivRem_8cpp.html" title="InstCombineMulDivRem.cpp" alt="" coords="2317,155,2501,181"/>
+<area shape="rect" id="node32" href="$InstCombinePHI_8cpp.html" title="InstCombinePHI.cpp" alt="" coords="2526,155,2666,181"/>
+<area shape="rect" id="node33" href="$InstCombineSelect_8cpp.html" title="InstCombineSelect.cpp" alt="" coords="2691,155,2845,181"/>
+<area shape="rect" id="node34" href="$InstCombineShifts_8cpp.html" title="InstCombineShifts.cpp" alt="" coords="2870,155,3021,181"/>
+<area shape="rect" id="node35" href="$InstCombineSimplifyDemanded_8cpp.html" title="InstCombineSimplifyDemanded.cpp" alt="" coords="3045,155,3272,181"/>
+<area shape="rect" id="node36" href="$InstCombineVectorOps_8cpp.html" title="InstCombineVectorOps.cpp" alt="" coords="3296,155,3475,181"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="R600OptimizeVectorRegisters.cpp" name="R600OptimizeVectorRegisters.cpp">
+<area shape="rect" id="node2" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="766,80,911,107"/>
+<area shape="rect" id="node3" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="904,505,1085,531"/>
+<area shape="rect" id="node12" href="$AMDGPU_8h.html" title="AMDGPU.h" alt="" coords="245,415,334,442"/>
+<area shape="rect" id="node20" href="$R600InstrInfo_8h.html" title="Interface definition for R600InstrInfo. " alt="" coords="1965,80,2075,107"/>
+<area shape="rect" id="node33" href="$DFAPacketizer_8h.html" title="llvm/CodeGen/DFAPacketizer.h" alt="" coords="2363,505,2567,531"/>
+<area shape="rect" id="node40" href="$MachineDominators_8h.html" title="llvm/CodeGen/MachineDominators.h" alt="" coords="1222,237,1453,263"/>
+<area shape="rect" id="node43" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="802,319,1009,360"/>
+<area shape="rect" id="node44" href="$MachineLoopInfo_8h.html" title="llvm/CodeGen/MachineLoop\lInfo.h" alt="" coords="1009,229,1193,271"/>
+<area shape="rect" id="node46" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="358,415,517,442"/>
+<area shape="rect" id="node47" href="$MachineInstrBuilder_8h.html" title="llvm/CodeGen/MachineInstr\lBuilder.h" alt="" coords="1663,408,1844,449"/>
+<area shape="rect" id="node49" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2455,408,2657,449"/>
+<area shape="rect" id="node4" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="961,751,1103,777"/>
+<area shape="rect" id="node7" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1239,833,1398,859"/>
+<area shape="rect" id="node9" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="1066,594,1238,621"/>
+<area shape="rect" id="node10" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1117,676,1302,703"/>
+<area shape="rect" id="node13" href="$TargetRegistry_8h.html" title="llvm/Support/TargetRegistry.h" alt="" coords="158,505,349,531"/>
+<area shape="rect" id="node17" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="693,505,880,531"/>
+<area shape="rect" id="node14" href="$Triple_8h.html" title="llvm/ADT/Triple.h" alt="" coords="227,594,349,621"/>
+<area shape="rect" id="node15" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="536,594,699,621"/>
+<area shape="rect" id="node16" href="$include_2llvm-c_2Disassembler_8h.html" title="llvm&#45;c/Disassembler.h" alt="" coords="5,676,152,703"/>
+<area shape="rect" id="node18" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="425,594,511,621"/>
+<area shape="rect" id="node19" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="556,676,737,703"/>
+<area shape="rect" id="node21" href="$AMDGPUInstrInfo_8h.html" title="Contains the definition of a TargetInstrInfo class that is common to all AMD GPUs. " alt="" coords="2084,326,2220,353"/>
+<area shape="rect" id="node37" href="$R600Defines_8h.html" title="R600Defines.h" alt="" coords="1783,155,1887,181"/>
+<area shape="rect" id="node38" href="$R600RegisterInfo_8h.html" title="Interface definition for R600RegisterInfo. " alt="" coords="1955,155,2085,181"/>
+<area shape="rect" id="node22" href="$AMDGPURegisterInfo_8h.html" title="TargetRegisterInfo interface that is implemented by all hw codegen targets. " alt="" coords="1869,415,2027,442"/>
+<area shape="rect" id="node32" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="2247,415,2431,442"/>
+<area shape="rect" id="node23" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="1489,594,1631,621"/>
+<area shape="rect" id="node25" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="2165,497,2339,539"/>
+<area shape="rect" id="node24" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1382,751,1554,777"/>
+<area shape="rect" id="node26" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2166,587,2354,628"/>
+<area shape="rect" id="node27" href="$MCRegisterInfo_8h.html" title="llvm/MC/MCRegisterInfo.h" alt="" coords="1681,594,1853,621"/>
+<area shape="rect" id="node28" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1691,676,1842,703"/>
+<area shape="rect" id="node29" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1855,751,2027,777"/>
+<area shape="rect" id="node30" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1736,825,1899,867"/>
+<area shape="rect" id="node31" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1578,751,1729,777"/>
+<area shape="rect" id="node35" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1668,505,1884,531"/>
+<area shape="rect" id="node39" href="$AMDGPUTargetMachine_8h.html" title="The AMDGPU TargetMachine interface definition for hw codgen targets. " alt="" coords="1955,237,2130,263"/>
+<area shape="rect" id="node41" href="$DominatorInternals_8h.html" title="llvm/Analysis/DominatorInternals.h" alt="" coords="1217,326,1436,353"/>
+<area shape="rect" id="node42" href="$Dominators_8h.html" title="llvm/Analysis/Dominators.h" alt="" coords="1215,415,1390,442"/>
+<area shape="rect" id="node45" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1033,326,1193,353"/>
+<area shape="rect" id="node48" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="1959,497,2140,539"/>
+<area shape="rect" id="node50" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="2581,594,2739,621"/>
+</map>

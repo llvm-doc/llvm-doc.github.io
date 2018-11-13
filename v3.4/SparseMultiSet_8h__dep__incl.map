@@ -1,0 +1,18 @@
+<map id="SparseMultiSet.h" name="SparseMultiSet.h">
+<area shape="rect" id="node2" href="$ScheduleDAGInstrs_8h.html" title="ScheduleDAGInstrs.h" alt="" coords="710,80,855,107"/>
+<area shape="rect" id="node3" href="$MachineScheduler_8h.html" title="MachineScheduler.h" alt="" coords="285,155,424,181"/>
+<area shape="rect" id="node5" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="64,229,253,256"/>
+<area shape="rect" id="node12" href="$DFAPacketizer_8cpp.html" title="DFAPacketizer.cpp" alt="" coords="448,155,581,181"/>
+<area shape="rect" id="node13" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="605,155,773,181"/>
+<area shape="rect" id="node14" href="$ScheduleDAGInstrs_8cpp.html" title="ScheduleDAGInstrs.cpp" alt="" coords="798,155,957,181"/>
+<area shape="rect" id="node15" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="981,155,1166,181"/>
+<area shape="rect" id="node16" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="1190,155,1429,181"/>
+<area shape="rect" id="node17" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1453,155,1641,181"/>
+<area shape="rect" id="node4" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="278,229,431,256"/>
+<area shape="rect" id="node8" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="455,229,585,256"/>
+<area shape="rect" id="node9" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="609,229,778,256"/>
+<area shape="rect" id="node6" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="5,304,208,331"/>
+<area shape="rect" id="node7" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="233,304,415,331"/>
+<area shape="rect" id="node10" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="519,304,708,331"/>
+<area shape="rect" id="node11" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="733,304,915,331"/>
+</map>

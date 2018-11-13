@@ -1,0 +1,42 @@
+<map id="HexagonRemoveSZExtArgs.cpp" name="HexagonRemoveSZExtArgs.cpp">
+<area shape="rect" id="node2" href="$Hexagon_8h.html" title="Hexagon.h" alt="" coords="2335,237,2418,263"/>
+<area shape="rect" id="node17" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="957,483,1100,509"/>
+<area shape="rect" id="node32" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="1947,483,2033,509"/>
+<area shape="rect" id="node37" href="$HexagonTargetMachine_8h.html" title="HexagonTargetMachine.h" alt="" coords="2135,80,2303,107"/>
+<area shape="rect" id="node45" href="$MachineFunctionAnalysis_8h.html" title="llvm/CodeGen/MachineFunction\lAnalysis.h" alt="" coords="2780,229,2987,271"/>
+<area shape="rect" id="node46" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="219,408,345,435"/>
+<area shape="rect" id="node50" href="$Transforms_2Scalar_8h.html" title="llvm/Transforms/Scalar.h" alt="" coords="2909,80,3073,107"/>
+<area shape="rect" id="node3" href="$HexagonMCTargetDesc_8h.html" title="MCTargetDesc/HexagonMCTarget\lDesc.h" alt="" coords="2243,319,2462,360"/>
+<area shape="rect" id="node7" href="$TargetLowering_8h.html" title="llvm/Target/TargetLowering.h" alt="" coords="1648,326,1836,353"/>
+<area shape="rect" id="node31" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2750,408,2937,435"/>
+<area shape="rect" id="node8" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="532,483,683,509"/>
+<area shape="rect" id="node13" href="$DAGCombine_8h.html" title="llvm/CodeGen/DAGCombine.h" alt="" coords="1276,408,1472,435"/>
+<area shape="rect" id="node14" href="$RuntimeLibcalls_8h.html" title="llvm/CodeGen/RuntimeLibcalls.h" alt="" coords="1497,408,1705,435"/>
+<area shape="rect" id="node15" href="$SelectionDAGNodes_8h.html" title="llvm/CodeGen/SelectionDAGNodes.h" alt="" coords="1017,408,1251,435"/>
+<area shape="rect" id="node20" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="1355,557,1486,584"/>
+<area shape="rect" id="node23" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="319,557,463,584"/>
+<area shape="rect" id="node28" href="$InlineAsm_8h.html" title="llvm/IR/InlineAsm.h" alt="" coords="2146,557,2279,584"/>
+<area shape="rect" id="node29" href="$CallSite_8h.html" title="llvm/Support/CallSite.h" alt="" coords="840,408,993,435"/>
+<area shape="rect" id="node30" href="$TargetCallingConv_8h.html" title="llvm/Target/TargetCalling\lConv.h" alt="" coords="2513,632,2680,673"/>
+<area shape="rect" id="node9" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1105,796,1264,823"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1105,721,1264,748"/>
+<area shape="rect" id="node18" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1222,639,1361,666"/>
+<area shape="rect" id="node24" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="727,639,880,666"/>
+<area shape="rect" id="node25" href="$InstrTypes_8h.html" title="llvm/IR/InstrTypes.h" alt="" coords="961,557,1096,584"/>
+<area shape="rect" id="node26" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2304,557,2489,584"/>
+<area shape="rect" id="node27" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="2244,639,2387,666"/>
+<area shape="rect" id="node35" href="$CodeGen_8h.html" title="llvm/Support/CodeGen.h" alt="" coords="2321,483,2483,509"/>
+<area shape="rect" id="node36" href="$TargetOptions_8h.html" title="llvm/Target/TargetOptions.h" alt="" coords="2755,639,2937,666"/>
+<area shape="rect" id="node33" href="$PassSupport_8h.html" title="llvm/PassSupport.h" alt="" coords="1939,557,2071,584"/>
+<area shape="rect" id="node34" href="$PassAnalysisSupport_8h.html" title="llvm/PassAnalysisSupport.h" alt="" coords="1735,557,1914,584"/>
+<area shape="rect" id="node38" href="$HexagonFrameLowering_8h.html" title="HexagonFrameLowering.h" alt="" coords="2309,155,2479,181"/>
+<area shape="rect" id="node39" href="$HexagonSubtarget_8h.html" title="HexagonSubtarget.h" alt="" coords="2537,326,2675,353"/>
+<area shape="rect" id="node41" href="$HexagonISelLowering_8h.html" title="HexagonISelLowering.h" alt="" coords="1763,155,1919,181"/>
+<area shape="rect" id="node42" href="$HexagonInstrInfo_8h.html" title="HexagonInstrInfo.h" alt="" coords="2155,155,2284,181"/>
+<area shape="rect" id="node43" href="$HexagonSelectionDAGInfo_8h.html" title="HexagonSelectionDAGInfo.h" alt="" coords="1943,155,2130,181"/>
+<area shape="rect" id="node44" href="$DataLayout_8h.html" title="llvm/IR/DataLayout.h" alt="" coords="623,408,765,435"/>
+<area shape="rect" id="node40" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="1944,237,2169,263"/>
+<area shape="rect" id="node47" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="1273,483,1405,509"/>
+<area shape="rect" id="node48" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="43,483,185,509"/>
+<area shape="rect" id="node49" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="209,483,355,509"/>
+</map>

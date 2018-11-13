@@ -1,0 +1,20 @@
+<map id="llvm::InlineFunctionInfo" name="llvm::InlineFunctionInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::WeakVH, 8 \&gt;" alt="" coords="2346,61,2475,102"/>
+<area shape="rect" id="node3" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::WeakVH \&gt;" alt="" coords="2025,26,2172,67"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::WeakVH, isPodLike\l\&lt; llvm::WeakVH \&gt;::value \&gt;" alt="" coords="1040,5,1244,61"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T \&gt;" alt="" coords="617,86,792,127"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike\&lt; T \&gt;\l::value \&gt;" alt="" coords="1268,88,1443,144"/>
+<area shape="rect" id="node11" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; T, isPodLike \&gt;" alt="" coords="841,121,1016,162"/>
+<area shape="rect" id="node15" href="$classllvm_1_1SmallVectorTemplateBase.html" title="llvm::SmallVectorTemplate\lBase\&lt; llvm::AllocaInst\l *, isPodLike\&lt; llvm::AllocaInst\l * \&gt;::value \&gt;" alt="" coords="1467,162,1657,233"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorBase.html" title="llvm::SmallVectorBase" alt="" coords="161,99,312,125"/>
+<area shape="rect" id="node8" href="$classllvm_1_1SmallVectorTemplateCommon.html" title="llvm::SmallVectorTemplate\lCommon\&lt; T, typename \&gt;" alt="" coords="361,127,536,169"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\&lt; T \&gt;" alt="" coords="1681,103,1857,129"/>
+<area shape="rect" id="node12" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="2034,95,2163,137"/>
+<area shape="rect" id="node14" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::AllocaInst * \&gt;" alt="" coords="2025,163,2172,205"/>
+<area shape="rect" id="node13" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::AllocaInst *, 4 \&gt;" alt="" coords="2339,153,2483,194"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DataLayout.html" title="llvm::DataLayout" alt="" coords="2353,219,2469,245"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ImmutablePass.html" title="llvm::ImmutablePass" alt="" coords="2029,229,2169,256"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ModulePass.html" title="llvm::ModulePass" alt="" coords="1709,284,1830,311"/>
+<area shape="rect" id="node21" href="$classllvm_1_1CallGraph.html" title="llvm::CallGraph" alt="" coords="2357,287,2465,313"/>
+<area shape="rect" id="node19" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="1316,284,1395,311"/>
+</map>

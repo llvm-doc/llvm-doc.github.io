@@ -1,0 +1,25 @@
+<map id="llvm::DominatorTree" name="llvm::DominatorTree">
+<area shape="rect" id="node2" href="$classllvm_1_1FunctionPass.html" title="llvm::FunctionPass" alt="" coords="1839,124,1969,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Pass.html" title="llvm::Pass" alt="" coords="1531,5,1610,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::BasicBlock \&gt;" alt="" coords="1821,358,1987,399"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DominatorBase.html" title="llvm::DominatorBase\l\&lt; llvm::BasicBlock \&gt;" alt="" coords="1501,254,1640,295"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DominatorBase.html" title="llvm::DominatorBase\l\&lt; NodeT \&gt;" alt="" coords="1149,287,1287,329"/>
+<area shape="rect" id="node22" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; NodeT \&gt;" alt="" coords="1488,545,1653,586"/>
+<area shape="rect" id="node10" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::BasicBlock * \&gt;" alt="" coords="1145,1027,1291,1083"/>
+<area shape="rect" id="node11" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::BasicBlock\l *, llvm::BasicBlock *, DenseMap\lInfo\&lt; llvm::BasicBlock * \&gt; \&gt;,\l llvm::BasicBlock *, llvm::BasicBlock\l *, DenseMapInfo\&lt; llvm::BasicBlock * \&gt; \&gt;" alt="" coords="631,1105,886,1205"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT \&gt;" alt="" coords="680,762,837,803"/>
+<area shape="rect" id="node17" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, DomTreeNode\lBase\&lt; llvm::BasicBlock \&gt; * \&gt;" alt="" coords="1123,901,1313,957"/>
+<area shape="rect" id="node19" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; llvm\l::BasicBlock *, llvm\l::DominatorTreeBase::InfoRec \&gt;" alt="" coords="1116,416,1320,472"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, llvm::DominatorTreeBase\l::InfoRec \&gt;" alt="" coords="1128,639,1308,695"/>
+<area shape="rect" id="node26" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, NodeT * \&gt;" alt="" coords="1137,821,1299,862"/>
+<area shape="rect" id="node28" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; NodeT\l *, DomTreeNodeBase\&lt;\l NodeT \&gt; * \&gt;" alt="" coords="1137,559,1299,615"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; KeyT, ValueT,\l KeyInfoT \&gt;, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="393,747,580,818"/>
+<area shape="rect" id="node14" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DerivedT, KeyT, ValueT,\l KeyInfoT \&gt;" alt="" coords="5,755,177,811"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; llvm::BasicBlock \&gt;" alt="" coords="1489,107,1652,149"/>
+<area shape="rect" id="node16" href="$classllvm_1_1DomTreeNodeBase.html" title="llvm::DomTreeNodeBase\l\&lt; NodeT \&gt;" alt="" coords="1137,107,1299,149"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::BasicBlock\l *, DomTreeNodeBase\&lt; llvm\l::BasicBlock \&gt; *, DenseMapInfo\l\&lt; llvm::BasicBlock * \&gt; \&gt;, llvm\l::BasicBlock *, DomTreeNodeBase\l\&lt; llvm::BasicBlock \&gt; *, DenseMapInfo\l\&lt; llvm::BasicBlock * \&gt; \&gt;" alt="" coords="641,951,877,1081"/>
+<area shape="rect" id="node20" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; llvm::BasicBlock\l *, llvm::DominatorTreeBase\l::InfoRec, DenseMapInfo\&lt; llvm\l::BasicBlock * \&gt; \&gt;, llvm::BasicBlock\l *, llvm::DominatorTreeBase::InfoRec,\l DenseMapInfo\&lt; llvm::BasicBlock * \&gt; \&gt;" alt="" coords="637,308,880,423"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; NodeT *,\l llvm::DominatorTreeBase\l::InfoRec, DenseMapInfo\l\&lt; NodeT * \&gt; \&gt;, NodeT *, llvm\l::DominatorTreeBase::InfoRec,\l DenseMapInfo\&lt; NodeT * \&gt; \&gt;" alt="" coords="660,623,857,737"/>
+<area shape="rect" id="node27" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; NodeT *,\l NodeT *, DenseMapInfo\l\&lt; NodeT * \&gt; \&gt;, NodeT *,\l NodeT *, DenseMapInfo\&lt;\l NodeT * \&gt; \&gt;" alt="" coords="674,827,843,927"/>
+<area shape="rect" id="node29" href="$classllvm_1_1DenseMapBase.html" title="llvm::DenseMapBase\l\&lt; DenseMap\&lt; NodeT *,\l DomTreeNodeBase\&lt; NodeT\l \&gt; *, DenseMapInfo\&lt; NodeT\l * \&gt; \&gt;, NodeT *, DomTreeNodeBase\l\&lt; NodeT \&gt; *, DenseMapInfo\&lt; NodeT * \&gt; \&gt;" alt="" coords="629,498,888,598"/>
+</map>

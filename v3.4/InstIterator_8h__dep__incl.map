@@ -1,0 +1,34 @@
+<map id="InstIterator.h" name="InstIterator.h">
+<area shape="rect" id="node2" href="$ConstantsScanner_8h.html" title="ConstantsScanner.h" alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node3" href="$AliasAnalysisEvaluator_8cpp.html" title="AliasAnalysisEvaluator.cpp" alt="" coords="167,80,341,107"/>
+<area shape="rect" id="node4" href="$AliasSetTracker_8cpp.html" title="AliasSetTracker.cpp" alt="" coords="366,80,505,107"/>
+<area shape="rect" id="node5" href="$Delinearization_8cpp.html" title="Delinearization.cpp" alt="" coords="529,80,659,107"/>
+<area shape="rect" id="node6" href="$DependenceAnalysis_8cpp.html" title="DependenceAnalysis.cpp" alt="" coords="683,80,849,107"/>
+<area shape="rect" id="node7" href="$FindUsedTypes_8cpp.html" title="FindUsedTypes.cpp" alt="" coords="873,80,1008,107"/>
+<area shape="rect" id="node8" href="$GlobalsModRef_8cpp.html" title="GlobalsModRef.cpp" alt="" coords="1032,80,1167,107"/>
+<area shape="rect" id="node9" href="$MemDepPrinter_8cpp.html" title="MemDepPrinter.cpp" alt="" coords="1191,80,1327,107"/>
+<area shape="rect" id="node10" href="$ScalarEvolution_8cpp.html" title="ScalarEvolution.cpp" alt="" coords="1352,80,1487,107"/>
+<area shape="rect" id="node11" href="$Function_8cpp.html" title="Function.cpp" alt="" coords="1511,80,1607,107"/>
+<area shape="rect" id="node12" href="$MipsConstantIslandPass_8cpp.html" title="MipsConstantIslandPass.cpp" alt="" coords="1631,80,1818,107"/>
+<area shape="rect" id="node13" href="$NVPTXLowerAggrCopies_8cpp.html" title="NVPTXLowerAggrCopies.cpp" alt="" coords="1842,80,2031,107"/>
+<area shape="rect" id="node14" href="$NVPTXSplitBBatBar_8cpp.html" title="NVPTXSplitBBatBar.cpp" alt="" coords="2056,80,2220,107"/>
+<area shape="rect" id="node15" href="$NVPTXUtilities_8cpp.html" title="NVPTXUtilities.cpp" alt="" coords="2245,80,2375,107"/>
+<area shape="rect" id="node16" href="$BoundsChecking_8cpp.html" title="BoundsChecking.cpp" alt="" coords="2399,80,2541,107"/>
+<area shape="rect" id="node17" href="$GCOVProfiling_8cpp.html" title="GCOVProfiling.cpp" alt="" coords="2565,80,2695,107"/>
+<area shape="rect" id="node18" href="$FunctionAttrs_8cpp.html" title="FunctionAttrs.cpp" alt="" coords="2719,80,2842,107"/>
+<area shape="rect" id="node19" href="$lib_2Transforms_2ObjCARC_2ObjCARC_8h.html" title="ObjCARC.h" alt="" coords="2866,80,2954,107"/>
+<area shape="rect" id="node27" href="$ObjCARCExpand_8cpp.html" title="ObjCARCExpand.cpp" alt="" coords="3523,155,3667,181"/>
+<area shape="rect" id="node30" href="$ADCE_8cpp.html" title="ADCE.cpp" alt="" coords="3029,80,3111,107"/>
+<area shape="rect" id="node31" href="$ConstantProp_8cpp.html" title="ConstantProp.cpp" alt="" coords="3135,80,3259,107"/>
+<area shape="rect" id="node32" href="$DCE_8cpp.html" title="DCE.cpp" alt="" coords="3283,80,3355,107"/>
+<area shape="rect" id="node33" href="$SampleProfile_8cpp.html" title="SampleProfile.cpp" alt="" coords="3380,80,3507,107"/>
+<area shape="rect" id="node20" href="$ARCRuntimeEntryPoints_8h.html" title="ARCRuntimeEntryPoints.h" alt="" coords="2259,155,2431,181"/>
+<area shape="rect" id="node21" href="$ObjCARCContract_8cpp.html" title="ObjCARCContract.cpp" alt="" coords="2187,229,2337,256"/>
+<area shape="rect" id="node22" href="$ObjCARCOpts_8cpp.html" title="ObjCARCOpts.cpp" alt="" coords="2383,229,2512,256"/>
+<area shape="rect" id="node23" href="$DependencyAnalysis_8cpp.html" title="DependencyAnalysis.cpp" alt="" coords="2507,155,2671,181"/>
+<area shape="rect" id="node24" href="$ObjCARC_8cpp.html" title="ObjCARC.cpp" alt="" coords="2695,155,2797,181"/>
+<area shape="rect" id="node25" href="$ObjCARCAliasAnalysis_8cpp.html" title="ObjCARCAliasAnalysis.cpp" alt="" coords="2821,155,2999,181"/>
+<area shape="rect" id="node26" href="$ObjCARCAPElim_8cpp.html" title="ObjCARCAPElim.cpp" alt="" coords="3023,155,3168,181"/>
+<area shape="rect" id="node28" href="$ObjCARCUtil_8cpp.html" title="ObjCARCUtil.cpp" alt="" coords="3192,155,3313,181"/>
+<area shape="rect" id="node29" href="$ProvenanceAnalysis_8cpp.html" title="ProvenanceAnalysis.cpp" alt="" coords="3337,155,3499,181"/>
+</map>

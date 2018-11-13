@@ -1,0 +1,4 @@
+<map id="llvm::StringMapIterator&lt; ValueTy &gt;" name="llvm::StringMapIterator&lt; ValueTy &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1StringMapConstIterator.html" title="llvm::StringMapConstIterator\l\&lt; ValueTy \&gt;" alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="13,5,181,32"/>
+</map>

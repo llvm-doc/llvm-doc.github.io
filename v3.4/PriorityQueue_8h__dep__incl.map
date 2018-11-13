@@ -1,0 +1,9 @@
+<map id="PriorityQueue.h" name="PriorityQueue.h">
+<area shape="rect" id="node2" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="51,80,205,107"/>
+<area shape="rect" id="node3" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="229,80,419,107"/>
+<area shape="rect" id="node6" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="450,80,619,107"/>
+<area shape="rect" id="node4" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="5,155,208,181"/>
+<area shape="rect" id="node5" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="233,155,415,181"/>
+<area shape="rect" id="node7" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="440,155,629,181"/>
+<area shape="rect" id="node8" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="654,155,837,181"/>
+</map>

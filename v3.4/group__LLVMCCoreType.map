@@ -1,0 +1,9 @@
+<map id="Types" name="Types">
+<area shape="rect" id="node1" href="$group__LLVMCCoreTypeFloat.html" title="Floating Point Types" alt="" coords="207,5,345,32"/>
+<area shape="rect" id="node3" href="$group__LLVMCCoreTypeFunction.html" title="Function Types" alt="" coords="221,56,331,83"/>
+<area shape="rect" id="node4" href="$group__LLVMCCoreTypeStruct.html" title="Structure Types" alt="" coords="220,107,332,133"/>
+<area shape="rect" id="node5" href="$group__LLVMCCoreTypeSequential.html" title="Sequential Types" alt="" coords="216,157,336,184"/>
+<area shape="rect" id="node7" href="$group__LLVMCCoreTypeInt.html" title="Integer Types" alt="" coords="227,208,325,235"/>
+<area shape="rect" id="node8" href="$group__LLVMCCoreTypeOther.html" title="Other Types" alt="" coords="231,259,321,285"/>
+<area shape="rect" id="node6" href="$group__LLVMCCore.html" title="Core" alt="" coords="5,132,55,159"/>
+</map>

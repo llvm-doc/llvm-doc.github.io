@@ -1,0 +1,18 @@
+<map id="MachineFunctionAnalysis.h" name="MachineFunctionAnalysis.h">
+<area shape="rect" id="node2" href="$LLVMTargetMachine_8cpp.html" title="LLVMTargetMachine.cpp" alt="" coords="5,80,171,107"/>
+<area shape="rect" id="node3" href="$MachineFunctionAnalysis_8cpp.html" title="MachineFunctionAnalysis.cpp" alt="" coords="195,80,387,107"/>
+<area shape="rect" id="node4" href="$MachineFunctionPass_8cpp.html" title="MachineFunctionPass.cpp" alt="" coords="411,80,584,107"/>
+<area shape="rect" id="node5" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="609,80,794,107"/>
+<area shape="rect" id="node6" href="$HexagonRemoveSZExtArgs_8cpp.html" title="HexagonRemoveSZExtArgs.cpp" alt="" coords="818,80,1022,107"/>
+<area shape="rect" id="node7" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1046,80,1234,107"/>
+<area shape="rect" id="node8" href="$NVPTXAllocaHoisting_8h.html" title="NVPTXAllocaHoisting.h" alt="" coords="1259,80,1416,107"/>
+<area shape="rect" id="node10" href="$NVPTXTargetMachine_8cpp.html" title="NVPTXTargetMachine.cpp" alt="" coords="1366,155,1541,181"/>
+<area shape="rect" id="node11" href="$NVPTXGenericToNVVM_8cpp.html" title="NVPTXGenericToNVVM.cpp" alt="" coords="1865,80,2050,107"/>
+<area shape="rect" id="node12" href="$NVPTXLowerAggrCopies_8h.html" title="NVPTXLowerAggrCopies.h" alt="" coords="1491,80,1666,107"/>
+<area shape="rect" id="node14" href="$NVPTXSplitBBatBar_8h.html" title="NVPTXSplitBBatBar.h" alt="" coords="1690,80,1841,107"/>
+<area shape="rect" id="node16" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="2075,80,2264,107"/>
+<area shape="rect" id="node17" href="$AMDILCFGStructurizer_8cpp.html" title="AMDILCFGStructurizer.cpp" alt="" coords="2288,80,2467,107"/>
+<area shape="rect" id="node9" href="$NVPTXAllocaHoisting_8cpp.html" title="NVPTXAllocaHoisting.cpp" alt="" coords="1171,155,1341,181"/>
+<area shape="rect" id="node13" href="$NVPTXLowerAggrCopies_8cpp.html" title="NVPTXLowerAggrCopies.cpp" alt="" coords="1565,155,1755,181"/>
+<area shape="rect" id="node15" href="$NVPTXSplitBBatBar_8cpp.html" title="NVPTXSplitBBatBar.cpp" alt="" coords="1779,155,1943,181"/>
+</map>

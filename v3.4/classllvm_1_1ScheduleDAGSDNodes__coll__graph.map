@@ -1,0 +1,31 @@
+<map id="llvm::ScheduleDAGSDNodes" name="llvm::ScheduleDAGSDNodes">
+<area shape="rect" id="node2" href="$classllvm_1_1ScheduleDAG.html" title="llvm::ScheduleDAG" alt="" coords="1447,372,1580,399"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MachineFunction.html" title="llvm::MachineFunction" alt="" coords="1169,321,1320,348"/>
+<area shape="rect" id="node4" href="$classllvm_1_1SUnit.html" title="SUnit &#45; Scheduling unit. This is a node in the scheduling DAG. " alt="" coords="1203,587,1286,613"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::SDep, 4 \&gt;" alt="" coords="822,690,951,731"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVectorImpl.html" title="llvm::SmallVectorImpl\l\&lt; llvm::SDep \&gt;" alt="" coords="481,722,628,763"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="490,657,619,698"/>
+<area shape="rect" id="node8" href="$structllvm_1_1MCSchedClassDesc.html" title="llvm::MCSchedClassDesc" alt="" coords="471,423,639,449"/>
+<area shape="rect" id="node17" href="$classllvm_1_1MCRegisterClass.html" title="MCRegisterClass &#45; Base class of TargetRegisterClass. " alt="" coords="480,119,629,145"/>
+<area shape="rect" id="node27" href="$classllvm_1_1MCAsmInfo.html" title="llvm::MCAsmInfo" alt="" coords="495,1152,614,1179"/>
+<area shape="rect" id="node39" href="$classllvm_1_1MCSchedModel.html" title="llvm::MCSchedModel" alt="" coords="483,1609,626,1636"/>
+<area shape="rect" id="node44" href="$classllvm_1_1SelectionDAG.html" title="llvm::SelectionDAG" alt="" coords="488,1796,621,1823"/>
+<area shape="rect" id="node20" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="818,1520,955,1547"/>
+<area shape="rect" id="node21" href="$classllvm_1_1TargetOptions.html" title="llvm::TargetOptions" alt="" coords="489,2040,621,2067"/>
+<area shape="rect" id="node38" href="$classllvm_1_1InstrItineraryData.html" title="llvm::InstrItineraryData" alt="" coords="812,1863,961,1889"/>
+<area shape="rect" id="node40" href="$structllvm_1_1InstrItinerary.html" title="llvm::InstrItinerary" alt="" coords="493,2356,616,2383"/>
+<area shape="rect" id="node42" href="$structllvm_1_1InstrStage.html" title="llvm::InstrStage" alt="" coords="499,2407,610,2433"/>
+<area shape="rect" id="node13" href="$classllvm_1_1TargetRegisterClass.html" title="llvm::TargetRegisterClass" alt="" coords="803,271,970,297"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; MCPhysReg \&gt;" alt="" coords="457,169,652,196"/>
+<area shape="rect" id="node25" href="$classllvm_1_1Target.html" title="llvm::Target" alt="" coords="511,1469,599,1496"/>
+<area shape="rect" id="node26" href="$classllvm_1_1MCCodeGenInfo.html" title="llvm::MCCodeGenInfo" alt="" coords="481,1520,628,1547"/>
+<area shape="rect" id="node33" href="$classllvm_1_1MachineRegisterInfo.html" title="llvm::MachineRegisterInfo" alt="" coords="1160,169,1329,196"/>
+<area shape="rect" id="node34" href="$classllvm_1_1TargetRegisterInfo.html" title="llvm::TargetRegisterInfo" alt="" coords="1166,220,1323,247"/>
+<area shape="rect" id="node35" href="$classllvm_1_1MCRegisterInfo.html" title="llvm::MCRegisterInfo" alt="" coords="817,169,957,196"/>
+<area shape="rect" id="node36" href="$classllvm_1_1TargetInstrInfo.html" title="llvm::TargetInstrInfo" alt="" coords="1177,271,1312,297"/>
+<area shape="rect" id="node37" href="$classllvm_1_1MCInstrInfo.html" title="llvm::MCInstrInfo" alt="" coords="827,220,946,247"/>
+<area shape="rect" id="node47" href="$classllvm_1_1MachineBasicBlock.html" title="llvm::MachineBasicBlock" alt="" coords="1431,1947,1596,1973"/>
+<area shape="rect" id="node48" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; Machine\lBasicBlock \&gt;" alt="" coords="1162,1939,1327,1981"/>
+<area shape="rect" id="node49" href="$classllvm_1_1ilist__half__node.html" title="llvm::ilist_half_node\l\&lt; MachineBasicBlock \&gt;" alt="" coords="807,1927,966,1969"/>
+<area shape="rect" id="node50" href="$classllvm_1_1ilist__node.html" title="llvm::ilist_node\&lt; NodeTy \&gt;" alt="" coords="801,1993,972,2020"/>
+</map>

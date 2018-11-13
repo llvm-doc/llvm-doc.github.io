@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1MCSection.html" title="llvm::MCSection" alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$classllvm_1_1MCSectionCOFF.html" title="MCSectionCOFF &#45; This represents a section on Windows. " alt="" coords="171,5,322,32"/>
+<area shape="rect" id="node3" href="$classllvm_1_1MCSectionELF.html" title="llvm::MCSectionELF" alt="" coords="177,56,316,83"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MCSectionMachO.html" title="llvm::MCSectionMachO" alt="" coords="168,107,325,133"/>
+<area shape="rect" id="node5" href="$classllvm_1_1NVPTXSection.html" title="llvm::NVPTXSection" alt="" coords="177,157,316,184"/>
+</map>

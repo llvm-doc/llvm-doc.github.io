@@ -1,0 +1,6 @@
+<map id="llvm::NVPTXTargetMachine" name="llvm::NVPTXTargetMachine">
+<area shape="rect" id="node4" href="$classllvm_1_1NVPTXTargetMachine32.html" title="llvm::NVPTXTargetMachine32" alt="" coords="5,229,200,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1NVPTXTargetMachine64.html" title="llvm::NVPTXTargetMachine64" alt="" coords="224,229,419,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1LLVMTargetMachine.html" title="llvm::LLVMTargetMachine" alt="" coords="127,80,297,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetMachine.html" title="llvm::TargetMachine" alt="" coords="143,5,281,32"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structllvm_1_1integral__constant.html" title="llvm::integral_constant\l\&lt; T, v \&gt;" alt="" coords="5,1000,155,1041"/>
+<area shape="rect" id="node2" href="$structllvm_1_1is__error__code__enum.html" title="llvm::is_error_code\l_enum\&lt; Tp \&gt;" alt="" coords="227,5,355,47"/>
+<area shape="rect" id="node3" href="$structllvm_1_1is__error__code__enum_3_01object_1_1object__error_01_4.html" title="llvm::is_error_code\l_enum\&lt; object::object\l_error \&gt;" alt="" coords="217,70,365,126"/>
+<area shape="rect" id="node4" href="$structllvm_1_1is__error__code__enum_3_01object_1_1object__error_1_1Impl_01_4.html" title="llvm::is_error_code\l_enum\&lt; object::object\l_error::Impl \&gt;" alt="" coords="217,150,365,206"/>
+<area shape="rect" id="node5" href="$structllvm_1_1is__error__code__enum_3_01windows__error_01_4.html" title="llvm::is_error_code\l_enum\&lt; windows_error \&gt;" alt="" coords="209,229,373,271"/>
+<area shape="rect" id="node6" href="$structllvm_1_1is__error__code__enum_3_01windows__error_1_1___01_4.html" title="llvm::is_error_code\l_enum\&lt; windows_error::_ \&gt;" alt="" coords="203,295,380,336"/>
+<area shape="rect" id="node7" href="$structllvm_1_1is__error__condition__enum.html" title="llvm::is_error_condition\l_enum\&lt; Tp \&gt;" alt="" coords="215,360,367,401"/>
+<area shape="rect" id="node8" href="$structllvm_1_1is__error__condition__enum_3_01errc_01_4.html" title="llvm::is_error_condition\l_enum\&lt; errc \&gt;" alt="" coords="215,425,367,467"/>
+<area shape="rect" id="node9" href="$structllvm_1_1is__error__condition__enum_3_01errc_1_1___01_4.html" title="llvm::is_error_condition\l_enum\&lt; errc::_ \&gt;" alt="" coords="215,491,367,532"/>
+<area shape="rect" id="node10" href="$structllvm_1_1is__integral__impl.html" title="Helper to implement is_integral metafunction. " alt="" coords="206,557,377,583"/>
+<area shape="rect" id="node12" href="$structllvm_1_1is__integral__impl_3_01bool_01_4.html" title="llvm::is_integral_impl\l\&lt; bool \&gt;" alt="" coords="221,608,361,649"/>
+<area shape="rect" id="node13" href="$structllvm_1_1is__integral__impl_3_01char_01_4.html" title="llvm::is_integral_impl\l\&lt; char \&gt;" alt="" coords="221,673,361,715"/>
+<area shape="rect" id="node14" href="$structllvm_1_1is__integral__impl_3_01int_01_4.html" title="llvm::is_integral_impl\l\&lt; int \&gt;" alt="" coords="221,739,361,780"/>
+<area shape="rect" id="node15" href="$structllvm_1_1is__integral__impl_3_01long_01_4.html" title="llvm::is_integral_impl\l\&lt; long \&gt;" alt="" coords="221,804,361,845"/>
+<area shape="rect" id="node16" href="$structllvm_1_1is__integral__impl_3_01long_01long_01_4.html" title="llvm::is_integral_impl\l\&lt; long long \&gt;" alt="" coords="221,869,361,911"/>
+<area shape="rect" id="node17" href="$structllvm_1_1is__integral__impl_3_01short_01_4.html" title="llvm::is_integral_impl\l\&lt; short \&gt;" alt="" coords="221,935,361,976"/>
+<area shape="rect" id="node18" href="$structllvm_1_1is__integral__impl_3_01signed_01char_01_4.html" title="llvm::is_integral_impl\l\&lt; signed char \&gt;" alt="" coords="221,1000,361,1041"/>
+<area shape="rect" id="node19" href="$structllvm_1_1is__integral__impl_3_01unsigned_01char_01_4.html" title="llvm::is_integral_impl\l\&lt; unsigned char \&gt;" alt="" coords="221,1065,361,1107"/>
+<area shape="rect" id="node20" href="$structllvm_1_1is__integral__impl_3_01unsigned_01int_01_4.html" title="llvm::is_integral_impl\l\&lt; unsigned int \&gt;" alt="" coords="221,1131,361,1172"/>
+<area shape="rect" id="node21" href="$structllvm_1_1is__integral__impl_3_01unsigned_01long_01_4.html" title="llvm::is_integral_impl\l\&lt; unsigned long \&gt;" alt="" coords="221,1196,361,1237"/>
+<area shape="rect" id="node22" href="$structllvm_1_1is__integral__impl_3_01unsigned_01long_01long_01_4.html" title="llvm::is_integral_impl\l\&lt; unsigned long long \&gt;" alt="" coords="217,1261,366,1303"/>
+<area shape="rect" id="node23" href="$structllvm_1_1is__integral__impl_3_01unsigned_01short_01_4.html" title="llvm::is_integral_impl\l\&lt; unsigned short \&gt;" alt="" coords="221,1327,361,1368"/>
+<area shape="rect" id="node24" href="$structllvm_1_1is__integral__impl_3_01wchar__t_01_4.html" title="llvm::is_integral_impl\l\&lt; wchar_t \&gt;" alt="" coords="221,1392,361,1433"/>
+<area shape="rect" id="node25" href="$structllvm_1_1is__pointer.html" title="Metafunction that determines whether the given type is a pointer type. " alt="" coords="223,1458,359,1485"/>
+<area shape="rect" id="node26" href="$structllvm_1_1is__pointer_3_01T_01_5_01_4.html" title="llvm::is_pointer\&lt; T * \&gt;" alt="" coords="219,1509,363,1535"/>
+<area shape="rect" id="node27" href="$structllvm_1_1is__pointer_3_01T_01_5const_01_01_4.html" title="llvm::is_pointer\&lt; T\l *const &#160;\&gt;" alt="" coords="229,1560,354,1601"/>
+<area shape="rect" id="node28" href="$structllvm_1_1is__pointer_3_01T_01_5const_01volatile_01_4.html" title="llvm::is_pointer\&lt; T\l *const volatile \&gt;" alt="" coords="229,1625,354,1667"/>
+<area shape="rect" id="node29" href="$structllvm_1_1is__pointer_3_01T_01_5volatile_01_4.html" title="llvm::is_pointer\&lt; T\l *volatile \&gt;" alt="" coords="229,1691,354,1732"/>
+<area shape="rect" id="node30" href="$structllvm_1_1is__reference.html" title="Metafunction that determines wheather the given type is a reference. " alt="" coords="216,1757,367,1783"/>
+<area shape="rect" id="node31" href="$structllvm_1_1is__reference_3_01T_01_6_01_4.html" title="llvm::is_reference\l\&lt; T &amp; \&gt;" alt="" coords="231,1808,352,1849"/>
+<area shape="rect" id="node32" href="$structllvm_1_1is__same.html" title="Metafunction that determines whether the two given types are equivalent. " alt="" coords="219,1874,363,1901"/>
+<area shape="rect" id="node33" href="$structllvm_1_1is__same_3_01T_00_01T_01_4.html" title="llvm::is_same\&lt; T, T \&gt;" alt="" coords="220,1925,363,1951"/>
+<area shape="rect" id="node11" href="$structllvm_1_1is__integral.html" title="Metafunction that determines whether the given type is an integral type. " alt="" coords="428,557,567,583"/>
+</map>

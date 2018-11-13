@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1error__category.html" title="llvm::error_category" alt="" coords="5,46,139,73"/>
+<area shape="rect" id="node2" href="$classllvm_1_1__do__message.html" title="llvm::_do_message" alt="" coords="187,46,317,73"/>
+<area shape="rect" id="node3" href="$classllvm_1_1__generic__error__category.html" title="llvm::_generic_error\l_category" alt="" coords="365,5,499,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1__system__error__category.html" title="llvm::_system_error\l_category" alt="" coords="367,71,497,112"/>
+</map>

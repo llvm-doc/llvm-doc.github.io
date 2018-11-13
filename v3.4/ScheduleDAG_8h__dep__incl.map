@@ -1,0 +1,44 @@
+<map id="ScheduleDAG.h" name="ScheduleDAG.h">
+<area shape="rect" id="node2" href="$LatencyPriorityQueue_8h.html" title="LatencyPriorityQueue.h" alt="" coords="1105,80,1259,107"/>
+<area shape="rect" id="node9" href="$HexagonVLIWPacketizer_8cpp.html" title="HexagonVLIWPacketizer.cpp" alt="" coords="1439,155,1627,181"/>
+<area shape="rect" id="node10" href="$ResourcePriorityQueue_8h.html" title="ResourcePriorityQueue.h" alt="" coords="2419,80,2583,107"/>
+<area shape="rect" id="node15" href="$ScheduleDAGInstrs_8h.html" title="ScheduleDAGInstrs.h" alt="" coords="1909,80,2055,107"/>
+<area shape="rect" id="node25" href="$ScheduleDFS_8h.html" title="ScheduleDFS.h" alt="" coords="2799,80,2911,107"/>
+<area shape="rect" id="node26" href="$AntiDepBreaker_8h.html" title="AntiDepBreaker.h" alt="" coords="243,80,366,107"/>
+<area shape="rect" id="node27" href="$AggressiveAntiDepBreaker_8h.html" title="AggressiveAntiDepBreaker.h" alt="" coords="12,155,197,181"/>
+<area shape="rect" id="node29" href="$CriticalAntiDepBreaker_8h.html" title="CriticalAntiDepBreaker.h" alt="" coords="273,155,435,181"/>
+<area shape="rect" id="node31" href="$ScheduleDAG_8cpp.html" title="ScheduleDAG.cpp" alt="" coords="2935,80,3063,107"/>
+<area shape="rect" id="node32" href="$ScheduleDAGPrinter_8cpp.html" title="ScheduleDAGPrinter.cpp" alt="" coords="3088,80,3255,107"/>
+<area shape="rect" id="node33" href="$ScoreboardHazardRecognizer_8cpp.html" title="ScoreboardHazardRecognizer.cpp" alt="" coords="3279,80,3495,107"/>
+<area shape="rect" id="node34" href="$ScheduleDAGSDNodes_8h.html" title="ScheduleDAGSDNodes.h" alt="" coords="2607,80,2775,107"/>
+<area shape="rect" id="node41" href="$ARMHazardRecognizer_8cpp.html" title="ARMHazardRecognizer.cpp" alt="" coords="3519,80,3698,107"/>
+<area shape="rect" id="node42" href="$PPCHazardRecognizers_8cpp.html" title="PPCHazardRecognizers.cpp" alt="" coords="3723,80,3905,107"/>
+<area shape="rect" id="node43" href="$R600Packetizer_8cpp.html" title="R600Packetizer.cpp" alt="" coords="3929,80,4067,107"/>
+<area shape="rect" id="node3" href="$LatencyPriorityQueue_8cpp.html" title="LatencyPriorityQueue.cpp" alt="" coords="983,155,1152,181"/>
+<area shape="rect" id="node4" href="$PostRASchedulerList_8cpp.html" title="PostRASchedulerList.cpp" alt="" coords="250,229,418,256"/>
+<area shape="rect" id="node5" href="$ScheduleDAGVLIW_8cpp.html" title="ScheduleDAGVLIW.cpp" alt="" coords="2284,155,2443,181"/>
+<area shape="rect" id="node6" href="$HexagonExpandPredSpillCode_8cpp.html" title="HexagonExpandPredSpillCode.cpp" alt="" coords="511,155,731,181"/>
+<area shape="rect" id="node7" href="$HexagonSplitConst32AndConst64_8cpp.html" title="HexagonSplitConst32AndConst64.cpp" alt="" coords="1176,155,1415,181"/>
+<area shape="rect" id="node8" href="$HexagonSplitTFRCondSets_8cpp.html" title="HexagonSplitTFRCondSets.cpp" alt="" coords="755,155,958,181"/>
+<area shape="rect" id="node11" href="$ResourcePriorityQueue_8cpp.html" title="ResourcePriorityQueue.cpp" alt="" coords="2467,155,2646,181"/>
+<area shape="rect" id="node12" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="2151,229,2341,256"/>
+<area shape="rect" id="node13" href="$HexagonMachineScheduler_8cpp.html" title="HexagonMachineScheduler.cpp" alt="" coords="2122,304,2325,331"/>
+<area shape="rect" id="node14" href="$HexagonTargetMachine_8cpp.html" title="HexagonTargetMachine.cpp" alt="" coords="2349,304,2532,331"/>
+<area shape="rect" id="node16" href="$MachineScheduler_8h.html" title="MachineScheduler.h" alt="" coords="1913,155,2051,181"/>
+<area shape="rect" id="node22" href="$DFAPacketizer_8cpp.html" title="DFAPacketizer.cpp" alt="" coords="2075,155,2209,181"/>
+<area shape="rect" id="node23" href="$ScheduleDAGInstrs_8cpp.html" title="ScheduleDAGInstrs.cpp" alt="" coords="2721,155,2880,181"/>
+<area shape="rect" id="node24" href="$HexagonNewValueJump_8cpp.html" title="HexagonNewValueJump.cpp" alt="" coords="1703,155,1888,181"/>
+<area shape="rect" id="node17" href="$MachineScheduler_8cpp.html" title="MachineScheduler.cpp" alt="" coords="3172,229,3325,256"/>
+<area shape="rect" id="node18" href="$PPCSubtarget_8cpp.html" title="PPCSubtarget.cpp" alt="" coords="1756,229,1885,256"/>
+<area shape="rect" id="node19" href="$R600MachineScheduler_8h.html" title="R600 Machine Scheduler interface. " alt="" coords="1909,229,2079,256"/>
+<area shape="rect" id="node20" href="$AMDGPUTargetMachine_8cpp.html" title="The AMDGPU target machine contains all of the hardware specific information needed to emit code for R..." alt="" coords="1695,304,1885,331"/>
+<area shape="rect" id="node21" href="$R600MachineScheduler_8cpp.html" title="R600 Machine Scheduler interface. " alt="" coords="1909,304,2092,331"/>
+<area shape="rect" id="node28" href="$AggressiveAntiDepBreaker_8cpp.html" title="AggressiveAntiDepBreaker.cpp" alt="" coords="5,229,204,256"/>
+<area shape="rect" id="node30" href="$CriticalAntiDepBreaker_8cpp.html" title="CriticalAntiDepBreaker.cpp" alt="" coords="443,229,620,256"/>
+<area shape="rect" id="node35" href="$ScheduleDAGFast_8cpp.html" title="ScheduleDAGFast.cpp" alt="" coords="3468,155,3621,181"/>
+<area shape="rect" id="node36" href="$ScheduleDAGRRList_8cpp.html" title="ScheduleDAGRRList.cpp" alt="" coords="3645,155,3812,181"/>
+<area shape="rect" id="node37" href="$ScheduleDAGSDNodes_8cpp.html" title="ScheduleDAGSDNodes.cpp" alt="" coords="3836,155,4019,181"/>
+<area shape="rect" id="node38" href="$SelectionDAGDumper_8cpp.html" title="SelectionDAGDumper.cpp" alt="" coords="2905,155,3078,181"/>
+<area shape="rect" id="node39" href="$SelectionDAGISel_8cpp.html" title="SelectionDAGISel.cpp" alt="" coords="3103,155,3253,181"/>
+<area shape="rect" id="node40" href="$SelectionDAGPrinter_8cpp.html" title="SelectionDAGPrinter.cpp" alt="" coords="3277,155,3444,181"/>
+</map>

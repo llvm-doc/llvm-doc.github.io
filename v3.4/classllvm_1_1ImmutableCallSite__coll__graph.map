@@ -1,0 +1,7 @@
+<map id="llvm::ImmutableCallSite" name="llvm::ImmutableCallSite">
+<area shape="rect" id="node2" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\&lt;\&gt;" alt="" coords="868,48,1009,75"/>
+<area shape="rect" id="node3" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; const Instruction *,\l 1, bool \&gt;" alt="" coords="467,5,605,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; PointerTy, IntBits,\l IntType, PtrTraits \&gt;" alt="" coords="5,39,141,95"/>
+<area shape="rect" id="node6" href="$classllvm_1_1PointerIntPair.html" title="llvm::PointerIntPair\l\&lt; InstrTy *, 1, bool \&gt;" alt="" coords="307,79,443,121"/>
+<area shape="rect" id="node5" href="$classllvm_1_1CallSiteBase.html" title="llvm::CallSiteBase\l\&lt; FunTy, ValTy, UserTy,\l InstrTy, CallTy, InvokeTy,\l IterTy \&gt;" alt="" coords="629,79,800,150"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="llvm::MCDataAtom" name="llvm::MCDataAtom">
+<area shape="rect" id="node2" href="$classllvm_1_1MCAtom.html" title="Represents a contiguous range of either instructions (a TextAtom) or data (a DataAtom). Address ranges are expressed as closed intervals. " alt="" coords="19,5,121,32"/>
+</map>

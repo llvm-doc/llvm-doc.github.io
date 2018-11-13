@@ -1,0 +1,8 @@
+<map id="llvm::SpecialCaseList::Entry" name="llvm::SpecialCaseList::Entry">
+<area shape="rect" id="node2" href="$classllvm_1_1Regex.html" title="llvm::Regex" alt="" coords="5,409,92,436"/>
+<area shape="rect" id="node3" href="$classllvm_1_1StringSet.html" title="StringSet &#45; A wrapper for StringMap that provides set&#45;like functionality. " alt="" coords="117,409,309,436"/>
+<area shape="rect" id="node4" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; char,\l AllocatorTy \&gt;" alt="" coords="137,319,288,360"/>
+<area shape="rect" id="node5" href="$classllvm_1_1StringMapImpl.html" title="llvm::StringMapImpl" alt="" coords="120,139,255,165"/>
+<area shape="rect" id="node8" href="$classllvm_1_1StringMap.html" title="llvm::StringMap\&lt; ValueTy,\l AllocatorTy \&gt;" alt="" coords="209,215,379,256"/>
+<area shape="rect" id="node6" href="$classllvm_1_1StringMapEntryBase.html" title="StringMapEntryBase &#45; Shared base class of StringMapEntry instances. " alt="" coords="31,5,199,32"/>
+</map>

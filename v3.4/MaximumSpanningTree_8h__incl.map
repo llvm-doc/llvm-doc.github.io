@@ -1,0 +1,22 @@
+<map id="MaximumSpanningTree.h" name="MaximumSpanningTree.h">
+<area shape="rect" id="node2" href="$EquivalenceClasses_8h.html" title="llvm/ADT/EquivalenceClasses.h" alt="" coords="5,535,208,562"/>
+<area shape="rect" id="node6" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="1040,80,1181,107"/>
+<area shape="rect" id="node7" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1460,379,1583,405"/>
+<area shape="rect" id="node19" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="1141,453,1249,480"/>
+<area shape="rect" id="node21" href="$Instruction_8h.html" title="llvm/IR/Instruction.h" alt="" coords="672,155,808,181"/>
+<area shape="rect" id="node28" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="902,453,1117,480"/>
+<area shape="rect" id="node33" href="$SymbolTableListTraits_8h.html" title="llvm/IR/SymbolTableListTraits.h" alt="" coords="1148,155,1351,181"/>
+<area shape="rect" id="node8" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1366,535,1509,562"/>
+<area shape="rect" id="node16" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1273,453,1458,480"/>
+<area shape="rect" id="node9" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1123,617,1290,644"/>
+<area shape="rect" id="node17" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="629,535,787,562"/>
+<area shape="rect" id="node22" href="$ilist__node_8h.html" title="llvm/ADT/ilist_node.h" alt="" coords="499,229,642,256"/>
+<area shape="rect" id="node23" href="$User_8h.html" title="llvm/IR/User.h" alt="" coords="838,229,941,256"/>
+<area shape="rect" id="node31" href="$DebugLoc_8h.html" title="llvm/Support/DebugLoc.h" alt="" coords="299,304,466,331"/>
+<area shape="rect" id="node24" href="$Value_8h.html" title="llvm/IR/Value.h" alt="" coords="759,304,867,331"/>
+<area shape="rect" id="node25" href="$Use_8h.html" title="llvm/IR/Use.h" alt="" coords="713,379,812,405"/>
+<area shape="rect" id="node29" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="901,535,1051,562"/>
+<area shape="rect" id="node30" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="385,453,482,480"/>
+<area shape="rect" id="node26" href="$PointerIntPair_8h.html" title="llvm/ADT/PointerIntPair.h" alt="" coords="507,453,675,480"/>
+<area shape="rect" id="node27" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="391,528,553,569"/>
+</map>

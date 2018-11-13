@@ -1,0 +1,4 @@
+<map id="llvm::InstCombineIRInserter" name="llvm::InstCombineIRInserter">
+<area shape="rect" id="node2" href="$classllvm_1_1IRBuilderDefaultInserter.html" title="llvm::IRBuilderDefaultInserter\l\&lt; true \&gt;" alt="" coords="5,109,193,151"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IRBuilderDefaultInserter.html" title="This provides the default implementation of the IRBuilder &#39;InsertHelper&#39; method that is called whenev..." alt="" coords="5,5,193,47"/>
+</map>

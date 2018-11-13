@@ -1,0 +1,4 @@
+<map id="llvm::IntervalMap&lt; KeyT, ValT, N, Traits &gt;" name="llvm::IntervalMap&lt; KeyT, ValT, N, Traits &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1IntervalMap.html" title="llvm::IntervalMap\&lt;\l SlotIndex, LiveInterval * \&gt;" alt="" coords="368,5,539,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1IntervalMap.html" title="llvm::IntervalMap\&lt;\l SlotIndex, unsigned \&gt;" alt="" coords="379,71,527,112"/>
+</map>

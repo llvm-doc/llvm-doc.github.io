@@ -1,0 +1,44 @@
+<map id="HexagonMachineScheduler.cpp" name="HexagonMachineScheduler.cpp">
+<area shape="rect" id="node2" href="$HexagonMachineScheduler_8h.html" title="HexagonMachineScheduler.h" alt="" coords="1482,80,1671,107"/>
+<area shape="rect" id="node45" href="$MachineLoopInfo_8h.html" title="llvm/CodeGen/MachineLoop\lInfo.h" alt="" coords="2323,333,2507,375"/>
+<area shape="rect" id="node47" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="2693,162,2820,189"/>
+<area shape="rect" id="node3" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="957,512,1106,539"/>
+<area shape="rect" id="node7" href="$PriorityQueue_8h.html" title="llvm/ADT/PriorityQueue.h" alt="" coords="2133,162,2300,189"/>
+<area shape="rect" id="node10" href="$AliasAnalysis_8h.html" title="llvm/Analysis/AliasAnalysis.h" alt="" coords="1077,162,1263,189"/>
+<area shape="rect" id="node19" href="$LiveIntervalAnalysis_8h.html" title="llvm/CodeGen/LiveInterval\lAnalysis.h" alt="" coords="597,155,769,196"/>
+<area shape="rect" id="node29" href="$MachineScheduler_8h.html" title="llvm/CodeGen/MachineScheduler.h" alt="" coords="1614,162,1838,189"/>
+<area shape="rect" id="node31" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="3003,341,3161,367"/>
+<area shape="rect" id="node33" href="$CommandLine_8h.html" title="llvm/Support/CommandLine.h" alt="" coords="1613,430,1804,457"/>
+<area shape="rect" id="node34" href="$RegisterPressure_8h.html" title="llvm/CodeGen/RegisterPressure.h" alt="" coords="981,251,1196,278"/>
+<area shape="rect" id="node36" href="$ScheduleDAGInstrs_8h.html" title="llvm/CodeGen/ScheduleDAGInstrs.h" alt="" coords="1429,251,1660,278"/>
+<area shape="rect" id="node37" href="$RegisterClassInfo_8h.html" title="llvm/CodeGen/RegisterClass\lInfo.h" alt="" coords="1220,244,1405,285"/>
+<area shape="rect" id="node39" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="2713,512,2899,539"/>
+<area shape="rect" id="node40" href="$ResourcePriorityQueue_8h.html" title="llvm/CodeGen/ResourcePriority\lQueue.h" alt="" coords="372,155,573,196"/>
+<area shape="rect" id="node41" href="$TargetInstrInfo_8h.html" title="llvm/Target/TargetInstrInfo.h" alt="" coords="26,251,210,278"/>
+<area shape="rect" id="node42" href="$ScheduleHazardRecognizer_8h.html" title="llvm/CodeGen/ScheduleHazard\lRecognizer.h" alt="" coords="1287,155,1488,196"/>
+<area shape="rect" id="node43" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1964,162,2109,189"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1913,251,2094,278"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="2216,587,2375,613"/>
+<area shape="rect" id="node11" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="781,512,932,539"/>
+<area shape="rect" id="node13" href="$CallSite_8h.html" title="llvm/Support/CallSite.h" alt="" coords="1684,251,1837,278"/>
+<area shape="rect" id="node14" href="$Attributes_8h.html" title="This file contains the simple types necessary to represent the attributes associated with functions a..." alt="" coords="2169,341,2299,367"/>
+<area shape="rect" id="node18" href="$CallingConv_8h.html" title="llvm/IR/CallingConv.h" alt="" coords="1282,430,1426,457"/>
+<area shape="rect" id="node15" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1450,430,1589,457"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1181,512,1340,539"/>
+<area shape="rect" id="node20" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="480,341,639,367"/>
+<area shape="rect" id="node21" href="$LiveInterval_8h.html" title="llvm/CodeGen/LiveInterval.h" alt="" coords="285,251,468,278"/>
+<area shape="rect" id="node22" href="$SlotIndexes_8h.html" title="llvm/CodeGen/SlotIndexes.h" alt="" coords="765,341,949,367"/>
+<area shape="rect" id="node23" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="2439,423,2645,464"/>
+<area shape="rect" id="node25" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="379,512,537,539"/>
+<area shape="rect" id="node26" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="917,423,1105,464"/>
+<area shape="rect" id="node27" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="1125,333,1300,375"/>
+<area shape="rect" id="node24" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="2923,512,3009,539"/>
+<area shape="rect" id="node30" href="$MachinePassRegistry_8h.html" title="llvm/CodeGen/MachinePass\lRegistry.h" alt="" coords="2353,244,2537,285"/>
+<area shape="rect" id="node32" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="2858,430,3045,457"/>
+<area shape="rect" id="node35" href="$SparseSet_8h.html" title="llvm/ADT/SparseSet.h" alt="" coords="1325,341,1474,367"/>
+<area shape="rect" id="node38" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2115,430,2257,457"/>
+<area shape="rect" id="node46" href="$LoopInfo_8h.html" title="llvm/Analysis/LoopInfo.h" alt="" coords="1930,430,2090,457"/>
+<area shape="rect" id="node48" href="$Argument_8h.html" title="llvm/IR/Argument.h" alt="" coords="2561,251,2693,278"/>
+<area shape="rect" id="node49" href="$BasicBlock_8h.html" title="llvm/IR/BasicBlock.h" alt="" coords="2819,251,2961,278"/>
+<area shape="rect" id="node50" href="$GlobalValue_8h.html" title="llvm/IR/GlobalValue.h" alt="" coords="2985,251,3131,278"/>
+</map>

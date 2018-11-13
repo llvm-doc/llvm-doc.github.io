@@ -1,0 +1,51 @@
+<map id="ValueHandle.h" name="ValueHandle.h">
+<area shape="rect" id="node2" href="$ValueMap_8h.html" title="ValueMap.h" alt="" coords="1348,80,1437,107"/>
+<area shape="rect" id="node4" href="$ExecutionEngine_2ExecutionEngine_8h.html" title="ExecutionEngine.h" alt="" coords="222,155,349,181"/>
+<area shape="rect" id="node5" href="$ExecutionEngine_8cpp.html" title="ExecutionEngine.cpp" alt="" coords="202,229,343,256"/>
+<area shape="rect" id="node6" href="$lib_2ExecutionEngine_2JIT_2JIT_8h.html" title="JIT.h" alt="" coords="127,229,178,256"/>
+<area shape="rect" id="node7" href="$JITEmitter_8cpp.html" title="JITEmitter.cpp" alt="" coords="212,304,319,331"/>
+<area shape="rect" id="node8" href="$Cloning_8h.html" title="Cloning.h" alt="" coords="1400,229,1475,256"/>
+<area shape="rect" id="node13" href="$CodeGenPrepare_8cpp.html" title="CodeGenPrepare.cpp" alt="" coords="1710,155,1856,181"/>
+<area shape="rect" id="node14" href="$AliasSetTracker_8h.html" title="AliasSetTracker.h" alt="" coords="2769,80,2893,107"/>
+<area shape="rect" id="node15" href="$BBVectorize_8cpp.html" title="BBVectorize.cpp" alt="" coords="3006,155,3123,181"/>
+<area shape="rect" id="node16" href="$CallGraph_8h.html" title="CallGraph.h" alt="" coords="3121,80,3210,107"/>
+<area shape="rect" id="node17" href="$IVUsers_8h.html" title="IVUsers.h" alt="" coords="3198,155,3274,181"/>
+<area shape="rect" id="node18" href="$LoopStrengthReduce_8cpp.html" title="LoopStrengthReduce.cpp" alt="" coords="3054,229,3221,256"/>
+<area shape="rect" id="node19" href="$MemoryBuiltins_8h.html" title="MemoryBuiltins.h" alt="" coords="683,155,803,181"/>
+<area shape="rect" id="node20" href="$InstructionSimplify_8cpp.html" title="InstructionSimplify.cpp" alt="" coords="519,229,671,256"/>
+<area shape="rect" id="node21" href="$InstructionCombining_8cpp.html" title="InstructionCombining.cpp" alt="" coords="696,229,862,256"/>
+<area shape="rect" id="node22" href="$GlobalOpt_8cpp.html" title="GlobalOpt.cpp" alt="" coords="887,229,991,256"/>
+<area shape="rect" id="node23" href="$Local_8cpp.html" title="Local.cpp" alt="" coords="418,229,495,256"/>
+<area shape="rect" id="node24" href="$MemoryDependenceAnalysis_8h.html" title="MemoryDependenceAnalysis.h" alt="" coords="3286,80,3483,107"/>
+<area shape="rect" id="node25" href="$BasicBlockUtils_8cpp.html" title="BasicBlockUtils.cpp" alt="" coords="3350,155,3486,181"/>
+<area shape="rect" id="node26" href="$ScalarEvolution_8h.html" title="ScalarEvolution.h" alt="" coords="2624,80,2745,107"/>
+<area shape="rect" id="node27" href="$LoopVectorize_8cpp.html" title="LoopVectorize.cpp" alt="" coords="2460,229,2586,256"/>
+<area shape="rect" id="node28" href="$ScalarEvolutionExpander_8h.html" title="ScalarEvolutionExpander.h" alt="" coords="2756,155,2930,181"/>
+<area shape="rect" id="node29" href="$PPCCTRLoops_8cpp.html" title="PPCCTRLoops.cpp" alt="" coords="3246,229,3379,256"/>
+<area shape="rect" id="node30" href="$LexicalScopes_8h.html" title="LexicalScopes.h" alt="" coords="3507,80,3622,107"/>
+<area shape="rect" id="node31" href="$MachineModuleInfo_8h.html" title="MachineModuleInfo.h" alt="" coords="32,80,177,107"/>
+<area shape="rect" id="node32" href="$DwarfDebug_8cpp.html" title="DwarfDebug.cpp" alt="" coords="82,155,198,181"/>
+<area shape="rect" id="node33" href="$DIBuilder_8h.html" title="DIBuilder.h" alt="" coords="422,80,507,107"/>
+<area shape="rect" id="node34" href="$IRBuilder_8h.html" title="IRBuilder.h" alt="" coords="2202,80,2287,107"/>
+<area shape="rect" id="node35" href="$XCoreLowerThreadLocal_8cpp.html" title="This file contains a pass that lowers thread local variables on the XCore. " alt="" coords="2242,155,2428,181"/>
+<area shape="rect" id="node36" href="$MergeFunctions_8cpp.html" title="MergeFunctions.cpp" alt="" coords="2452,155,2591,181"/>
+<area shape="rect" id="node37" href="$Reassociate_8cpp.html" title="Reassociate.cpp" alt="" coords="2616,155,2732,181"/>
+<area shape="rect" id="node38" href="$SimplifyIndVar_8h.html" title="SimplifyIndVar.h" alt="" coords="3646,80,3760,107"/>
+<area shape="rect" id="node39" href="$SSAUpdaterImpl_8h.html" title="SSAUpdaterImpl.h" alt="" coords="3785,80,3914,107"/>
+<area shape="rect" id="node40" href="$LazyValueInfo_8cpp.html" title="LazyValueInfo.cpp" alt="" coords="3938,80,4065,107"/>
+<area shape="rect" id="node41" href="$LLParser_8h.html" title="LLParser.h" alt="" coords="4090,80,4172,107"/>
+<area shape="rect" id="node42" href="$BitcodeReader_8h.html" title="BitcodeReader.h" alt="" coords="4196,80,4314,107"/>
+<area shape="rect" id="node43" href="$EventListenerCommon_8h.html" title="EventListenerCommon.h" alt="" coords="4389,80,4550,107"/>
+<area shape="rect" id="node44" href="$IntelJITEventListener_8cpp.html" title="IntelJITEventListener.cpp" alt="" coords="4332,155,4498,181"/>
+<area shape="rect" id="node45" href="$LLVMContextImpl_8h.html" title="LLVMContextImpl.h" alt="" coords="4626,80,4761,107"/>
+<area shape="rect" id="node46" href="$Metadata_8cpp.html" title="Metadata.cpp" alt="" coords="4562,155,4662,181"/>
+<area shape="rect" id="node47" href="$Value_8cpp.html" title="Value.cpp" alt="" coords="4734,155,4813,181"/>
+<area shape="rect" id="node48" href="$DebugInfo_8cpp.html" title="DebugInfo.cpp" alt="" coords="4837,80,4942,107"/>
+<area shape="rect" id="node49" href="$JumpThreading_8cpp.html" title="JumpThreading.cpp" alt="" coords="4966,80,5101,107"/>
+<area shape="rect" id="node50" href="$TailRecursionElimination_8cpp.html" title="TailRecursionElimination.cpp" alt="" coords="5126,80,5312,107"/>
+<area shape="rect" id="node3" href="$StackProtector_8h.html" title="StackProtector.h" alt="" coords="1150,155,1269,181"/>
+<area shape="rect" id="node9" href="$ValueMapper_8h.html" title="ValueMapper.h" alt="" coords="1294,155,1400,181"/>
+<area shape="rect" id="node10" href="$MipsMachineFunction_8h.html" title="MipsMachineFunction.h" alt="" coords="1476,155,1634,181"/>
+<area shape="rect" id="node11" href="$NVPTXGenericToNVVM_8cpp.html" title="NVPTXGenericToNVVM.cpp" alt="" coords="1880,155,2065,181"/>
+<area shape="rect" id="node12" href="$AMDGPUISelDAGToDAG_8cpp.html" title="Defines an instruction selector for the AMDGPU target. " alt="" coords="928,155,1126,181"/>
+</map>

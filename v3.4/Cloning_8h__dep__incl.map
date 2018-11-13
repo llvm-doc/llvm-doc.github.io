@@ -1,0 +1,13 @@
+<map id="Cloning.h" name="Cloning.h">
+<area shape="rect" id="node2" href="$LinkModules_8cpp.html" title="LinkModules.cpp" alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$AddressSanitizer_8cpp.html" title="AddressSanitizer.cpp" alt="" coords="148,80,291,107"/>
+<area shape="rect" id="node4" href="$DebugIR_8cpp.html" title="DebugIR.cpp" alt="" coords="315,80,411,107"/>
+<area shape="rect" id="node5" href="$Inliner_8cpp.html" title="Inliner.cpp" alt="" coords="436,80,517,107"/>
+<area shape="rect" id="node6" href="$PartialInlining_8cpp.html" title="PartialInlining.cpp" alt="" coords="541,80,665,107"/>
+<area shape="rect" id="node7" href="$LoopUnswitch_8cpp.html" title="LoopUnswitch.cpp" alt="" coords="689,80,816,107"/>
+<area shape="rect" id="node8" href="$CloneFunction_8cpp.html" title="CloneFunction.cpp" alt="" coords="840,80,969,107"/>
+<area shape="rect" id="node9" href="$CloneModule_8cpp.html" title="CloneModule.cpp" alt="" coords="993,80,1115,107"/>
+<area shape="rect" id="node10" href="$InlineFunction_8cpp.html" title="InlineFunction.cpp" alt="" coords="1139,80,1265,107"/>
+<area shape="rect" id="node11" href="$LoopUnroll_8cpp.html" title="LoopUnroll.cpp" alt="" coords="1290,80,1397,107"/>
+<area shape="rect" id="node12" href="$LoopUnrollRuntime_8cpp.html" title="LoopUnrollRuntime.cpp" alt="" coords="1421,80,1575,107"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="LocalStackSlotAllocation.cpp" name="LocalStackSlotAllocation.cpp">
+<area shape="rect" id="node2" href="$CodeGen_2Passes_8h.html" title="llvm/CodeGen/Passes.h" alt="" coords="177,266,335,293"/>
+<area shape="rect" id="node3" href="$Pass_8h.html" title="llvm/Pass.h" alt="" coords="33,437,119,464"/>
+<area shape="rect" id="node7" href="$STLExtras_8h.html" title="llvm/ADT/STLExtras.h" alt="" coords="3339,355,3487,382"/>
+<area shape="rect" id="node13" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="966,266,1109,293"/>
+<area shape="rect" id="node18" href="$Statistic_8h.html" title="llvm/ADT/Statistic.h" alt="" coords="2300,87,2436,114"/>
+<area shape="rect" id="node21" href="$MachineFrameInfo_8h.html" title="llvm/CodeGen/MachineFrame\lInfo.h" alt="" coords="2374,348,2567,389"/>
+<area shape="rect" id="node23" href="$MachineFunction_8h.html" title="llvm/CodeGen/MachineFunction.h" alt="" coords="1300,266,1516,293"/>
+<area shape="rect" id="node30" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="491,437,677,464"/>
+<area shape="rect" id="node31" href="$MachineFunctionPass_8h.html" title="llvm/CodeGen/MachineFunction\lPass.h" alt="" coords="77,80,283,121"/>
+<area shape="rect" id="node32" href="$MachineRegisterInfo_8h.html" title="llvm/CodeGen/MachineRegister\lInfo.h" alt="" coords="2816,169,3019,211"/>
+<area shape="rect" id="node36" href="$TargetRegisterInfo_8h.html" title="llvm/Target/TargetRegister\lInfo.h" alt="" coords="2962,259,3137,300"/>
+<area shape="rect" id="node38" href="$Constants_8h.html" title="llvm/IR/Constants.h" alt="" coords="1669,87,1803,114"/>
+<area shape="rect" id="node43" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="2043,355,2197,382"/>
+<area shape="rect" id="node44" href="$Instructions_8h.html" title="llvm/IR/Instructions.h" alt="" coords="1133,266,1275,293"/>
+<area shape="rect" id="node45" href="$Intrinsics_8h.html" title="llvm/IR/Intrinsics.h" alt="" coords="763,266,890,293"/>
+<area shape="rect" id="node46" href="$LLVMContext_8h.html" title="llvm/IR/LLVMContext.h" alt="" coords="3645,87,3798,114"/>
+<area shape="rect" id="node47" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="2158,87,2277,114"/>
+<area shape="rect" id="node48" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="2545,87,2690,114"/>
+<area shape="rect" id="node49" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="2560,177,2741,203"/>
+<area shape="rect" id="node50" href="$TargetFrameLowering_8h.html" title="llvm/Target/TargetFrameLowering.h" alt="" coords="3161,266,3386,293"/>
+<area shape="rect" id="node5" href="$Target_2TargetMachine_8h.html" title="llvm/Target/TargetMachine.h" alt="" coords="245,355,432,382"/>
+<area shape="rect" id="node14" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="958,355,1117,382"/>
+<area shape="rect" id="node16" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="1334,437,1493,464"/>
+<area shape="rect" id="node19" href="$Atomic_8h.html" title="llvm/Support/Atomic.h" alt="" coords="2208,177,2357,203"/>
+<area shape="rect" id="node20" href="$Valgrind_8h.html" title="llvm/Support/Valgrind.h" alt="" coords="2381,177,2536,203"/>
+<area shape="rect" id="node24" href="$ilist_8h.html" title="llvm/ADT/ilist.h" alt="" coords="899,437,1007,464"/>
+<area shape="rect" id="node25" href="$MachineBasicBlock_8h.html" title="llvm/CodeGen/MachineBasic\lBlock.h" alt="" coords="2810,348,2998,389"/>
+<area shape="rect" id="node26" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1455,355,1614,382"/>
+<area shape="rect" id="node27" href="$ArrayRecycler_8h.html" title="llvm/Support/ArrayRecycler.h" alt="" coords="1243,355,1431,382"/>
+<area shape="rect" id="node28" href="$DebugLoc_8h.html" title="llvm/Support/DebugLoc.h" alt="" coords="1638,355,1805,382"/>
+<area shape="rect" id="node29" href="$Recycler_8h.html" title="llvm/Support/Recycler.h" alt="" coords="673,355,831,382"/>
+<area shape="rect" id="node33" href="$BitVector_8h.html" title="llvm/ADT/BitVector.h" alt="" coords="2591,355,2734,382"/>
+<area shape="rect" id="node34" href="$IndexedMap_8h.html" title="llvm/ADT/IndexedMap.h" alt="" coords="3410,266,3569,293"/>
+<area shape="rect" id="node35" href="$MachineInstrBundle_8h.html" title="llvm/CodeGen/MachineInstr\lBundle.h" alt="" coords="2756,259,2937,300"/>
+<area shape="rect" id="node37" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="1880,355,2019,382"/>
+<area shape="rect" id="node39" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1461,177,1597,203"/>
+<area shape="rect" id="node40" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="1540,266,1663,293"/>
+<area shape="rect" id="node41" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="1774,177,1901,203"/>
+<area shape="rect" id="node42" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="1925,177,2083,203"/>
+</map>

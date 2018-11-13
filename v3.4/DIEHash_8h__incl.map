@@ -1,0 +1,19 @@
+<map id="DIEHash.h" name="DIEHash.h">
+<area shape="rect" id="node2" href="$DIE_8h.html" title="DIE.h" alt="" coords="804,80,857,107"/>
+<area shape="rect" id="node25" href="$DenseMap_8h.html" title="llvm/ADT/DenseMap.h" alt="" coords="1237,229,1387,256"/>
+<area shape="rect" id="node32" href="$MD5_8h.html" title="llvm/Support/MD5.h" alt="" coords="446,80,581,107"/>
+<area shape="rect" id="node3" href="$FoldingSet_8h.html" title="llvm/ADT/FoldingSet.h" alt="" coords="261,155,411,181"/>
+<area shape="rect" id="node4" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="754,229,913,256"/>
+<area shape="rect" id="node6" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="1843,386,2002,413"/>
+<area shape="rect" id="node23" href="$Dwarf_8h.html" title="llvm/Support/Dwarf.h" alt="" coords="1900,304,2041,331"/>
+<area shape="rect" id="node24" href="$MCExpr_8h.html" title="llvm/MC/MCExpr.h" alt="" coords="616,155,744,181"/>
+<area shape="rect" id="node21" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="265,229,407,256"/>
+<area shape="rect" id="node5" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="1725,304,1875,331"/>
+<area shape="rect" id="node9" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1325,304,1497,331"/>
+<area shape="rect" id="node13" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1090,386,1257,413"/>
+<area shape="rect" id="node10" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="1331,386,1530,413"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title="llvm/Support/Casting.h" alt="" coords="431,229,582,256"/>
+<area shape="rect" id="node26" href="$DenseMapInfo_8h.html" title="llvm/ADT/DenseMapInfo.h" alt="" coords="1129,304,1301,331"/>
+<area shape="rect" id="node27" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="903,379,1065,420"/>
+<area shape="rect" id="node33" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="435,155,591,181"/>
+</map>

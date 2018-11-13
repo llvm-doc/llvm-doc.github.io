@@ -1,0 +1,6 @@
+<map id="ARMGenRegisterInfo" name="ARMGenRegisterInfo">
+<area shape="rect" id="node2" href="$classllvm_1_1ARMBaseRegisterInfo.html" title="llvm::ARMBaseRegisterInfo" alt="" coords="173,80,352,107"/>
+<area shape="rect" id="node3" href="$structllvm_1_1ARMRegisterInfo.html" title="llvm::ARMRegisterInfo" alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node4" href="$structllvm_1_1Thumb1RegisterInfo.html" title="llvm::Thumb1RegisterInfo" alt="" coords="179,155,346,181"/>
+<area shape="rect" id="node5" href="$structllvm_1_1Thumb2RegisterInfo.html" title="llvm::Thumb2RegisterInfo" alt="" coords="370,155,537,181"/>
+</map>

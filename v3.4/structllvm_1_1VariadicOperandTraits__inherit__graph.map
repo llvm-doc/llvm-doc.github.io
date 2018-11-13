@@ -1,0 +1,22 @@
+<map id="llvm::VariadicOperandTraits&lt; SubClass, MINARITY &gt;" name="llvm::VariadicOperandTraits&lt; SubClass, MINARITY &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; ConstantArray \&gt;" alt="" coords="453,10,632,51"/>
+<area shape="rect" id="node4" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; GetElementPtrConstantExpr, 1 \&gt;" alt="" coords="433,75,652,117"/>
+<area shape="rect" id="node6" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; BranchInst, 1 \&gt;" alt="" coords="453,141,632,182"/>
+<area shape="rect" id="node8" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; GetElementPtrInst, 1 \&gt;" alt="" coords="453,206,632,247"/>
+<area shape="rect" id="node10" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; ConstantVector \&gt;" alt="" coords="453,271,632,313"/>
+<area shape="rect" id="node12" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; ReturnInst \&gt;" alt="" coords="453,337,632,378"/>
+<area shape="rect" id="node14" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; InvokeInst, 3 \&gt;" alt="" coords="453,402,632,443"/>
+<area shape="rect" id="node16" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; ConstantExpr, 1 \&gt;" alt="" coords="453,467,632,509"/>
+<area shape="rect" id="node18" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; ConstantStruct \&gt;" alt="" coords="453,533,632,574"/>
+<area shape="rect" id="node20" href="$structllvm_1_1VariadicOperandTraits.html" title="llvm::VariadicOperandTraits\l\&lt; CallInst, 1 \&gt;" alt="" coords="453,598,632,639"/>
+<area shape="rect" id="node3" href="$structllvm_1_1OperandTraits_3_01ConstantArray_01_4.html" title="llvm::OperandTraits\l\&lt; ConstantArray \&gt;" alt="" coords="738,10,870,51"/>
+<area shape="rect" id="node5" href="$structllvm_1_1OperandTraits_3_01GetElementPtrConstantExpr_01_4.html" title="llvm::OperandTraits\l\&lt; GetElementPtrConstantExpr \&gt;" alt="" coords="701,75,907,117"/>
+<area shape="rect" id="node7" href="$structllvm_1_1OperandTraits_3_01BranchInst_01_4.html" title="llvm::OperandTraits\l\&lt; BranchInst \&gt;" alt="" coords="738,141,870,182"/>
+<area shape="rect" id="node9" href="$structllvm_1_1OperandTraits_3_01GetElementPtrInst_01_4.html" title="llvm::OperandTraits\l\&lt; GetElementPtrInst \&gt;" alt="" coords="729,206,879,247"/>
+<area shape="rect" id="node11" href="$structllvm_1_1OperandTraits_3_01ConstantVector_01_4.html" title="llvm::OperandTraits\l\&lt; ConstantVector \&gt;" alt="" coords="738,271,870,313"/>
+<area shape="rect" id="node13" href="$structllvm_1_1OperandTraits_3_01ReturnInst_01_4.html" title="llvm::OperandTraits\l\&lt; ReturnInst \&gt;" alt="" coords="738,337,870,378"/>
+<area shape="rect" id="node15" href="$structllvm_1_1OperandTraits_3_01InvokeInst_01_4.html" title="llvm::OperandTraits\l\&lt; InvokeInst \&gt;" alt="" coords="738,402,870,443"/>
+<area shape="rect" id="node17" href="$structllvm_1_1OperandTraits_3_01ConstantExpr_01_4.html" title="llvm::OperandTraits\l\&lt; ConstantExpr \&gt;" alt="" coords="738,467,870,509"/>
+<area shape="rect" id="node19" href="$structllvm_1_1OperandTraits_3_01ConstantStruct_01_4.html" title="llvm::OperandTraits\l\&lt; ConstantStruct \&gt;" alt="" coords="738,533,870,574"/>
+<area shape="rect" id="node21" href="$structllvm_1_1OperandTraits_3_01CallInst_01_4.html" title="llvm::OperandTraits\l\&lt; CallInst \&gt;" alt="" coords="738,598,870,639"/>
+</map>

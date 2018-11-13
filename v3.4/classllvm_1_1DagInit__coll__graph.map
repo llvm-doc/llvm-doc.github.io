@@ -1,0 +1,5 @@
+<map id="llvm::DagInit" name="llvm::DagInit">
+<area shape="rect" id="node2" href="$classllvm_1_1TypedInit.html" title="llvm::TypedInit" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1Init.html" title="llvm::Init" alt="" coords="23,5,92,32"/>
+<area shape="rect" id="node4" href="$classllvm_1_1FoldingSetImpl_1_1Node.html" title="FoldingSetNode" alt="" coords="133,80,248,107"/>
+</map>

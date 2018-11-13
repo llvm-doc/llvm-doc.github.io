@@ -1,0 +1,20 @@
+<map id="AMDGPUMachineFunction.h" name="AMDGPUMachineFunction.h">
+<area shape="rect" id="node2" href="$R600MachineFunctionInfo_8h.html" title="R600MachineFunctionInfo.h" alt="" coords="1622,80,1805,107"/>
+<area shape="rect" id="node14" href="$SIMachineFunctionInfo_8h.html" title="SIMachineFunctionInfo.h" alt="" coords="531,80,698,107"/>
+<area shape="rect" id="node19" href="$AMDGPUMachineFunction_8cpp.html" title="AMDGPUMachineFunction.cpp" alt="" coords="1829,80,2032,107"/>
+<area shape="rect" id="node3" href="$AMDGPUAsmPrinter_8cpp.html" title="AMDGPUAsmPrinter.cpp" alt="" coords="902,155,1069,181"/>
+<area shape="rect" id="node4" href="$AMDGPUFrameLowering_8cpp.html" title="AMDGPUFrameLowering.cpp" alt="" coords="1093,155,1283,181"/>
+<area shape="rect" id="node5" href="$AMDGPUISelLowering_8cpp.html" title="This is the parent TargetLowering class for hardware code gen targets. " alt="" coords="701,155,878,181"/>
+<area shape="rect" id="node6" href="$R600ClauseMergePass_8cpp.html" title="R600ClauseMergePass.cpp" alt="" coords="1308,155,1487,181"/>
+<area shape="rect" id="node7" href="$R600ControlFlowFinalizer_8cpp.html" title="R600ControlFlowFinalizer.cpp" alt="" coords="1511,155,1703,181"/>
+<area shape="rect" id="node8" href="$R600EmitClauseMarkers_8cpp.html" title="R600EmitClauseMarkers.cpp" alt="" coords="1727,155,1913,181"/>
+<area shape="rect" id="node9" href="$R600ExpandSpecialInstrs_8cpp.html" title="R600ExpandSpecialInstrs.cpp" alt="" coords="1937,155,2129,181"/>
+<area shape="rect" id="node10" href="$R600InstrInfo_8cpp.html" title="R600 Implementation of TargetInstrInfo. " alt="" coords="2153,155,2276,181"/>
+<area shape="rect" id="node11" href="$R600ISelLowering_8cpp.html" title="Custom DAG lowering for R600. " alt="" coords="2301,155,2451,181"/>
+<area shape="rect" id="node12" href="$R600MachineFunctionInfo_8cpp.html" title="R600MachineFunctionInfo.cpp" alt="" coords="2476,155,2673,181"/>
+<area shape="rect" id="node13" href="$R600RegisterInfo_8cpp.html" title="R600 implementation of the TargetRegisterInfo class. " alt="" coords="2698,155,2843,181"/>
+<area shape="rect" id="node15" href="$SIInsertWaits_8cpp.html" title="Insert wait instructions for memory reads and writes. " alt="" coords="553,155,676,181"/>
+<area shape="rect" id="node16" href="$SIISelLowering_8cpp.html" title="Custom DAG lowering for SI. " alt="" coords="5,155,139,181"/>
+<area shape="rect" id="node17" href="$SILowerControlFlow_8cpp.html" title="This pass lowers the pseudo control flow instructions to real machine instructions. " alt="" coords="163,155,325,181"/>
+<area shape="rect" id="node18" href="$SIMachineFunctionInfo_8cpp.html" title="SIMachineFunctionInfo.cpp" alt="" coords="349,155,529,181"/>
+</map>

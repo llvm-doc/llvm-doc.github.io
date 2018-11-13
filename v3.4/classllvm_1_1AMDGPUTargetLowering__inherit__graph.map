@@ -1,0 +1,6 @@
+<map id="llvm::AMDGPUTargetLowering" name="llvm::AMDGPUTargetLowering">
+<area shape="rect" id="node4" href="$classllvm_1_1R600TargetLowering.html" title="llvm::R600TargetLowering" alt="" coords="5,229,175,256"/>
+<area shape="rect" id="node5" href="$classllvm_1_1SITargetLowering.html" title="llvm::SITargetLowering" alt="" coords="199,229,351,256"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TargetLowering.html" title="llvm::TargetLowering" alt="" coords="113,80,251,107"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TargetLoweringBase.html" title="llvm::TargetLoweringBase" alt="" coords="98,5,266,32"/>
+</map>

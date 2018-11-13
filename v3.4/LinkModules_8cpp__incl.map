@@ -1,0 +1,40 @@
+<map id="LinkModules.cpp" name="LinkModules.cpp">
+<area shape="rect" id="node2" href="$Linker_8h.html" title="llvm/Linker.h" alt="" coords="1863,326,1957,353"/>
+<area shape="rect" id="node13" href="$c_2Linker_8h.html" title="llvm&#45;c/Linker.h" alt="" coords="2235,80,2340,107"/>
+<area shape="rect" id="node15" href="$Optional_8h.html" title="llvm/ADT/Optional.h" alt="" coords="49,408,187,435"/>
+<area shape="rect" id="node18" href="$SetVector_8h.html" title="llvm/ADT/SetVector.h" alt="" coords="311,237,458,263"/>
+<area shape="rect" id="node24" href="$SmallString_8h.html" title="llvm/ADT/SmallString.h" alt="" coords="695,326,851,353"/>
+<area shape="rect" id="node26" href="$Constants_8h.html" title="llvm/IR/Constants.h" alt="" coords="1035,80,1169,107"/>
+<area shape="rect" id="node33" href="$Module_8h.html" title="llvm/IR/Module.h" alt="" coords="1613,155,1732,181"/>
+<area shape="rect" id="node41" href="$TypeFinder_8h.html" title="llvm/IR/TypeFinder.h" alt="" coords="1484,80,1624,107"/>
+<area shape="rect" id="node43" href="$Debug_8h.html" title="llvm/Support/Debug.h" alt="" coords="1263,80,1408,107"/>
+<area shape="rect" id="node44" href="$raw__ostream_8h.html" title="llvm/Support/raw_ostream.h" alt="" coords="1245,155,1426,181"/>
+<area shape="rect" id="node46" href="$Cloning_8h.html" title="llvm/Transforms/Utils\l/Cloning.h" alt="" coords="2235,229,2377,271"/>
+<area shape="rect" id="node3" href="$SmallPtrSet_8h.html" title="llvm/ADT/SmallPtrSet.h" alt="" coords="1184,408,1343,435"/>
+<area shape="rect" id="node4" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="991,572,1149,599"/>
+<area shape="rect" id="node7" href="$PointerLikeTypeTraits_8h.html" title="llvm/Support/PointerLike\lTypeTraits.h" alt="" coords="1209,483,1371,524"/>
+<area shape="rect" id="node14" href="$Core_8h.html" title="llvm&#45;c/Core.h" alt="" coords="2404,155,2501,181"/>
+<area shape="rect" id="node16" href="$None_8h.html" title="llvm/ADT/None.h" alt="" coords="5,490,124,517"/>
+<area shape="rect" id="node17" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="271,490,421,517"/>
+<area shape="rect" id="node19" href="$SmallSet_8h.html" title="llvm/ADT/SmallSet.h" alt="" coords="313,326,456,353"/>
+<area shape="rect" id="node20" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="376,408,535,435"/>
+<area shape="rect" id="node25" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="743,408,885,435"/>
+<area shape="rect" id="node27" href="$APFloat_8h.html" title="This file declares a class to represent arbitrary precision floating point values and provide a varie..." alt="" coords="1034,155,1170,181"/>
+<area shape="rect" id="node28" href="$APInt_8h.html" title="This file implements a class to represent arbitrary precision integral constant values and operations..." alt="" coords="929,237,1051,263"/>
+<area shape="rect" id="node29" href="$ArrayRef_8h.html" title="llvm/ADT/ArrayRef.h" alt="" coords="531,326,670,353"/>
+<area shape="rect" id="node30" href="$Constant_8h.html" title="llvm/IR/Constant.h" alt="" coords="883,155,1009,181"/>
+<area shape="rect" id="node31" href="$OperandTraits_8h.html" title="llvm/IR/OperandTraits.h" alt="" coords="1681,326,1838,353"/>
+<area shape="rect" id="node32" href="$DerivedTypes_8h.html" title="llvm/IR/DerivedTypes.h" alt="" coords="1904,490,2057,517"/>
+<area shape="rect" id="node34" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="909,408,1058,435"/>
+<area shape="rect" id="node35" href="$Function_8h.html" title="llvm/IR/Function.h" alt="" coords="1981,326,2108,353"/>
+<area shape="rect" id="node36" href="$GlobalAlias_8h.html" title="llvm/IR/GlobalAlias.h" alt="" coords="1442,237,1583,263"/>
+<area shape="rect" id="node38" href="$GlobalVariable_8h.html" title="llvm/IR/GlobalVariable.h" alt="" coords="1608,237,1767,263"/>
+<area shape="rect" id="node39" href="$Metadata_8h.html" title="llvm/IR/Metadata.h" alt="" coords="626,237,757,263"/>
+<area shape="rect" id="node40" href="$CBindingWrapping_8h.html" title="llvm/Support/CBindingWrapping.h" alt="" coords="1843,237,2057,263"/>
+<area shape="rect" id="node37" href="$Twine_8h.html" title="llvm/ADT/Twine.h" alt="" coords="1534,326,1657,353"/>
+<area shape="rect" id="node42" href="$DenseSet_8h.html" title="llvm/ADT/DenseSet.h" alt="" coords="1963,155,2108,181"/>
+<area shape="rect" id="node45" href="$FileSystem_8h.html" title="llvm/Support/FileSystem.h" alt="" coords="1245,237,1417,263"/>
+<area shape="rect" id="node47" href="$ValueMap_8h.html" title="llvm/ADT/ValueMap.h" alt="" coords="2257,408,2403,435"/>
+<area shape="rect" id="node48" href="$ValueHandle_8h.html" title="llvm/Support/ValueHandle.h" alt="" coords="2269,490,2449,517"/>
+<area shape="rect" id="node49" href="$ValueMapper_8h.html" title="llvm/Transforms/Utils\l/ValueMapper.h" alt="" coords="2235,319,2377,360"/>
+</map>

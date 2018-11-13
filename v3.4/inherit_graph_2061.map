@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classllvm_1_1TypeBuilder.html" title="llvm::TypeBuilder\&lt;\l types::i\&lt; 8 \&gt; *, false \&gt;" alt="" coords="5,113,152,155"/>
+<area shape="rect" id="node2" href="$classllvm_1_1TypeBuilder_3_01const_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l const void *, false \&gt;" alt="" coords="205,5,339,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1TypeBuilder_3_01const_01volatile_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l const volatile void\l *, false \&gt;" alt="" coords="209,70,335,126"/>
+<area shape="rect" id="node4" href="$classllvm_1_1TypeBuilder_3_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l void *, false \&gt;" alt="" coords="209,149,335,191"/>
+<area shape="rect" id="node5" href="$classllvm_1_1TypeBuilder_3_01volatile_01void_01_5_00_01false_01_4.html" title="llvm::TypeBuilder\&lt;\l volatile void *, false \&gt;" alt="" coords="200,215,344,256"/>
+</map>

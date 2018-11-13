@@ -1,0 +1,19 @@
+<map id="BitstreamReader.h" name="BitstreamReader.h">
+<area shape="rect" id="node2" href="$OwningPtr_8h.html" title="llvm/ADT/OwningPtr.h" alt="" coords="228,319,377,345"/>
+<area shape="rect" id="node7" href="$BitCodes_8h.html" title="llvm/Bitcode/BitCodes.h" alt="" coords="634,155,793,181"/>
+<area shape="rect" id="node24" href="$Endian_8h.html" title="llvm/Support/Endian.h" alt="" coords="931,80,1077,107"/>
+<area shape="rect" id="node29" href="$StreamableMemoryObject_8h.html" title="llvm/Support/StreamableMemory\lObject.h" alt="" coords="197,229,408,271"/>
+<area shape="rect" id="node3" href="$Compiler_8h.html" title="llvm/Support/Compiler.h" alt="" coords="261,468,419,495"/>
+<area shape="rect" id="node8" href="$SmallVector_8h.html" title="llvm/ADT/SmallVector.h" alt="" coords="869,319,1027,345"/>
+<area shape="rect" id="node21" href="$ErrorHandling_8h.html" title="llvm/Support/ErrorHandling.h" alt="" coords="1202,237,1387,263"/>
+<area shape="rect" id="node9" href="$AlignOf_8h.html" title="llvm/Support/AlignOf.h" alt="" coords="667,393,818,420"/>
+<area shape="rect" id="node10" href="$MathExtras_8h.html" title="llvm/Support/MathExtras.h" alt="" coords="1170,393,1342,420"/>
+<area shape="rect" id="node14" href="$type__traits_8h.html" title="llvm/Support/type_traits.h" alt="" coords="1443,468,1610,495"/>
+<area shape="rect" id="node11" href="$SwapByteOrder_8h.html" title="llvm/Support/SwapByteOrder.h" alt="" coords="950,468,1149,495"/>
+<area shape="rect" id="node22" href="$StringRef_8h.html" title="llvm/ADT/StringRef.h" alt="" coords="1314,319,1457,345"/>
+<area shape="rect" id="node25" href="$Host_8h.html" title="llvm/Support/Host.h" alt="" coords="1494,155,1629,181"/>
+<area shape="rect" id="node26" href="$StringMap_8h.html" title="llvm/ADT/StringMap.h" alt="" coords="1411,237,1559,263"/>
+<area shape="rect" id="node27" href="$Allocator_8h.html" title="llvm/Support/Allocator.h" alt="" coords="1074,319,1233,345"/>
+<area shape="rect" id="node30" href="$DataStream_8h.html" title="llvm/Support/DataStream.h" alt="" coords="1481,319,1658,345"/>
+<area shape="rect" id="node31" href="$MemoryObject_8h.html" title="llvm/Support/MemoryObject.h" alt="" coords="44,468,236,495"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="llvm::object::ELFObjectFile&lt; ELFT &gt;" name="llvm::object::ELFObjectFile&lt; ELFT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1object_1_1ObjectFile.html" title="llvm::object::ObjectFile" alt="" coords="5,171,156,197"/>
+<area shape="rect" id="node3" href="$classllvm_1_1object_1_1Binary.html" title="llvm::object::Binary" alt="" coords="17,95,145,121"/>
+<area shape="rect" id="node4" href="$classllvm_1_1MemoryBuffer.html" title="llvm::MemoryBuffer" alt="" coords="15,5,146,32"/>
+</map>

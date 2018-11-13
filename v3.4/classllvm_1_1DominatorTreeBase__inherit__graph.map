@@ -1,0 +1,5 @@
+<map id="llvm::DominatorTreeBase&lt; NodeT &gt;" name="llvm::DominatorTreeBase&lt; NodeT &gt;">
+<area shape="rect" id="node3" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::BasicBlock \&gt;" alt="" coords="587,5,752,47"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DominatorTreeBase.html" title="llvm::DominatorTreeBase\l\&lt; llvm::MachineBasicBlock \&gt;" alt="" coords="576,71,763,112"/>
+<area shape="rect" id="node2" href="$classllvm_1_1DominatorBase.html" title="llvm::DominatorBase\l\&lt; NodeT \&gt;" alt="" coords="5,39,144,80"/>
+</map>
